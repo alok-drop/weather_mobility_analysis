@@ -1,0 +1,1056 @@
+Report Date,Route,Time,Day,Location,Incident,Min Delay,Min Gap,Direction,Vehicle
+2017-04-01,501,00:53:00,Saturday,Queen and River,Mechanical,10,20,E/B,4235
+2017-04-01,512,02:41:00,Saturday,Dundas St. West and Brock St.,Held By,1,1,W/B,4143
+2017-04-01,304,03:28:00,Saturday,King St. West and John St.,Held By,35,65,E/B,4036
+2017-04-01,301,03:39:00,Saturday,Queen and Spadina,Held By,10,40,E/B,4051
+2017-04-01,501,05:17:00,Saturday,Roncesvalles Yard,Mechanical,9,18,E/B,4015
+2017-04-01,504,06:48:00,Saturday,Broadview Station,Mechanical,10,20,W/B,4096
+2017-04-01,512,08:22:00,Saturday,Dundas,Investigation,5,10,N/B,4051
+2017-04-01,501,08:25:00,Saturday,Russell Yard,Mechanical,6,12,W/B,4089
+2017-04-01,512,08:29:00,Saturday,Dundas,Investigation,5,10,N/B,4167
+2017-04-01,501,09:00:00,Saturday,Russell Yard,Mechanical,6,12,E/B,4244
+2017-04-01,501,09:12:00,Saturday,Mt Dennis Garage,Mechanical,6,12,W/B,1418
+2017-04-01,501,09:34:00,Saturday,Roncesvalles Yard,Mechanical,6,12,E/B,4242
+2017-04-01,501,09:38:00,Saturday,Russell Yard,Mechanical,6,12,E/B,4215
+2017-04-01,506,09:44:00,Saturday,Coxwell Loop,Mechanical,6,12,B/W,4105
+2017-04-01,501,11:20:00,Saturday,Spadina and King St,Investigation,6,12,S/B,4245
+2017-04-01,510,11:25:00,Saturday,spadina/king,Held By,10,14,B/W,4418
+2017-04-01,504,11:29:00,Saturday,King and Spadina,Held By,7,13,B/W,4195
+2017-04-01,501,12:15:00,Saturday,Church and Queen,Mechanical,6,12,E/B,4218
+2017-04-01,511,12:20:00,Saturday,Dundas,Utilized Off Route,7,14,N/B,8343
+2017-04-01,504,12:49:00,Saturday,Queen & Broadview,Mechanical,5,10,E/B,4146
+2017-04-01,506,13:07:00,Saturday,Carlton and Parliament,Investigation,70,76,B/W,4192
+2017-04-01,511,13:45:00,Saturday,fleet/strachan,Investigation,1,1,S/B,1393
+2017-04-01,509,14:05:00,Saturday,CNE,Mechanical,7,14,E/B,4424
+2017-04-01,505,16:20:00,Saturday,Howard Pk Ave,Mechanical,5,10,W/B,4173
+2017-04-01,506,16:30:00,Saturday,HIGH PARK LOOP,Mechanical,6,13,E/B,4103
+2017-04-01,510,16:55:00,Saturday,Dundas,Mechanical,5,10,S/B,4426
+2017-04-01,509,17:22:00,Saturday,CNE LOOP,Mechanical,10,16,E/B,4424
+2017-04-01,501,19:14:00,Saturday,Queen and Spadina,Investigation,5,10,E/B,4243
+2017-04-01,501,19:38:00,Saturday,Long Branch Loop,Emergency Services,10,20,E/B,1563
+2017-04-01,504,21:00:00,Saturday,Broadview Station Loop to Dundas West Station,General Delay,16,10,B/W,
+2017-04-01,514,21:00:00,Saturday,Dufferin Loop to Queen/Broadview,General Delay,16,20,B/W,
+2017-04-01,505,21:19:00,Saturday,Broadview Station,Mechanical,8,16,S/B,4087
+2017-04-01,505,23:10:00,Saturday,Church,Mechanical,8,18,W/B,4049
+2017-04-02,301,03:47:00,Sunday,York north of king,Held By,5,35,W/B,4222
+2017-04-02,504,05:44:00,Sunday,Roncesvalles and King,Mechanical,17,26,W/B,4016
+2017-04-02,504,09:04:00,Sunday,King and Roncesvalles,Mechanical,7,14,W/B,4104
+2017-04-02,501,09:45:00,Sunday,Connaught to Neville Loop,General Delay,18,24,E/B,
+2017-04-02,501,11:15:00,Sunday,Dufferin Loop,Mechanical,6,12,E/B,7933
+2017-04-02,501,11:42:00,Sunday,Mt Dennis Garage,Mechanical,6,12,E/B,1569
+2017-04-02,501,11:45:00,Sunday,Queen and University,Held By,20,26,W/B,4220
+2017-04-02,514,11:51:00,Sunday,King and Bathurst,Mechanical,0,0,E/B,4407
+2017-04-02,514,12:50:00,Sunday,King & Bay,Investigation,14,28,W/B,4411
+2017-04-02,512,13:42:00,Sunday,St.Clair West,Mechanical,6,12,E/B,4034
+2017-04-02,512,14:04:00,Sunday,St. Clair West Station,Mechanical,6,11,W/B,4075
+2017-04-02,501,14:08:00,Sunday,Kipling and Lakeshore,Mechanical,5,10,E/B,1609
+2017-04-02,501,14:14:00,Sunday,Queen and Spadina,Investigation,6,12,E/B,4218
+2017-04-02,501,14:25:00,Sunday,Queen and Spadina,Investigation,6,12,E/B,4214
+2017-04-02,512,14:58:00,Sunday,Spadina,Investigation,37,42,W/B,4164
+2017-04-02,509,16:02:00,Sunday,Queens Quay @ Rees,Mechanical,0,0,W/B,4413
+2017-04-02,501,16:18:00,Sunday,Neville Park Loop,Mechanical,6,12,W/B,4033
+2017-04-02,504,16:44:00,Sunday,Roncesvalles & Howard Park,Held By,7,14,W/B,4427
+2017-04-02,501,17:42:00,Sunday,Gladstone and Queen,Mechanical,6,12,E/B,4236
+2017-04-02,509,17:53:00,Sunday,Queens Quay @ Rees,Investigation,12,18,E/B,4413
+2017-04-02,510,17:54:00,Sunday,QUEENSQUAY AND REESE,Held By,7,12,E/B,4420
+2017-04-02,510,18:40:00,Sunday,SPADINA STATION,Held By,14,9,S/B,4419
+2017-04-02,511,19:26:00,Sunday,BATHURST AND QUEEN,Mechanical,85,14,N/B,8384
+2017-04-02,501,20:35:00,Sunday,Queen and Parliament,Held By,5,10,E/B,7853
+2017-04-02,512,22:21:00,Sunday,St Clair West Stn,Investigation,0,0,W/B,4164
+2017-04-02,501,23:13:00,Sunday,Springhurst Circle,Emergency Services,5,10,N/B,1551
+2017-04-03,509,00:02:00,Monday,Fleet & Strachan,Mechanical,6,12,W/B,4421
+2017-04-03,501,01:27:00,Monday,Queen and Carlaw,Mechanical,10,20,W/B,4218
+2017-04-03,501,01:31:00,Monday,Sunnyside Loop,Mechanical,10,20,E/B,4229
+2017-04-03,511,05:25:00,Monday,bathurst station,Mechanical,6,12,S/B,1676
+2017-04-03,506,05:45:00,Monday,Russell Yard,Mechanical,1,6,E/B,4093
+2017-04-03,505,05:48:00,Monday,Roncy Yard,Late Leaving Garage,7,13,N/B,4172
+2017-04-03,504,05:56:00,Monday,Russell,Mechanical,1,6,W/B,4035
+2017-04-03,506,06:01:00,Monday,Roncy Yard,Late Leaving Garage,5,11,E/B,4184
+2017-04-03,506,06:24:00,Monday,Main Station,Mechanical,5,10,W/B,4113
+2017-04-03,512,06:43:00,Monday,Main Station,Mechanical,1,6,W/B,4192
+2017-04-03,506,07:04:00,Monday,Main Station,Mechanical,1,6,W/B,4085
+2017-04-03,506,08:00:00,Monday,Main Station,Mechanical,1,6,W/B,4189
+2017-04-03,501,09:53:00,Monday,Lakeshore and 15th Street,Mechanical,5,10,E/B,1380
+2017-04-03,512,10:19:00,Monday,Yonge,Mechanical,12,18,E/B,4114
+2017-04-03,501,10:19:00,Monday,Queen and Niagara,Investigation,5,10,W/B,4222
+2017-04-03,502,10:43:00,Monday,Queen and Yonge,Mechanical,6,12,E/B,7874
+2017-04-03,501,11:21:00,Monday,Queen and Spadina,Mechanical,5,10,W/B,4201
+2017-04-03,506,14:14:00,Monday,Coxwell / Lower Gerrard,Emergency Services,6,12,W/B,4147
+2017-04-03,501,15:42:00,Monday,Russell yard,Mechanical,5,10,E/B,4035
+2017-04-03,511,15:59:00,Monday,BATHURST STN.,Mechanical,10,6,S/B,1508
+2017-04-03,509,16:57:00,Monday,Quens Quay @ Rees,Investigation,5,11,E/B,4418
+2017-04-03,504,17:56:00,Monday,Dundas south of Bloor,Investigation,31,35,W/B,4039
+2017-04-03,505,18:08:00,Monday,Dundas and Roncesvalles,Held By,19,25,wb,4172
+2017-04-03,504,19:05:00,Monday,King and Simcoe,Mechanical,3,7,W/B,4153
+2017-04-03,506,19:40:00,Monday,College @ Dufferin,Emergency Services,21,27,W/B,4117
+2017-04-03,512,19:47:00,Monday,Gunns Loop,Mechanical,6,12,E/B,4080
+2017-04-03,505,21:26:00,Monday,Brodview Station,Investigation,6,12,E/B,4023
+2017-04-03,501,23:58:00,Monday,Queensway and Roncesvalles,Mechanical,10,15,E/B,4246
+2017-04-04,501,00:28:00,Tuesday,Queen and Roncesvalles,Investigation,10,20,E/B,4226
+2017-04-04,501,00:37:00,Tuesday,Queen and Spadina,Investigation,10,20,W/B,4210
+2017-04-04,501,05:36:00,Tuesday,Roncy Yard,Late Leaving Garage,1,1,E/B,4202
+2017-04-04,512,05:48:00,Tuesday,Roncy Yard,Late Leaving Garage,5,10,N/B,4144
+2017-04-04,506,05:48:00,Tuesday,Roncy Yard,Late Leaving Garage,6,12,E/B,4111
+2017-04-04,506,05:54:00,Tuesday,Roncy Yard,Late Leaving Garage,6,12,E/B,4145
+2017-04-04,501,05:56:00,Tuesday,russell yard,Mechanical,6,12,E/B,4237
+2017-04-04,505,05:57:00,Tuesday,Broadview stn,Mechanical,6,12,E/B,4084
+2017-04-04,505,06:02:00,Tuesday,Roncy Yard,Late Leaving Garage,6,13,E/B,4168
+2017-04-04,505,06:10:00,Tuesday,Roncy Yard,Late Leaving Garage,7,13,E/B,4036
+2017-04-04,501,06:12:00,Tuesday,russell yard,Mechanical,6,12,E/B,4200
+2017-04-04,501,06:13:00,Tuesday,Queen and Logan,Held By,29,34,E/B,4210
+2017-04-04,504,06:13:00,Tuesday,Broadview Station,Mechanical,4,8,S/B,4134
+2017-04-04,506,06:26:00,Tuesday,Roncy Yard.,Late Leaving Garage,6,12,E/B,4171
+2017-04-04,506,06:31:00,Tuesday,Roncy Yard,Late Leaving Garage,6,12,E/B,4023
+2017-04-04,501,06:56:00,Tuesday,Roncy Yard,Late Leaving Garage,5,10,E/B,4201
+2017-04-04,501,07:04:00,Tuesday,Roncy Yard.,Late Leaving Garage,5,10,E/B,4244
+2017-04-04,501,07:08:00,Tuesday,russell yard,Mechanical,6,12,E/B,4214
+2017-04-04,511,07:12:00,Tuesday,Bathurst and Dundas,Mechanical,3,6,S/B,1814
+2017-04-04,514,07:38:00,Tuesday,King St. East and Parliament St.,Diversion,377,377,B/W,
+2017-04-04,504,07:38:00,Tuesday,King St. East and Parliament St.,Diversion,594,594,B/W,
+2017-04-04,501,08:14:00,Tuesday,Neville Loop,Mechanical,5,10,W/B,4244
+2017-04-04,501,08:24:00,Tuesday,Queen and Church,Mechanical,16,21,E/B,4000
+2017-04-04,510,08:32:00,Tuesday,Spadina and King,General Delay,4,8,E/B,4419
+2017-04-04,514,08:48:00,Tuesday,King and John.,Held By,35,45,E/B,4408
+2017-04-04,504,08:48:00,Tuesday,King and John,Mechanical,35,39,S/B,4110
+2017-04-04,501,08:50:00,Tuesday,King and Spadina,Held By,33,38,E/B,4220
+2017-04-04,506,08:59:00,Tuesday,Main stn,Mechanical,5,10,W/B,4043
+2017-04-04,501,09:04:00,Tuesday,Sunnyside Loop,Mechanical,5,10,E/B,4202
+2017-04-04,505,09:07:00,Tuesday,Dundas and Duffrin,General Delay,22,28,W/B,4078
+2017-04-04,504,09:20:00,Tuesday,Dundas West Station,Mechanical,4,8,S/B,4040
+2017-04-04,506,09:45:00,Tuesday,Ossington and college,Investigation,5,10,E/B,4018
+2017-04-04,511,10:30:00,Tuesday,Bathurst and King,Mechanical,4,8,W/B,1349
+2017-04-04,501,10:42:00,Tuesday,Longbranch Loop,Mechanical,6,12,E/B,1399
+2017-04-04,505,11:17:00,Tuesday,Dundas and Roncesvalles,General Delay,13,19,W/B,4080
+2017-04-04,502,13:16:00,Tuesday,Bingham Loop,Mechanical,10,20,W/B,7854
+2017-04-04,501,15:28:00,Tuesday,Queen and Victoria,Mechanical,5,11,W/B,4232
+2017-04-04,501,16:25:00,Tuesday,Dufferin to Humber,General Delay,12,18,W/B,4232
+2017-04-04,501,16:41:00,Tuesday,Queen and York,Mechanical,5,10,W/B,4106
+2017-04-04,504,17:30:00,Tuesday,King and Parliament,Held By,36,39,B/W,4154
+2017-04-04,514,17:30:00,Tuesday,King and Parliament,Held By,36,47,B/W,4047
+2017-04-04,505,18:55:00,Tuesday,DVP,Emergency Services,12,17,W/B,4080
+2017-04-04,506,19:14:00,Tuesday,Main Station,Mechanical,6,12,W/B,4023
+2017-04-04,5,19:25:00,Tuesday,Broadview and Gerrard,Mechanical,8,16,W/B,4034
+2017-04-04,511,20:26:00,Tuesday,Bathurst Station,Mechanical,5,10,S/B,1234
+2017-04-04,501,21:26:00,Tuesday,Roncesvalles and Queen,Mechanical,4,8,E/B,4218
+2017-04-04,504,22:07:00,Tuesday,King St. West and Portland St.,Mechanical,4,8,E/B,4110
+2017-04-04,504,23:10:00,Tuesday,King St. West and Queen St. West,Mechanical,17,24,W/B,4131
+2017-04-04,504,23:17:00,Tuesday,King St. West and Queen St. West,Utilized Off Route,7,14,W/B,4014
+2017-04-05,501,00:28:00,Wednesday,Queen and Lansdown,Investigation,5,10,N/B,1012
+2017-04-05,514,00:40:00,Wednesday,King St. West and Dufferin St.,Utilized Off Route,15,30,W/B,4073
+2017-04-05,510,01:15:00,Wednesday,Spadina Station,Diversion,15,22,B/W,8478
+2017-04-05,504,02:20:00,Wednesday,King St. West and Yonge St.,Held By,9,23,W/B,4154
+2017-04-05,504,04:54:00,Wednesday,Roncy Yard,Late Leaving Garage,5,10,N/B,4034
+2017-04-05,512,05:02:00,Wednesday,Roncy Yard,Late Leaving Garage,5,11,N/B,4163
+2017-04-05,504,05:10:00,Wednesday,Queen and Broadview,Diversion,383,388,W/B,4003
+2017-04-05,504,05:31:00,Wednesday,King and Church,Diversion,362,367,W/B,4117
+2017-04-05,511,05:53:00,Wednesday,Wilson Garage,Mechanical,3,6,E/B,1682
+2017-04-05,511,05:54:00,Wednesday,Eglington and Trethrewey,Mechanical,3,6,E/B,1040
+2017-04-05,514,06:01:00,Wednesday,King and Parliament,Diversion,382,392,W/B,4420
+2017-04-05,504,06:24:00,Wednesday,Roncy Yard,Late Leaving Garage,4,8,E/B,4174
+2017-04-05,504,06:34:00,Wednesday,Roncy Yard,Late Leaving Garage,4,8,E/B,4241
+2017-04-05,504,06:41:00,Wednesday,Roncy Yard,Late Leaving Garage,5,10,N/B,4010
+2017-04-05,504,06:42:00,Wednesday,Roncy Yard,Late Leaving Garage,4,8,E/B,4124
+2017-04-05,506,07:00:00,Wednesday,Roncy Yard,Late Leaving Garage,5,10,E/B,4089
+2017-04-05,4,07:02:00,Wednesday,Bathurst st,Mechanical,3,6,E/B,
+2017-04-05,501,07:07:00,Wednesday,Roncy Yard,Late Leaving Garage,5,10,E/B,4246
+2017-04-05,501,07:28:00,Wednesday,Neville Loop,Emergency Services,8,13,W/B,4209
+2017-04-05,511,07:39:00,Wednesday,Bathurst st,Mechanical,3,6,B/W,1605
+2017-04-05,514,08:28:00,Wednesday,Distrillery Loop,Mechanical,0,0,W/B,4413
+2017-04-05,510,08:47:00,Wednesday,Spadina Tunnel,Diversion,15,24,N/B,4428
+2017-04-05,505,09:47:00,Wednesday,Dundas w stn,General Delay,16,23,W/B,4135
+2017-04-05,504,10:49:00,Wednesday,Queen and Berkeley,Investigation,5,10,E/B,7582
+2017-04-05,502,10:51:00,Wednesday,Kingston Road and Woodbine,Mechanical,10,20,E/B,8116
+2017-04-05,501,12:51:00,Wednesday,Sherbourne and Queen,Mechanical,6,11,E/B,4226
+2017-04-05,501,13:25:00,Wednesday,Lakeshore and Islington,Investigation,6,12,E/B,1329
+2017-04-05,514,14:56:00,Wednesday,Distrillery Loop,Mechanical,10,20,W/B,4087
+2017-04-05,512,16:20:00,Wednesday,St Clair & Arlington,Investigation,31,35,wb,4014
+2017-04-05,511,16:21:00,Wednesday,Bathurst Stn,Mechanical,8,6,S/B,1367
+2017-04-05,511,16:28:00,Wednesday,Bathurst Stn.,Mechanical,3,6,S/B,1367
+2017-04-05,511,16:29:00,Wednesday,Bathurst stn.,Emergency Services,5,6,S/B,1666
+2017-04-05,501,16:32:00,Wednesday,Springhurst Loop,Mechanical,6,11,W/B,1533
+2017-04-05,805,16:49:00,Wednesday,Bathurst and St Clair W,Investigation,4,8,WB,1666
+2017-04-05,511,16:49:00,Wednesday,Bathurst Stn.,Emergency Services,6,6,S/B,8326
+2017-04-05,504,17:35:00,Wednesday,King & Church,Mechanical,2,7,W/B,4041
+2017-04-05,506,20:40:00,Wednesday,Carlton and Yonge,Mechanical,6,12,WB,4114
+2017-04-05,501,22:01:00,Wednesday,Lakeshore and Superior,Emergency Services,5,10,E/B,1029
+2017-04-05,511,23:58:00,Wednesday,Bathurst / Fleet,Mechanical,5,10,N/B,1633
+2017-04-06,501,00:13:00,Thursday,Long Branch Loop,Mechanical,5,10,E/B,1007
+2017-04-06,506,00:29:00,Thursday,Carlaw and Gerrard,Investigation,12,18,EB,4101
+2017-04-06,501,00:49:00,Thursday,Springhurst Circle,Investigation,10,20,N/B,1565
+2017-04-06,511,01:00:00,Thursday,Bathurst and Dundas,Investigation,8,16,N/B,8194
+2017-04-06,501,01:18:00,Thursday,Kipling and The Queensway,Mechanical,10,20,S/B,1007
+2017-04-06,301,01:45:00,Thursday,Roncesvalles Yard,Emergency Services,10,20,E/B,4143
+2017-04-06,511,02:01:00,Thursday,King st,Utilized Off Route,7,14,W/B,1588
+2017-04-06,512,04:53:00,Thursday,Roncy Yard,Late Leaving Garage,19,31,E/B,4090
+2017-04-06,512,04:55:00,Thursday,Roncy Yard,Late Leaving Garage,7,26,E/B,4171
+2017-04-06,510,05:05:00,Thursday,,Mechanical,1,1,N/B,4433
+2017-04-06,504,05:08:00,Thursday,Roncy Yard,Late Leaving Garage,10,0,E/B,4001
+2017-04-06,512,05:09:00,Thursday,Roncy Yard,Late Leaving Garage,12,17,E/B,4049
+2017-04-06,512,05:12:00,Thursday,Roncy Yard,Late Leaving Garage,5,14,E/B,4171
+2017-04-06,504,05:40:00,Thursday,Roncy Yard,Late Leaving Garage,6,21,E/B,4142
+2017-04-06,505,05:41:00,Thursday,Roncy Yard,Late Leaving Garage,8,15,E/B,4014
+2017-04-06,512,05:54:00,Thursday,Roncy Yard,Late Leaving Garage,6,10,E/B,4183
+2017-04-06,514,06:03:00,Thursday,Birchmount Garage,Mechanical,20,0,W/B,7754
+2017-04-06,501,06:14:00,Thursday,Lakeshore and Burlington,Mechanical,5,10,E/B,7934
+2017-04-06,505,06:37:00,Thursday,Dundas and Roncesvalles,Utilized Off Route,36,43,W/B,4055
+2017-04-06,505,06:37:00,Thursday,Dundas and Roncesvalles,Mechanical,36,43,W/B,4098
+2017-04-06,506,06:54:00,Thursday,Roncy Yard,Late Leaving Garage,15,20,E/B,4038
+2017-04-06,506,06:58:00,Thursday,Roncy Yard,Late Leaving Garage,5,10,E/B,4199
+2017-04-06,501,07:58:00,Thursday,Queen and Gladstone,Mechanical,5,10,E/B,4238
+2017-04-06,504,08:23:00,Thursday,Roncesvalles and Queen,Mechanical,4,8,W/B,4135
+2017-04-06,514,08:46:00,Thursday,King and Victoria,Investigation,8,16,W/B,4432
+2017-04-06,505,11:19:00,Thursday,Dundas and Howard Park,Mechanical,7,14,W/B,4024
+2017-04-06,501,11:22:00,Thursday,Queen and Sherbourne,Mechanical,5,10,W/B,4226
+2017-04-06,502,11:37:00,Thursday,Queen and Yonge,Investigation,3,13,W/B,7827
+2017-04-06,501,11:46:00,Thursday,Broadview and Queen,Mechanical,6,11,W/B,4240
+2017-04-06,510,12:00:00,Thursday,Charlotte Loop b,Mechanical,5,10,N/B,4402
+2017-04-06,504,12:15:00,Thursday,King & Parliament,Held By,5,10,W/B,4154
+2017-04-06,504,12:42:00,Thursday,Roncesvalles & Howard Prk,Mechanical,5,10,E/B,4247
+2017-04-06,506,13:09:00,Thursday,River and gerrard,Held By,8,13,B/W,4017
+2017-04-06,501,13:19:00,Thursday,Long Branch Loop,Mechanical,6,12,E/B,1349
+2017-04-06,501,13:20:00,Thursday,Victoria and Queen,Mechanical,6,12,E/B,4020
+2017-04-06,501,13:28:00,Thursday,Church and Queen,Mechanical,6,12,E/B,4121
+2017-04-06,501,13:32:00,Thursday,Long Branch Loop,Emergency Services,6,12,E/B,8013
+2017-04-06,514,13:40:00,Thursday,King & Spadina,Investigation,44,54,W/B,4405
+2017-04-06,504,13:41:00,Thursday,King & Spadina,Held By,44,54,W/B,4000
+2017-04-06,506,13:49:00,Thursday,,Mechanical,5,10,EB,4127
+2017-04-06,511,13:50:00,Thursday,King st,Utilized Off Route,3,6,W/B,1805
+2017-04-06,501,13:59:00,Thursday,Dufferin Loop,Mechanical,6,12,W/B,1024
+2017-04-06,511,14:00:00,Thursday,King st,Utilized Off Route,3,6,W/B,1043
+2017-04-06,512,14:05:00,Thursday,Roncy Yard,Late Leaving Garage,3,6,EB,4149
+2017-04-06,514,14:06:00,Thursday,Spadina & King,Investigation,15,25,W/B,4412
+2017-04-06,501,15:15:00,Thursday,Springhurst and Dufferin,Emergency Services,6,12,E/B,7944
+2017-04-06,504,15:16:00,Thursday,Roncesvalles and King,Mechanical,2,5,E/B,
+2017-04-06,505,15:26:00,Thursday,Sumach,Mechanical,7,14,E/B,4037
+2017-04-06,504,15:32:00,Thursday,Queen & Boulton,Mechanical,4,8,W/B,4108
+2017-04-06,505,15:37:00,Thursday,Broadview ans Dundas,Mechanical,7,14,E/B,4073
+2017-04-06,504,15:37:00,Thursday,Roncy & Queen,Mechanical,4,7,E/B,4082
+2017-04-06,512,15:38:00,Thursday,St Clair W. Station,Mechanical,5,10,WB,4146
+2017-04-06,504,15:38:00,Thursday,Roncesvalles and King,Mechanical,2,5,E/B,
+2017-04-06,506,15:46:00,Thursday,Ronce Yard,Late Leaving Garage,6,12,EB,4176
+2017-04-06,504,15:57:00,Thursday,Roncy & Queen,Held By,3,5,E/B,4119
+2017-04-06,504,16:08:00,Thursday,King & Roncesvalles,Mechanical,4,6,W/B,4030
+2017-04-06,504,16:15:00,Thursday,Roncesvalles and King,Mechanical,3,5,E/B,
+2017-04-06,504,16:35:00,Thursday,Dundas West Stn,Mechanical,5,9,E/B,4000
+2017-04-06,506,16:39:00,Thursday,Gerrard and Coxwell,Mechanical,6,12,EB,4089
+2017-04-06,501,16:54:00,Thursday,Roncesvalles and Queen,Mechanical,6,12,W/B,4232
+2017-04-06,506,17:10:00,Thursday,Gerrard and Coxwell,Mechanical,6,12,WB,4040
+2017-04-06,514,17:50:00,Thursday,Distrillery Loop,Mechanical,18,27,W/B,4412
+2017-04-06,514,17:53:00,Thursday,Distrillery Loop,Mechanical,9,18,W/B,4070
+2017-04-06,514,17:55:00,Thursday,King & Sumach,Utilized Off Route,9,18,E/B,4406
+2017-04-06,504,20:15:00,Thursday,Dundas West Station Loop,Held By,10,14,E/B,4082
+2017-04-06,501,20:37:00,Thursday,Lakeshore and Norris,Mechanical,5,10,E/B,7970
+2017-04-06,501,21:16:00,Thursday,Roncesvalles Yard,Emergency Services,6,11,E/B,4047
+2017-04-06,506,21:53:00,Thursday,H.Park,Mechanical,0,0,WB,4182
+2017-04-06,512,22:47:00,Thursday,St Clair W Station,Emergency Services,6,12,EB,4185
+2017-04-06,501,23:22:00,Thursday,Queenand Hiltz,Held By,10,20,W/B,4229
+2017-04-06,504,23:23:00,Thursday,Roncesvalles Ave. and Galley Ave.,Held By,18,25,B/W,4157
+2017-04-07,504,01:58:00,Friday,King St. West and The Queensway,Mechanical,21,31,E/B,4082
+2017-04-07,304,02:49:00,Friday,King St. West and Bay St.,Investigation,23,60,W/B,4100
+2017-04-07,301,03:28:00,Friday,Queen and Parliament,Emergency Services,14,44,W/B,4224
+2017-04-07,504,05:05:00,Friday,Roncy Yard,Mechanical,10,1,N/B,4173
+2017-04-07,512,05:30:00,Friday,Roncy Yard,Late Leaving Garage,4,11,N/B,4038
+2017-04-07,505,05:41:00,Friday,Roncy Yard,Late Leaving Garage,16,24,N/B,4141
+2017-04-07,501,05:47:00,Friday,Queen and Dufferin,Mechanical,5,10,E/B,8069
+2017-04-07,509,05:50:00,Friday,Spadina Loop,Mechanical,7,14,W/B,4411
+2017-04-07,505,05:54:00,Friday,Roncy Yard,Late Leaving Garage,21,28,N/B,4150
+2017-04-07,504,05:55:00,Friday,Roncy Yard,Late Leaving Garage,25,26,N/B,4194
+2017-04-07,510,05:56:00,Friday,Charlotte loop,Mechanical,5,10,W/B,4428
+2017-04-07,506,05:56:00,Friday,Roncy Yard,Late Leaving Garage,9,1,N/B,4059
+2017-04-07,506,05:56:00,Friday,Roncy Yaard,Late Leaving Garage,21,26,N/B,4033
+2017-04-07,501,05:57:00,Friday,Roncy Yard,Late Leaving Garage,15,27,E/B,4217
+2017-04-07,512,05:58:00,Friday,Roncy Yard,Late Leaving Garage,20,20,E/B,4149
+2017-04-07,505,05:58:00,Friday,Roncy Yard,Late Leaving Garage,18,4,N/B,4157
+2017-04-07,512,05:59:00,Friday,Roncy Yard,Late Leaving Garage,3,6,N/B,
+2017-04-07,504,05:59:00,Friday,Roncy Yard,Late Leaving Garage,14,4,E/B,4186
+2017-04-07,504,06:00:00,Friday,Roncy Yard,Late Leaving Garage,11,5,N/B,4184
+2017-04-07,512,06:01:00,Friday,Roncy Yard,Late Leaving Garage,17,3,N/B,4139
+2017-04-07,505,06:01:00,Friday,Roncy Yard,Late Leaving Garage,15,3,N/B,4050
+2017-04-07,506,06:01:00,Friday,Roncy Yard,Late Leaving Garage,19,5,N/B,4120
+2017-04-07,506,06:02:00,Friday,russell yard,Mechanical,6,12,E/B,4022
+2017-04-07,512,06:03:00,Friday,Roncy Yard,Late Leaving Garage,15,1,N/B,4183
+2017-04-07,512,06:03:00,Friday,Roncy Yard,Late Leaving Garage,19,2,N/B,4047
+2017-04-07,506,06:05:00,Friday,Roncy Yard,Late Leaving Garage,12,9,N/B,4154
+2017-04-07,512,06:07:00,Friday,Roncy Yard,Late Leaving Garage,19,4,N/B,4195
+2017-04-07,504,06:12:00,Friday,Roncy Yard,Late Leaving Garage,9,13,N/B,
+2017-04-07,535,06:14:00,Friday,Roncy Yard,Late Leaving Garage,0,0,N/B,
+2017-04-07,505,06:16:00,Friday,Roncy Yard,Late Leaving Garage,23,15,N/B,4034
+2017-04-07,505,06:17:00,Friday,Roncy Yard,Late Leaving Garage,18,1,N/B,4124
+2017-04-07,501,06:27:00,Friday,Roncy Yard,Late Leaving Garage,10,21,E/B,4216
+2017-04-07,505,06:40:00,Friday,Broadview stn,General Delay,6,12,E/B,4050
+2017-04-07,504,06:41:00,Friday,Roncy Yard,Late Leaving Garage,11,15,N/B,4176
+2017-04-07,504,07:28:00,Friday,King and Sherbourne,Mechanical,6,10,E/B,4098
+2017-04-07,502,07:37:00,Friday,Bingham Loop,Mechanical,10,20,E/B,7798
+2017-04-07,504,07:40:00,Friday,Roncy Yard,Late Leaving Garage,4,8,N/B,4214
+2017-04-07,512,07:57:00,Friday,St Clair West,Mechanical,3,6,W/B,4024
+2017-04-07,512,08:02:00,Friday,St Clair West.,Mechanical,3,6,W/B,4168
+2017-04-07,510,08:06:00,Friday,Leslie Barns,Late Leaving Garage,10,13,W/B,4416
+2017-04-07,504,10:41:00,Friday,King and Parliament,Mechanical,5,10,E/B,4215
+2017-04-07,504,11:10:00,Friday,Distillery loop,Mechanical,10,20,N/B,4420
+2017-04-07,504,11:47:00,Friday,Dundas & Bloor,Held By,46,51,E/B,4108
+2017-04-07,505,12:33:00,Friday,Dundas and Bloor,Held By,47,54,E/B,4150
+2017-04-07,501,15:01:00,Friday,Russell Yard,Late Leaving Garage,6,11,W/B,4091
+2017-04-07,504,15:46:00,Friday,King & Church,Investigation,39,43,E/B,4189
+2017-04-07,514,15:49:00,Friday,King & Church,Held By,39,49,E/B,4400
+2017-04-07,510,16:14:00,Friday,Union Station,Investigation,20,30,W/B,4424
+2017-04-07,509,16:21:00,Friday,Union Station,Investigation,14,20,E/B,4079
+2017-04-07,504,16:42:00,Friday,Roncy & Howard Prk,Mechanical,4,9,W/B,4048
+2017-04-07,506,17:03:00,Friday,College @ Spadina,Investigation,25,31,E/B,4068
+2017-04-07,511,17:12:00,Friday,College and Bathurst,Utilized Off Route,5,10,N/B,1681
+2017-04-07,501,19:48:00,Friday,Kipling and Lakeshore,Mechanical,6,12,W/B,1805
+2017-04-07,501,21:00:00,Friday,Neville Loop to Sunnyside Loop,General Delay,20,25,B/W,
+2017-04-07,504,21:20:00,Friday,Queen Street and Neville Loop,Investigation,5,11,W/B,4222
+2017-04-07,501,21:36:00,Friday,Queen Street and Church Street,Diversion,24,30,E/B,4212
+2017-04-07,504,21:40:00,Friday,Broadview Station Loop to Dundas West Station Loop,General Delay,10,10,B/W,
+2017-04-07,514,21:40:00,Friday,Dufferin Loop to Queen/Broadview,General Delay,15,30,B/W,
+2017-04-07,514,23:15:00,Friday,King St. West and Sudbury St.,Investigation,3,18,W/B,4071
+2017-04-07,504,23:15:00,Friday,King St. West and Sudbury St.,Held By,3,13,W/B,4069
+2017-04-08,501,00:05:00,Saturday,Sunnyside Loop,Mechanical,10,20,E/B,4240
+2017-04-08,506,00:08:00,Saturday,Gerrard @ Coxwell,Mechanical,6,12,E/B,4021
+2017-04-08,514,00:13:00,Saturday,Dufferin Loop,Mechanical,15,30,E/B,4430
+2017-04-08,306,05:05:00,Saturday,Yonge/ College,Investigation,8,38,E/B,4068
+2017-04-08,501,07:43:00,Saturday,Queen Street and York Street,Mechanical,17,25,W/B,4216
+2017-04-08,512,10:00:00,Saturday,Gunns to Yonge,General Delay,18,24,E/B,4069
+2017-04-08,501,13:28:00,Saturday,Long Branch Loop,Emergency Services,6,12,E/B,7913
+2017-04-08,501,15:30:00,Saturday,Queen Street,General Delay,36,42,B/W,
+2017-04-08,512,15:30:00,Saturday,Gunns Loop to St Clair Stn (Yonge),General Delay,12,10,B/W,
+2017-04-08,512,15:55:00,Saturday,St Clair West @ Bathurst,Investigation,11,17,W/B,4174
+2017-04-08,512,16:56:00,Saturday,St Clair West @ Dufferin,Held By,28,34,E/B,4099
+2017-04-08,511,17:09:00,Saturday,Bathurst Station,Utilized Off Route,4,8,N/B,8351
+2017-04-08,506,17:10:00,Saturday,Coxwell & Gerrard,Emergency Services,6,12,W/B,4057
+2017-04-08,805,19:45:00,Saturday,,Investigation,0,0,S/B,9065
+2017-04-08,504,21:00:00,Saturday,Broadview Station Loop to Dundas West Station Loop,General Delay,10,12,B/W,
+2017-04-08,514,21:00:00,Saturday,Dufferin Loop to Queen/Broadview,General Delay,15,30,B/W,
+2017-04-08,504,22:11:00,Saturday,King St. East and Jarvis St.,Mechanical,12,24,E/B,4143
+2017-04-08,80,22:32:00,Saturday,Wolsely Loop,Mechanical,8,16,E/B,7724
+2017-04-08,501,23:00:00,Saturday,Neville Loop to Sunnyside Loop,General Delay,20,25,B/W,
+2017-04-09,511,00:29:00,Sunday,Bathurst Station,Mechanical,7,14,S/B,1543
+2017-04-09,501,06:07:00,Sunday,Roncesvalles and Queen,Mechanical,10,18,E/B,4215
+2017-04-09,504,06:46:00,Sunday,Dundas west Station,Mechanical,8,16,E/B,4169
+2017-04-09,501,07:30:00,Sunday,Church and Queen,Held By,13,21,E/B,4241
+2017-04-09,506,07:32:00,Sunday,Howard Park at Roncesvalles,Emergency Services,14,24,W/B,4101
+2017-04-09,512,08:30:00,Sunday,St. Clair at Oakwood,Mechanical,5,10,W/B,4149
+2017-04-09,509,09:36:00,Sunday,Bathurst & Fleet,General Delay,10,16,W/B,4427
+2017-04-09,512,12:15:00,Sunday,Arlington,Mechanical,6,11,E/B,4185
+2017-04-09,504,12:33:00,Sunday,Roncesvalles & Fern,Held By,7,15,E/B,4113
+2017-04-09,501,13:24:00,Sunday,Long Branch Loop,Mechanical,8,16,E/B,1035
+2017-04-09,504,13:34:00,Sunday,King & Roncesvalles,Mechanical,8,15,W/B,4093
+2017-04-09,501,13:49:00,Sunday,Queen and Bathurst,Investigation,6,12,W/B,1358
+2017-04-09,512,14:30:00,Sunday,Gunns Loop to St Clair Stn (Yonge),General Delay,10,8,B/W,
+2017-04-09,504,15:09:00,Sunday,Broadview & Gerrard,Mechanical,7,15,E/B,4421
+2017-04-09,505,16:15:00,Sunday,ontario/dundas,Emergency Services,10,15,W/B,4168
+2017-04-09,501,18:39:00,Sunday,Church and King,Mechanical,6,12,W/B,4204
+2017-04-09,501,19:06:00,Sunday,Queen and Sorauren,Investigation,6,12,W/B,1631
+2017-04-09,504,19:17:00,Sunday,King & Yonge,Held By,10,18,W/B,4408
+2017-04-09,514,19:17:00,Sunday,King & Yonge,Held By,10,25,W/B,4413
+2017-04-09,504,20:23:00,Sunday,Broadview Station,Mechanical,10,20,W/B,4187
+2017-04-09,504,21:24:00,Sunday,King Street and Parliament Street,Utilized Off Route,0,0,W/B,4156
+2017-04-09,510,21:44:00,Sunday,College,Mechanical,2,8,S/B,4411
+2017-04-09,512,22:06:00,Sunday,St Clair Stn (Yonge),Emergency Services,6,11,W/B,4185
+2017-04-09,501,22:22:00,Sunday,King and York,Mechanical,12,17,W/B,4224
+2017-04-09,514,22:24:00,Sunday,Dufferin Loop,Investigation,20,30,E/B,4421
+2017-04-09,504,22:28:00,Sunday,King Street and York Street,Utilized Off Route,13,23,W/B,4040
+2017-04-09,506,23:00:00,Sunday,College @ Lansdowne,Utilized Off Route,10,20,W/B,4184
+2017-04-09,501,23:27:00,Sunday,Queen and Kingswood,Investigation,27,35,W/B,4243
+2017-04-10,301,02:27:00,Monday,Windemere north of Lakeshore,Mechanical,10,20,S/B,1415
+2017-04-10,512,05:27:00,Monday,Roncy Yard.,Late Leaving Garage,9,9,N/B,4001
+2017-04-10,501,06:12:00,Monday,russell yard,Mechanical,6,12,E/B,4242
+2017-04-10,502,09:54:00,Monday,Queen/Bay,Investigation,8,16,E/B,7708
+2017-04-10,501,11:58:00,Monday,Queen and Lee,Mechanical,10,15,E/B,4079
+2017-04-10,501,11:58:00,Monday,Queen/Lee,Utilized Off Route,6,12,E/B,4023
+2017-04-10,512,14:10:00,Monday,Bathurst Street and Dupont Street,Held By,1,1,S/B,4096
+2017-04-10,26,14:29:00,Monday,Upper Gerrard @ Glenmount,Mechanical,21,27,W/B,4010
+2017-04-10,501,14:35:00,Monday,Lakeshore/ Burlington rd,Mechanical,6,12,W/B,8087
+2017-04-10,501,14:50:00,Monday,Neville Park Loop,Mechanical,6,12,W/B,4299
+2017-04-10,501,14:56:00,Monday,Russel Yard,Mechanical,6,12,W/B,4014
+2017-04-10,511,15:05:00,Monday,Bathurst stn,Mechanical,6,12,S/B,8334
+2017-04-10,506,15:32:00,Monday,Howard Park @ Indian Rd,Held By,486,492,E/B,4039
+2017-04-10,506,15:32:00,Monday,High Park,Emergency Services,6,24,EB,4132
+2017-04-10,512,15:40:00,Monday,Keele @ Gunns Loop,Mechanical,4,8,W/B,4024
+2017-04-10,501,16:00:00,Monday,Sunnyside Loop,Mechanical,6,12,E/B,4237
+2017-04-10,502,16:12:00,Monday,Scarborough dr and Kingston,Diversion,40,48,E/B,7866
+2017-04-10,505,16:18:00,Monday,Huron & Dundas,Mechanical,7,14,W/B,4131
+2017-04-10,506,16:35:00,Monday,Howard Park & Roncesvalles,Mechanical,6,12,W/B,4115
+2017-04-10,501,17:35:00,Monday,Springhurst loop,Utilized Off Route,6,12,B/W,7944
+2017-04-10,501,19:23:00,Monday,Longbranch Loop,Utilized Off Route,6,12,B/W,1526
+2017-04-10,504,21:37:00,Monday,King Street and Jameison Avenue,Mechanical,5,11,W/B,4096
+2017-04-10,504,22:16:00,Monday,King Street and John Street,Investigation,5,10,E/B,4069
+2017-04-10,511,23:24:00,Monday,Bathurst south of King,Investigation,8,16,N/B,1278
+2017-04-10,504,23:47:00,Monday,Roncesvalles Avenue and Queen Street,Mechanical,8,15,E/B,4069
+2017-04-11,510,01:30:00,Tuesday,Spadina north of Queen,Mechanical,1,1,N/B,4427
+2017-04-11,510,01:33:00,Tuesday,Spadina/Bloor tunnel,Mechanical,55,85,N/B,4411
+2017-04-11,501,05:23:00,Tuesday,Queensway garage,Late Leaving Garage,10,20,W/B,7964
+2017-04-11,504,06:00:00,Tuesday,King and Duoro,Mechanical,4,8,W/B,4048
+2017-04-11,506,06:19:00,Tuesday,russell yard,Mechanical,6,12,E/B,4195
+2017-04-11,501,06:45:00,Tuesday,Lakeshore and 29th Street,Mechanical,5,10,E/B,1508
+2017-04-11,501,07:04:00,Tuesday,Dufferin and Springhurst,Mechanical,5,10,W/B,1645
+2017-04-11,504,07:40:00,Tuesday,Roncy Yard,Late Leaving Garage,4,8,E/B,4226
+2017-04-11,504,07:42:00,Tuesday,Roncy Yard,Late Leaving Garage,4,8,E/B,4240
+2017-04-11,501,09:59:00,Tuesday,Sunnyside Loop,Mechanical,5,10,E/B,4215
+2017-04-11,501,10:05:00,Tuesday,Queen and Lansdowne,Mechanical,5,10,W/B,7964
+2017-04-11,501,10:32:00,Tuesday,Woseley Loop,Mechanical,1,1,E/B,8132
+2017-04-11,510,11:03:00,Tuesday,Spadina/Queens quay,Mechanical,6,12,N/B,4417
+2017-04-11,510,11:52:00,Tuesday,Spadina/Nassau,Mechanical,10,16,S/B,4405
+2017-04-11,506,13:15:00,Tuesday,Coxwell and Lower Gerrard,Mechanical,5,10,W/B,4039
+2017-04-11,514,13:16:00,Tuesday,Distillery Loop,Mechanical,10,20,W/B,4420
+2017-04-11,504,13:31:00,Tuesday,King at Shaw,Investigation,33,38,W/B,4145
+2017-04-11,504,14:52:00,Tuesday,Roncy yard,Mechanical,5,10,E/B,4042
+2017-04-11,506,14:54:00,Tuesday,High Park Loop,Investigation,36,42,WB,4183
+2017-04-11,501,14:59:00,Tuesday,Russell Yard,Late Leaving Garage,6,12,W/B,4018
+2017-04-11,510,15:25:00,Tuesday,Spadina/Dundas,Mechanical,4,8,S/B,4405
+2017-04-11,504,15:38:00,Tuesday,Russell Yard,Mechanical,5,10,W/B,4041
+2017-04-11,512,15:52:00,Tuesday,St Clair W St.,Mechanical,5,10,wb,4192
+2017-04-11,504,15:57:00,Tuesday,Roncy Yard,Mechanical,5,10,E/B,4145
+2017-04-11,501,16:06:00,Tuesday,Longbranch Loop,Mechanical,6,12,E/B,8314
+2017-04-11,502,16:16:00,Tuesday,Queen/ Bay,Investigation,8,16,E/B,7813
+2017-04-11,503,16:18:00,Tuesday,Bingham Loop,Mechanical,12,24,W/B,7724
+2017-04-11,510,16:48:00,Tuesday,Spadina Stn,Mechanical,4,8,S/B,4427
+2017-04-11,505,17:04:00,Tuesday,Dundas/Euclid,Investigation,7,14,E/B,4182
+2017-04-11,505,17:19:00,Tuesday,Dundas & Sherbourne,Investigation,7,14,E/B,4127
+2017-04-11,501,17:23:00,Tuesday,Queen/ John St,Investigation,17,22,W/B,4215
+2017-04-11,506,17:50:00,Tuesday,Main Station,Mechanical,0,6,wb,4001
+2017-04-11,510,18:45:00,Tuesday,Spadina/Queen,Mechanical,4,8,S/B,4412
+2017-04-11,506,19:20:00,Tuesday,Gerrard and Sackwille,Diversion,112,120,EB,4032
+2017-04-11,511,19:38:00,Tuesday,Bathurst stn,Mechanical,5,10,SB,1669
+2017-04-11,501,20:20:00,Tuesday,Windermere and Lakeshore,Investigation,6,12,W/B,8069
+2017-04-11,505,23:06:00,Tuesday,Dundas West Station Loop,Mechanical,9,18,E/B,4170
+2017-04-12,514,00:48:00,Wednesday,King St. West and University Ave.,Mechanical,1,1,E/B,4424
+2017-04-12,512,01:19:00,Wednesday,Lansdown Loop,Held By,6,12,E/B,4171
+2017-04-12,501,05:07:00,Wednesday,Roncy and Queen,Mechanical,12,24,E/B,4238
+2017-04-12,504,05:30:00,Wednesday,Roncy Yard,Late Leaving Garage,6,14,E/B,4249
+2017-04-12,512,05:30:00,Wednesday,Roncy Yard,Late Leaving Garage,5,12,N/B,4146
+2017-04-12,504,05:52:00,Wednesday,Dundas West Station,Investigation,7,13,S/B,4023
+2017-04-12,505,06:06:00,Wednesday,Roncy Yard,Late Leaving Garage,7,30,N/B,4079
+2017-04-12,506,06:07:00,Wednesday,Roncy Yard,Late Leaving Garage,14,22,N/B,4001
+2017-04-12,535,06:14:00,Wednesday,Roncy Yard,Utilized Off Route,1,1,N/B,4012
+2017-04-12,511,06:56:00,Wednesday,CNE Loop,Mechanical,6,11,N/B,1661
+2017-04-12,501,07:26:00,Wednesday,Roncy Yard,Late Leaving Garage,6,17,E/B,4145
+2017-04-12,510,11:51:00,Wednesday,Spadina and King,Held By,27,36,S/B,4403
+2017-04-12,510,12:38:00,Wednesday,Spadina and Lakeshore,Held By,25,34,N/B,4406
+2017-04-12,514,13:22:00,Wednesday,Distrillery Loop,Mechanical,10,20,W/B,4415
+2017-04-12,501,14:03:00,Wednesday,Church and Queen,Mechanical,29,35,W/B,4217
+2017-04-12,505,14:09:00,Wednesday,Denison,Held By,26,33,E/B,4123
+2017-04-12,505,14:23:00,Wednesday,Broadview and Dundas,Investigation,7,14,E/B,4187
+2017-04-12,511,16:39:00,Wednesday,Bathurst Station,Mechanical,7,14,N/B,8366
+2017-04-12,504,17:00:00,Wednesday,King & Roncy,Mechanical,4,9,W/B,4139
+2017-04-12,510,17:15:00,Wednesday,Charlotte Loop,Investigation,4,8,S/B,4408
+2017-04-12,502,17:27:00,Wednesday,Duncan and Richmond,Mechanical,12,24,E/B,7773
+2017-04-12,502,17:32:00,Wednesday,Bingham Loop,Mechanical,12,24,W/B,7837
+2017-04-12,505,18:40:00,Wednesday,Munro,Mechanical,7,14,E/B,4134
+2017-04-12,511,18:45:00,Wednesday,Bathurst Stn,Mechanical,7,14,N/B,1061
+2017-04-12,505,18:48:00,Wednesday,Munro,Utilized Off Route,7,14,E/B,4117
+2017-04-12,511,18:58:00,Wednesday,Exhibition Loop,Mechanical,6,12,S/B,1530
+2017-04-12,504,19:15:00,Wednesday,King & Parliament,Mechanical,4,9,E/B,4153
+2017-04-12,504,20:17:00,Wednesday,Broadview Ave. and Mountstephen Rd.,Mechanical,6,10,S/B,4051
+2017-04-12,504,21:47:00,Wednesday,King St. West and Morrison St.,Held By,5,10,W/B,4226
+2017-04-12,514,21:50:00,Wednesday,King St. West and Morrison St.,Held By,2,17,W/B,4413
+2017-04-12,501,23:00:00,Wednesday,QUEEN/VICTORIA,Mechanical,1,1,E/B,4237
+2017-04-12,501,23:11:00,Wednesday,Queen/ Victoria,Mechanical,1,1,W/B,4010
+2017-04-13,511,05:24:00,Thursday,Wilson Garage,Mechanical,4,8,S/B,8353
+2017-04-13,501,05:27:00,Thursday,russell yard,Mechanical,6,12,E/B,4217
+2017-04-13,511,05:42:00,Thursday,Wilson garage,Mechanical,4,8,S/B,8333
+2017-04-13,510,05:43:00,Thursday,Queen at Brooklyn Avenue,General Delay,10,20,W/B,4432
+2017-04-13,509,05:43:00,Thursday,Pape and queen,Held By,6,12,W/B,4409
+2017-04-13,504,05:43:00,Thursday,Queen and Pape,Mechanical,4,8,E/B,4023
+2017-04-13,505,05:43:00,Thursday,Queen at Brooklyn Avenue,Utilized Off Route,10,17,W/B,4099
+2017-04-13,510,05:43:00,Thursday,Queen at Brooklyn Avenue,General Delay,10,20,W/B,4402
+2017-04-13,501,05:45:00,Thursday,Queen and Pape,Held By,5,10,W/B,4238
+2017-04-13,512,06:03:00,Thursday,Roncy Yard,Late Leaving Garage,7,11,N/B,4157
+2017-04-13,504,06:10:00,Thursday,Roncy Yard,Late Leaving Garage,7,18,N/B,4172
+2017-04-13,506,06:46:00,Thursday,Roncesvalles Yard,Mechanical,5,10,E/B,
+2017-04-13,506,07:18:00,Thursday,ruaaell yard,Late Leaving Garage,6,12,E/B,4018
+2017-04-13,535,07:35:00,Thursday,Roncy Yard,Late Leaving Garage,1,1,N/B,4110
+2017-04-13,535,07:35:00,Thursday,Roncy Yard,Late Leaving Garage,1,1,N/B,4110
+2017-04-13,504,07:47:00,Thursday,Roncy Yard,Late Leaving Garage,2,5,N/B,
+2017-04-13,512,07:50:00,Thursday,Roncy Yard,Late Leaving Garage,4,9,N/B,4010
+2017-04-13,512,07:50:00,Thursday,Roncy Yard,Late Leaving Garage,4,9,N/B,4010
+2017-04-13,504,07:54:00,Thursday,Roncy Yard,Late Leaving Garage,2,5,N/B,
+2017-04-13,505,09:51:00,Thursday,Dundas at Parliament,Mechanical,6,12,W/B,4033
+2017-04-13,501,10:13:00,Thursday,Queen and Connaught,Mechanical,1,1,W/B,4238
+2017-04-13,510,10:55:00,Thursday,Spadina at King,Mechanical,8,16,N/B,4405
+2017-04-13,506,10:56:00,Thursday,Palmerston and college,Held By,25,30,B/W,4089
+2017-04-13,502,11:40:00,Thursday,Duncan and Richmond,Investigation,10,20,W/B,8112
+2017-04-13,504,12:08:00,Thursday,Dundas & Bloor,Investigation,22,27,E/B,4189
+2017-04-13,505,12:09:00,Thursday,Dundas at Roncesvalles,Held By,23,29,S/B,4163
+2017-04-13,510,12:29:00,Thursday,Spadina at St.Andrew,Mechanical,1,1,S/B,4413
+2017-04-13,502,13:14:00,Thursday,Bingham Loop,Mechanical,12,24,W/B,7845
+2017-04-13,504,15:27:00,Thursday,Roncesvalles Avenue and Queen Street,Mechanical,2,5,E/B,
+2017-04-13,504,15:30:00,Thursday,Dundas West Stn & Broadview Stn,General Delay,25,15,B/W,
+2017-04-13,514,15:30:00,Thursday,Distrillery Loop to Dufferin Loop,General Delay,25,15,B/W,
+2017-04-13,501,16:00:00,Thursday,Queen Street,General Delay,30,15,B/W,
+2017-04-13,504,16:17:00,Thursday,Roncesvalles Avenue and Queen Street,Mechanical,3,5,E/B,
+2017-04-13,505,17:16:00,Thursday,Howard Park Ave and Dundas,Held By,12,18,W/B,4117
+2017-04-13,504,17:38:00,Thursday,Roncy & Wright,Utilized Off Route,16,21,N/B,4169
+2017-04-13,504,17:49:00,Thursday,Richmond & Victoria,Investigation,8,16,W/B,4080
+2017-04-13,501,17:50:00,Thursday,Neville Park Loop,Investigation,16,22,W/B,4242
+2017-04-13,504,18:24:00,Thursday,Broadview & Langley,Mechanical,8,16,E/B,4037
+2017-04-13,506,18:54:00,Thursday,Howard Park & Sunnyside,Mechanical,4,10,EB,
+2017-04-13,505,18:54:00,Thursday,DWS,Emergency Services,7,14,W/B,4033
+2017-04-13,506,19:25:00,Thursday,College & Dufferin,Investigation,15,21,EB,4077
+2017-04-13,504,21:15:00,Thursday,King St. West and Queen St. West,Mechanical,5,10,W/B,4024
+2017-04-14,509,00:10:00,Friday,CNE Loop,Mechanical,0,0,WB,4400
+2017-04-14,510,02:02:00,Friday,QSQ/ Spadina,Mechanical,1,0,E/B,4405
+2017-04-14,301,02:26:00,Friday,Dufferin loop.,Mechanical,10,20,W/B,1653
+2017-04-14,501,07:07:00,Friday,Queen and Roncesvalles,Mechanical,8,16,E/B,4209
+2017-04-14,510,08:57:00,Friday,Leslie Barns Yard,Late Leaving Garage,4,8,W/B,4420
+2017-04-14,505,09:18:00,Friday,milbrock/broadview,Investigation,14,20,E/B,4002
+2017-04-14,504,09:37:00,Friday,Leslie yard,Late Leaving Garage,6,13,W/B,4423
+2017-04-14,504,11:28:00,Friday,Roncesvalles Yard,Mechanical,7,14,W/B,4020
+2017-04-14,511,13:14:00,Friday,fleet/bathurst,Investigation,5,10,S/B,1656
+2017-04-14,506,14:13:00,Friday,College and Bathurst,Diversion,5,10,B/W,4001
+2017-04-14,505,14:30:00,Friday,broadview/dundas,Mechanical,5,10,E/B,4037
+2017-04-14,501,14:44:00,Friday,York and Queen,Held By,52,58,B/W,4212
+2017-04-14,501,15:25:00,Friday,Palmerston and Queen,Investigation,35,41,W/B,4208
+2017-04-14,506,16:41:00,Friday,University & College,Mechanical,7,17,EB,4093
+2017-04-14,506,19:13:00,Friday,Lansdown & College,Held By,14,22,EB,4197
+2017-04-14,506,19:43:00,Friday,College & University,Held By,26,32,WB,4198
+2017-04-14,50,20:20:00,Friday,Queen/ Yonge,Emergency Services,9,14,E/B,4195
+2017-04-14,504,21:32:00,Friday,Dundas West Station Loop to Broadview Station Loop,General Delay,36,15,B/W,
+2017-04-14,514,21:32:00,Friday,Dufferin Loop to Queen/Broadview,General Delay,36,30,B/W,
+2017-04-14,514,23:34:00,Friday,Parliament St. and Queen St. East,Utilized Off Route,15,30,S/B,4402
+2017-04-15,505,01:25:00,Saturday,Dovercourt,Emergency Services,1,1,W/B,4176
+2017-04-15,510,01:28:00,Saturday,Lower Spadina Ave. and Lake Shore Blvd.,Held By,8,18,N/B,4408
+2017-04-15,317,04:15:00,Saturday,Union Tunnel,Held By,84,114,S/B,4426
+2017-04-15,514,08:01:00,Saturday,King at Sumach,Mechanical,1,1,W/B,4425
+2017-04-15,504,08:29:00,Saturday,Roncesvalles carhouse,Mechanical,10,20,N/B,4108
+2017-04-15,501,09:14:00,Saturday,Connaught and Queen,Mechanical,6,12,E/B,4079
+2017-04-15,504,09:18:00,Saturday,Broadview at Withrow,Emergency Services,8,16,N/B,4050
+2017-04-15,501,09:46:00,Saturday,Dufferin Loop,Mechanical,5,10,W/B,7907
+2017-04-15,506,10:17:00,Saturday,High Park Loop,Mechanical,7,14,E/B,4064
+2017-04-15,509,10:31:00,Saturday,CNE Loop,Mechanical,6,12,E/B,4419
+2017-04-15,501,11:20:00,Saturday,Long Branch Loop,Mechanical,6,12,E/B,8074
+2017-04-15,501,11:25:00,Saturday,Queen Street and Dufferin Street,Utilized Off Route,8,15,E/B,1647
+2017-04-15,501,13:04:00,Saturday,Lakeshore and 5th Street,Investigation,12,24,W/B,1067
+2017-04-15,504,13:44:00,Saturday,King & Dowling,Mechanical,31,37,E/B,4161
+2017-04-15,510,14:08:00,Saturday,Union Station,Mechanical,3,15,N/B,4430
+2017-04-15,505,14:13:00,Saturday,Bathurst Street,Held By,6,12,W/B,4057
+2017-04-15,506,14:27:00,Saturday,Yonge at College,Investigation,7,14,E/B,4059
+2017-04-15,501,14:39:00,Saturday,Park Lawn Road,Mechanical,12,24,W/B,8051
+2017-04-15,501,15:44:00,Saturday,Bathurst and Queen,Mechanical,6,12,E/B,4241
+2017-04-15,501,16:01:00,Saturday,Dufferin Loop,Mechanical,12,24,W/B,1573
+2017-04-15,512,16:34:00,Saturday,St Clair W at Keele,Mechanical,4,8,E/B,4160
+2017-04-15,512,17:26:00,Saturday,St Clair W east of Oakwood,Held By,3,7,E/B,4101
+2017-04-15,510,18:04:00,Saturday,Sullivan,Investigation,324,330,S/B,4409
+2017-04-15,512,18:08:00,Saturday,St Clair W east of Oakwood,Held By,8,12,E/B,4101
+2017-04-15,505,18:22:00,Saturday,Bathurst Street,Mechanical,5,10,E/B,4055
+2017-04-15,29,18:25:00,Saturday,,Utilized Off Route,0,0,N/B,1374
+2017-04-15,512,18:43:00,Saturday,St Clair West Stn,Mechanical,4,8,E/B,4133
+2017-04-15,514,20:18:00,Saturday,King St. West and Shaw St.,Mechanical,1,1,W/B,4425
+2017-04-15,514,20:33:00,Saturday,King/Spadina,Emergency Services,5,20,E/B,4418
+2017-04-15,504,20:34:00,Saturday,King/Spadina,Emergency Services,4,12,E/B,4041
+2017-04-15,505,20:52:00,Saturday,Ossington,Emergency Services,10,20,W/B,4089
+2017-04-15,504,20:54:00,Saturday,Broadview Station Loop to Dundas West Station Loop,General Delay,18,12,B/W,
+2017-04-15,506,21:02:00,Saturday,College @ Euclid,Investigation,10,19,W/B,4149
+2017-04-15,514,21:45:00,Saturday,Cherry Loop to Dufferin Loop.,General Delay,18,30,B/W,
+2017-04-15,501,23:17:00,Saturday,Queen Street and University Avenue,Mechanical,23,33,E/B,4134
+2017-04-16,501,00:05:00,Sunday,Long Branch Loop,Investigation,7,12,E/B,1067
+2017-04-16,505,00:20:00,Sunday,Broadview Stn,Mechanical,10,20,W/B,4141
+2017-04-16,505,01:25:00,Sunday,Dundas and Dovercourt,Emergency Services,9,19,W/B,4176
+2017-04-16,301,01:33:00,Sunday,Queen Street and Triller Avenue,Held By,10,20,E/B,4224
+2017-04-16,509,07:01:00,Sunday,Union Platform,Mechanical,1,7,W/B,4426
+2017-04-16,505,07:07:00,Sunday,Broadview Station,Mechanical,10,20,W/B,4121
+2017-04-16,512,08:16:00,Sunday,Roncevalles Yard,Late Leaving Garage,20,10,N/B,4199
+2017-04-16,511,08:17:00,Sunday,Exhibition Place,Mechanical,12,19,S/B,1577
+2017-04-16,510,10:31:00,Sunday,Spadina and Dundas,Mechanical,1,1,S/B,4415
+2017-04-16,501,13:00:00,Sunday,Kingston Rd to Neville Park Loop,Diversion,180,186,B/W,4100
+2017-04-16,512,14:21:00,Sunday,Caledonia,Mechanical,1,5,E/B,4051
+2017-04-16,509,17:10:00,Sunday,Queens Quay @ York,Held By,11,17,W/B,4426
+2017-04-16,505,19:01:00,Sunday,Dundas @ Spadina,Emergency Services,14,20,W/B,4115
+2017-04-16,514,20:45:00,Sunday,King and York,Held By,18,33,W/B,4405
+2017-04-16,504,20:45:00,Sunday,King and York,Held By,18,28,W/B,4096
+2017-04-16,506,21:35:00,Sunday,High Park Loop,Mechanical,10,20,E/B,4161
+2017-04-16,505,22:19:00,Sunday,Broadview Station,Mechanical,10,20,W/B,4082
+2017-04-16,514,23:25:00,Sunday,King and Bathurst,Mechanical,15,30,W/B,4408
+2017-04-17,501,00:35:00,Monday,Qieen west of Ossington,Held By,17,27,B/W,4208
+2017-04-17,506,05:12:00,Monday,Roncy Yard,Late Leaving Garage,5,5,E/B,4069
+2017-04-17,501,05:27:00,Monday,Lakeshore and Kipling,Mechanical,5,10,W/B,8071
+2017-04-17,512,05:40:00,Monday,Ronce Yard,Late Leaving Garage,7,0,N/B,4083
+2017-04-17,501,05:45:00,Monday,Roncy Yard,Late Leaving Garage,12,24,E/B,4002
+2017-04-17,805,06:04:00,Monday,Roncy Yard,Mechanical,33,0,E/B,0
+2017-04-17,805,06:04:00,Monday,Roncesvalles Yard,Mechanical,0,0,B/W,4182
+2017-04-17,509,06:25:00,Monday,Union Platform,Mechanical,6,10,W/B,4420
+2017-04-17,504,06:27:00,Monday,King and Atlantic,Mechanical,14,18,E/B,4240
+2017-04-17,514,06:45:00,Monday,russell yard,Late Leaving Garage,6,12,W/B,4037
+2017-04-17,805,06:47:00,Monday,Roncesvalles Yard,Mechanical,17,0,E/B,4053
+2017-04-17,512,06:54:00,Monday,Roncy Yard,Late Leaving Garage,1,1,N/B,4053
+2017-04-17,501,07:05:00,Monday,Lakeshore and Islington,Mechanical,5,10,W/B,1533
+2017-04-17,501,09:01:00,Monday,Duffrin and Springhurst,Diversion,0,0,E/B,8068
+2017-04-17,505,09:25:00,Monday,Dundas/Euclid,Investigation,8,15,W/B,4066
+2017-04-17,502,10:35:00,Monday,Bingham Loop,Mechanical,10,20,W/B,8189
+2017-04-17,510,12:38:00,Monday,Spadina/Sussex,Mechanical,10,15,S/B,4405
+2017-04-17,501,15:14:00,Monday,Queen @ Dufferin,Held By,8,12,W/B,4177
+2017-04-17,502,15:42:00,Monday,Duncan @ Queen Street,Mechanical,10,20,E/B,7877
+2017-04-17,506,16:20:00,Monday,High Park Loop,Mechanical,6,12,E/B,4018
+2017-04-17,506,16:52:00,Monday,College @ Lansdowne,Mechanical,6,12,E/B,4033
+2017-04-17,512,17:18:00,Monday,St Clair West Stn,Investigation,8,11,E/B,4150
+2017-04-17,501,17:44:00,Monday,Queen street @ Shaw,Mechanical,4,8,W/B,4177
+2017-04-17,504,18:15:00,Monday,King & Jameson,Mechanical,2,4,W/B,4168
+2017-04-17,504,18:58:00,Monday,King & River,Mechanical,5,10,E/B,7571
+2017-04-17,506,20:40:00,Monday,College @ Spadina,Mechanical,8,16,E/B,4081
+2017-04-18,16,05:58:00,Tuesday,Roncy Yard,Late Leaving Garage,6,12,N/B,4172
+2017-04-18,501,06:12:00,Tuesday,russell yard,Late Leaving Garage,6,12,E/B,4123
+2017-04-18,509,06:27:00,Tuesday,Fleet and bathurst,Mechanical,6,12,E/B,4417
+2017-04-18,805,06:27:00,Tuesday,Roncy Yard.,Late Leaving Garage,6,12,N/B,4114
+2017-04-18,514,06:37:00,Tuesday,russell yard,Mechanical,6,12,W/B,4100
+2017-04-18,501,07:19:00,Tuesday,Longbranch Loop,Mechanical,5,10,E/B,8012
+2017-04-18,504,08:00:00,Tuesday,King and Sherbourne,Mechanical,4,8,E/B,4127
+2017-04-18,501,08:17:00,Tuesday,CNE Loop,Mechanical,5,10,W/B,8210
+2017-04-18,501,08:29:00,Tuesday,Queen and Parliament,Mechanical,5,11,W/B,4238
+2017-04-18,511,08:46:00,Tuesday,CNE Loop,Mechanical,6,12,N/B,1679
+2017-04-18,501,08:53:00,Tuesday,Longbranch Loop,Investigation,5,11,E/B,1525
+2017-04-18,504,09:04:00,Tuesday,Queen and Greenwood,Mechanical,5,11,W/B,4226
+2017-04-18,504,09:47:00,Tuesday,Dundas and Bloor,Investigation,12,17,S/B,4163
+2017-04-18,505,09:47:00,Tuesday,Dundas West Station,Investigation,9,20,E/B,4083
+2017-04-18,501,10:50:00,Tuesday,Long Branch Loop,Mechanical,6,12,E/B,1018
+2017-04-18,501,11:57:00,Tuesday,Queen and Simcoe,Held By,13,18,E/B,4235
+2017-04-18,501,12:20:00,Tuesday,Queen and Simcoe,Held By,10,16,B/W,4028
+2017-04-18,502,14:04:00,Tuesday,Bingham Loop,Mechanical,12,24,W/B,7875
+2017-04-18,504,14:48:00,Tuesday,King/River,Investigation,34,38,E/B,4167
+2017-04-18,502,15:04:00,Tuesday,Duncan,Mechanical,12,24,W/B,7730
+2017-04-18,505,15:06:00,Tuesday,Broadview at Dundas,Late Leaving Garage,4,8,W/B,4147
+2017-04-18,501,16:01:00,Tuesday,Neville Loop,Mechanical,5,11,E/B,4225
+2017-04-18,512,16:33:00,Tuesday,St.Clair W & Caledonia,Emergency Services,20,26,WB,4156
+2017-04-18,501,17:11:00,Tuesday,Colborne Lodge,Mechanical,4,8,W/B,1659
+2017-04-18,501,17:26:00,Tuesday,Sunnyside loop,Mechanical,1,7,W/B,4218
+2017-04-18,805,18:27:00,Tuesday,Bathurst,Investigation,0,0,W/B,4232
+2017-04-18,501,18:35:00,Tuesday,Ohara,Investigation,12,17,E/B,4242
+2017-04-18,505,20:57:00,Tuesday,Dundas at Beverly,Investigation,6,14,E/B,4083
+2017-04-18,514,21:05:00,Tuesday,King and Spadina,Mechanical,1,1,W/B,4404
+2017-04-18,512,22:18:00,Tuesday,Gunns Loop,Mechanical,22,28,EB,4101
+2017-04-18,512,22:18:00,Tuesday,Gunns Loop,Mechanical,28,34,EB,4176
+2017-04-19,501,01:25:00,Wednesday,Queen/University,Emergency Services,19,25,W/B,4094
+2017-04-19,512,04:54:00,Wednesday,Roncy Yard,Late Leaving Garage,6,12,N/B,4145
+2017-04-19,504,05:16:00,Wednesday,Roncy Yard,Late Leaving Garage,10,20,E/B,4218
+2017-04-19,505,05:36:00,Wednesday,Russell  Yard,Late Leaving Garage,11,19,W/B,4044
+2017-04-19,504,05:36:00,Wednesday,Russell Yard,Late Leaving Garage,8,15,W/B,4081
+2017-04-19,505,05:38:00,Wednesday,Russell Yard,Late Leaving Garage,6,12,W/B,4028
+2017-04-19,506,05:44:00,Wednesday,Russell Yard,Late Leaving Garage,20,18,N/B,4082
+2017-04-19,504,05:53:00,Wednesday,Roncy Yard,Late Leaving Garage,7,7,N/B,4125
+2017-04-19,512,06:04:00,Wednesday,Roncy Yard,Late Leaving Garage,6,12,N/B,4180
+2017-04-19,505,06:30:00,Wednesday,Dundas Yonge,Mechanical,7,14,W/B,4161
+2017-04-19,506,06:31:00,Wednesday,Roncy Yard,Late Leaving Garage,6,12,E/B,4167
+2017-04-19,506,06:34:00,Wednesday,Broadview and Gerrard,Mechanical,5,10,W/B,4186
+2017-04-19,506,07:14:00,Wednesday,Roncy Yard.,Late Leaving Garage,6,12,E/B,4030
+2017-04-19,506,07:17:00,Wednesday,Russell Yard,Late Leaving Garage,6,16,N/B,4079
+2017-04-19,504,07:54:00,Wednesday,Roncy Yard.,Mechanical,6,12,E/B,
+2017-04-19,504,08:11:00,Wednesday,Dundas Weats Station,Mechanical,4,8,S/B,4236
+2017-04-19,501,08:29:00,Wednesday,Queen and Carroll,Mechanical,5,11,E/B,4181
+2017-04-19,504,08:31:00,Wednesday,KING and RIVER,Mechanical,23,27,E/B,4240
+2017-04-19,510,10:25:00,Wednesday,Spadina/ Breamner,Mechanical,5,10,S/B,4421
+2017-04-19,512,11:43:00,Wednesday,Winona and St. Clair,Investigation,37,40,E/B,4180
+2017-04-19,501,12:39:00,Wednesday,Long Branch Loop,Mechanical,6,12,E/B,7902
+2017-04-19,505,13:06:00,Wednesday,Dundas/ Roxton rd,Held By,6,15,E/B,4044
+2017-04-19,510,13:23:00,Wednesday,Queens Quay/ Rees st,Investigation,6,12,E/B,4413
+2017-04-19,504,14:02:00,Wednesday,King & Church,Mechanical,5,10,W/B,4123
+2017-04-19,505,14:26:00,Wednesday,Dundas/ Bay,Mechanical,7,14,E/B,4182
+2017-04-19,510,14:29:00,Wednesday,Spadina College,Mechanical,7,14,S/B,4430
+2017-04-19,501,15:09:00,Wednesday,Queen & Bay,Emergency Services,9,15,E/B,4217
+2017-04-19,504,15:15:00,Wednesday,Broadview Stn,Mechanical,5,9,W/B,4025
+2017-04-19,504,15:16:00,Wednesday,Broadview Stn,Mechanical,4,8,S/B,4025
+2017-04-19,510,16:05:00,Wednesday,Spadina and Queens Quay,Mechanical,4,8,N/B,4411
+2017-04-19,501,16:30:00,Wednesday,Queen at Dufferin,Investigation,5,10,E/B,4017
+2017-04-19,501,16:30:00,Wednesday,Queen at Jameson,Investigation,5,9,E/B,8309
+2017-04-19,504,16:46:00,Wednesday,King & Roncy,Mechanical,4,6,W/B,4164
+2017-04-19,505,17:02:00,Wednesday,Dundas at Don Valley Parkway ramp,Held By,23,30,E/B,4155
+2017-04-19,512,19:32:00,Wednesday,St Clair W & Oakwood,Mechanical,14,20,EB,4434
+2017-04-19,501,20:12:00,Wednesday,Queen/Greenwood,Mechanical,5,9,E/B,4110
+2017-04-19,511,21:05:00,Wednesday,Bathurst and Queen,Held By,5,10,N/B,1029
+2017-04-19,506,22:06:00,Wednesday,College & McCaul,Emergency Services,66,72,EB,4171
+2017-04-19,505,22:07:00,Wednesday,Dundas at McCaul,Investigation,3,11,E/B,4048
+2017-04-20,505,05:34:00,Thursday,Roncy Yard,Late Leaving Garage,5,10,E/B,4192
+2017-04-20,506,06:43:00,Thursday,Russell Yard,Late Leaving Garage,6,12,E/B,4181
+2017-04-20,511,06:49:00,Thursday,Bathurst Station,Investigation,7,14,S/B,8368
+2017-04-20,501,06:58:00,Thursday,Longbranch Loop,Mechanical,5,10,E/B,1587
+2017-04-20,512,07:14:00,Thursday,Guns Loop,Mechanical,3,6,E/B,4172
+2017-04-20,514,07:35:00,Thursday,King and Dufferin,Mechanical,8,16,W/B,4199
+2017-04-20,506,07:54:00,Thursday,Roncy Yard,Late Leaving Garage,5,10,E/B,4039
+2017-04-20,501,08:25:00,Thursday,Queen and Yonge,Mechanical,5,11,E/B,4213
+2017-04-20,505,08:29:00,Thursday,Broadview to Parliament along Dundas,General Delay,8,14,B/W,4127
+2017-04-20,504,09:30:00,Thursday,Dundas West to Broadview station,General Delay,10,15,B/W,
+2017-04-20,504,10:51:00,Thursday,Fraser and King,Held By,8,13,E/B,4069
+2017-04-20,505,11:29:00,Thursday,Dundas/ Brodview,Mechanical,8,14,E/B,4164
+2017-04-20,501,11:35:00,Thursday,Queen and Parliament,Mechanical,15,21,E/B,4074
+2017-04-20,504,11:43:00,Thursday,Broadview stn,Mechanical,5,10,S/B,4094
+2017-04-20,501,11:56:00,Thursday,Queensway and Roncesvalles,Mechanical,5,11,E/B,4247
+2017-04-20,502,12:00:00,Thursday,Queen and Church,Investigation,2,12,E/B,7785
+2017-04-20,504,13:00:00,Thursday,Dundas West Stn to Broadview Stn,General Delay,25,20,B/W,
+2017-04-20,505,13:43:00,Thursday,Dundas/ Lansdown,Mechanical,7,14,B/W,4174
+2017-04-20,514,14:00:00,Thursday,Dufferin to Distrillery Loop,General Delay,156,20,B/W,
+2017-04-20,504,15:33:00,Thursday,Broadview & Wolfrey,Held By,16,20,N/B,4147
+2017-04-20,505,15:39:00,Thursday,Millbrook,Emergency Services,11,17,N/B,4164
+2017-04-20,503,16:00:00,Thursday,Wellington Westbound of Church,General Delay,50,55,W/B,
+2017-04-20,501,16:08:00,Thursday,Queen at Yonge,Mechanical,5,10,W/B,4144
+2017-04-20,505,16:09:00,Thursday,Broadview Stn,Mechanical,7,14,S/B,4164
+2017-04-20,506,16:30:00,Thursday,Ossington and College,Mechanical,6,12,EB,4101
+2017-04-20,502,16:35:00,Thursday,Queen at Duncan,Mechanical,10,20,E/B,7861
+2017-04-20,501,16:45:00,Thursday,Dufferin to Parklawn,General Delay,12,17,B/W,1522
+2017-04-20,505,17:00:00,Thursday,Church and Dundas,General Delay,14,21,E/B,4192
+2017-04-20,506,17:21:00,Thursday,College & Yonge,Emergency Services,0,0,EB,4068
+2017-04-20,501,18:00:00,Thursday,Spadina to Neville Park,General Delay,12,17,E/B,4245
+2017-04-20,504,18:00:00,Thursday,King & Roncy,Mechanical,5,9,W/B,4103
+2017-04-20,506,18:01:00,Thursday,College & University,Mechanical,6,12,EB,4115
+2017-04-20,506,18:35:00,Thursday,Gerrard and Brodvew,Mechanical,6,12,EB,4178
+2017-04-20,506,18:51:00,Thursday,Gerrard & Brodview,Mechanical,26,32,EB,4083
+2017-04-20,506,19:08:00,Thursday,Gerrard & Brodview,Mechanical,26,32,EB,4022
+2017-04-20,510,19:14:00,Thursday,King and Spadina,Mechanical,4,8,N/B,4424
+2017-04-20,514,19:22:00,Thursday,Sumach & King,Emergency Services,15,25,W/B,4121
+2017-04-20,501,20:04:00,Thursday,Queen at Shaw,Mechanical,5,10,E/B,4212
+2017-04-20,504,20:17:00,Thursday,Broadview Station Loop,Mechanical,5,10,W/B,4121
+2017-04-20,504,20:20:00,Thursday,Dundas West Station Loop,Utilized Off Route,5,10,E/B,4241
+2017-04-20,509,20:42:00,Thursday,Bathurst & Fleet,Held By,13,20,WB,4419
+2017-04-20,501,20:51:00,Thursday,Roncy/Queen,Mechanical,5,11,W/B,4071
+2017-04-20,501,21:54:00,Thursday,Queensway/Windermere,Mechanical,6,12,E/B,1549
+2017-04-20,512,22:22:00,Thursday,St Clair & Dufferin,Mechanical,28,34,WB,4014
+2017-04-20,501,23:12:00,Thursday,Queen/Sorauren,Mechanical,10,18,W/B,4244
+2017-04-21,510,01:32:00,Friday,Spadina/College,Mechanical,0,0,N/B,4432
+2017-04-21,805,03:26:00,Friday,Queen and Duffrin,Mechanical,10,20,W/B,7444
+2017-04-21,501,05:16:00,Friday,Roncy Yard,Late Leaving Garage,10,10,E/B,4213
+2017-04-21,512,05:26:00,Friday,Roncy Yard,Late Leaving Garage,3,7,N/B,4143
+2017-04-21,504,05:52:00,Friday,Broadview Station,Mechanical,5,10,S/B,4168
+2017-04-21,501,05:56:00,Friday,Russell yard,Mechanical,6,12,E/B,4208
+2017-04-21,506,06:03:00,Friday,russell yard,Mechanical,6,12,E/B,4161
+2017-04-21,502,06:26:00,Friday,Birchmount Garage,Mechanical,12,24,E/B,7716
+2017-04-21,504,06:40:00,Friday,Roncy Yard,Late Leaving Garage,5,10,E/B,4098
+2017-04-21,505,06:46:00,Friday,Dundas/ Lansdown,Diversion,19,26,E/B,4126
+2017-04-21,504,06:47:00,Friday,King and Bathurst,Mechanical,4,8,E/B,4059
+2017-04-21,501,07:15:00,Friday,Queen and Roncesvalles,Mechanical,5,11,W/B,4238
+2017-04-21,506,07:23:00,Friday,Woodbine and Gerrard.,Mechanical,20,25,W/B,4002
+2017-04-21,506,07:36:00,Friday,Roncy Yard,Late Leaving Garage,5,10,E/B,4011
+2017-04-21,504,07:59:00,Friday,King and Sumach,Mechanical,22,28,E/B,4218
+2017-04-21,509,08:40:00,Friday,Bathurst and Fleet,Mechanical,6,12,W/B,4423
+2017-04-21,504,08:52:00,Friday,King and River,Mechanical,5,10,W/B,7588
+2017-04-21,501,09:16:00,Friday,Queen and Roncesvalles,Mechanical,8,14,E/B,4225
+2017-04-21,512,09:30:00,Friday,St. Clair West Stn.,Held By,13,17,B/W,4050
+2017-04-21,512,10:52:00,Friday,Vaughn and St. Clair,Mechanical,12,15,W/B,4176
+2017-04-21,510,10:54:00,Friday,Spadina and Queens Quay,Mechanical,6,12,N/B,4405
+2017-04-21,511,10:58:00,Friday,Bathurst Stn,Utilized Off Route,6,12,W/B,1822
+2017-04-21,506,14:41:00,Friday,Carlton @ Church,Mechanical,19,25,E/B,4142
+2017-04-21,504,14:57:00,Friday,Roncy & King,Mechanical,3,6,E/B,
+2017-04-21,504,15:38:00,Friday,Roncy & King,Mechanical,2,5,E/B,
+2017-04-21,506,16:14:00,Friday,Gerrard @ River,Held By,24,29,W/B,4084
+2017-04-21,502,17:01:00,Friday,Duncan & Richmond,Mechanical,10,20,B/W,7719
+2017-04-21,501,17:55:00,Friday,Neville Park to Roncesvalles,Diversion,10,15,B/W,4224
+2017-04-21,512,18:14:00,Friday,St Clair West Stn,Mechanical,6,12,W/B,4170
+2017-04-21,504,18:42:00,Friday,King & Shaw,Mechanical,2,4,E/B,4043
+2017-04-21,501,20:08:00,Friday,Queen/ Shaw,Mechanical,5,11,W/B,4245
+2017-04-21,504,21:00:00,Friday,Broadview Station Loop to Dundas West Station  Loop,General Delay,32,10,B/W,
+2017-04-21,501,21:18:00,Friday,Neville Park loop,Mechanical,5,11,W/B,4235
+2017-04-21,501,23:00:00,Friday,Queen st,General Delay,1,1,B/W,
+2017-04-22,501,01:12:00,Saturday,Queen and Victoria,Investigation,9,18,E/B,4154
+2017-04-22,501,01:33:00,Saturday,Russell yard,Mechanical,9,18,E/B,4154
+2017-04-22,510,08:52:00,Saturday,Spadina/Nassau,Mechanical,1,1,N/B,4426
+2017-04-22,512,09:17:00,Saturday,St.Clair West,Investigation,1,6,E/B,4143
+2017-04-22,506,09:39:00,Saturday,Roncesvalles Yard,Late Leaving Garage,10,14,E/B,4132
+2017-04-22,509,10:05:00,Saturday,King,Mechanical,1,6,W/B,4402
+2017-04-22,501,10:42:00,Saturday,Queen and Roncy,Mechanical,16,21,E/B,4190
+2017-04-22,504,10:53:00,Saturday,Roncesvalles and Queen,Held By,16,12,S/B,4199
+2017-04-22,505,11:22:00,Saturday,Dundas/Bay,General Delay,12,17,W/B,4135
+2017-04-22,501,11:25:00,Saturday,Queen and Maccaul,Mechanical,6,12,E/B,4028
+2017-04-22,705,11:27:00,Saturday,Yonge to Gunns,Utilized Off Route,6,12,B/W,4082
+2017-04-22,512,11:27:00,Saturday,Gunns,Mechanical,1,6,E/B,4110
+2017-04-22,506,11:59:00,Saturday,Bay,Held By,12,16,W/B,4093
+2017-04-22,506,11:59:00,Saturday,Danforth,Held By,2,8,S/B,4144
+2017-04-22,501,12:31:00,Saturday,Dufferin at Queen,Mechanical,6,12,W/B,7910
+2017-04-22,512,12:52:00,Saturday,Caledonia,Mechanical,1,5,E/B,4018
+2017-04-22,506,13:05:00,Saturday,Howard Park,Mechanical,2,6,E/B,4113
+2017-04-22,504,13:30:00,Saturday,Broadview Stn To Dundas Stn,General Delay,20,15,B/W,
+2017-04-22,501,14:18:00,Saturday,Kingston Rd & Queen,Mechanical,5,10,W/B,4190
+2017-04-22,501,14:23:00,Saturday,Broadview at Queen,Mechanical,32,38,W/B,4213
+2017-04-22,805,14:51:00,Saturday,Queens Quay and Bay,Investigation,6,12,E/B,8430
+2017-04-22,512,14:56:00,Saturday,Oakwood,Held By,1,6,B/W,4111
+2017-04-22,501,15:07:00,Saturday,Springhurst Loop,Held By,1,1,E/B,0
+2017-04-22,512,15:30:00,Saturday,Gunns Loop to St Clair/Yonge Stn,General Delay,10,8,B/W,
+2017-04-22,510,15:35:00,Saturday,Spadina/Nassau,Investigation,9,14,S/B,4404
+2017-04-22,505,15:45:00,Saturday,Dundas/Bellwoods,Investigation,32,37,W/B,4042
+2017-04-22,501,16:00:00,Saturday,Neville Park to Humber,General Delay,8,14,B/W,4217
+2017-04-22,512,17:10:00,Saturday,St Clair @ Oakwood,Investigation,4,8,W/B,4082
+2017-04-22,501,17:30:00,Saturday,Dufferin Loop,Utilized Off Route,6,12,B/W,1067
+2017-04-22,805,18:21:00,Saturday,Roncesvalles and Howard park,Mechanical,5,10,S/B,4417
+2017-04-22,807,18:44:00,Saturday,Mc Cowan STN,Mechanical,4,8,N/B,7608
+2017-04-22,501,18:49:00,Saturday,Empire at Queen,Emergency Services,10,15,E/B,4235
+2017-04-22,807,20:38:00,Saturday,kennedy STN,Mechanical,4,8,S/B,8364
+2017-04-22,504,20:48:00,Saturday,Broadview Station Loop to Dundas West Station Loop,General Delay,24,12,B/W,
+2017-04-22,514,21:00:00,Saturday,Dufferin Loop to Broadview/Queen,General Delay,24,30,B/W,
+2017-04-22,506,23:38:00,Saturday,College at University,Investigation,19,29,W/B,4149
+2017-04-23,501,03:33:00,Sunday,Connaught and Queen,Investigation,1,1,E/B,4242
+2017-04-23,506,05:45:00,Sunday,Rony Yard,Mechanical,15,30,EB,4018
+2017-04-23,6,06:28:00,Sunday,Roncesvalles Yard,Late Leaving Garage,12,20,E/B,4115
+2017-04-23,805,06:40:00,Sunday,Yonge Street - between King and Wellington,Diversion,1,7,B/W,8339
+2017-04-23,505,06:59:00,Sunday,Broadview/Dundas,Held By,1,6,W/B,4075
+2017-04-23,510,07:10:00,Sunday,Charlotte,Mechanical,1,7,N/B,4415
+2017-04-23,805,09:00:00,Sunday,Union Stn,Utilized Off Route,7,14,W/B,7912
+2017-04-23,504,09:01:00,Sunday,Roncesvalles/Queen,Held By,7,14,W/B,4119
+2017-04-23,512,09:45:00,Sunday,St Clair W. Station,Mechanical,14,20,EB,4125
+2017-04-23,501,10:41:00,Sunday,Lansdowne,Mechanical,1,6,E/B,8097
+2017-04-23,516,10:59:00,Sunday,Russel Yard,Mechanical,6,12,EB,4134
+2017-04-23,506,11:10:00,Sunday,Carlow & Gerrard,Mechanical,6,12,EB,4055
+2017-04-23,505,11:23:00,Sunday,University,General Delay,10,15,W/B,4168
+2017-04-23,505,11:34:00,Sunday,Dovercourt,Held By,0,0,W/B,4168
+2017-04-23,501,12:34:00,Sunday,Kingston Rd at Queen,Investigation,33,38,E/B,4235
+2017-04-23,501,13:00:00,Sunday,Roncy Yard,Late Leaving Garage,5,10,E/B,4066
+2017-04-23,512,13:08:00,Sunday,St Clair W. Station,Mechanical,6,12,WB,4155
+2017-04-23,510,14:01:00,Sunday,Church and Adelaide,Investigation,8,16,S/B,8606
+2017-04-23,501,14:06:00,Sunday,Dufferin at Queen,Mechanical,5,10,W/B,8432
+2017-04-23,504,14:39:00,Sunday,Parliament and Queen,Mechanical,8,16,S/B,4141
+2017-04-23,501,15:00:00,Sunday,Roncesvalles to Neville Park Loop,Diversion,9,14,B/W,4224
+2017-04-23,506,15:07:00,Sunday,Main Stn,Mechanical,16,24,W/B,4081
+2017-04-23,506,15:47:00,Sunday,Gerrard @ Carlaw,Held By,6,14,E/B,4089
+2017-04-23,501,16:09:00,Sunday,Brock at Dufferin,Mechanical,6,12,W/B,4236
+2017-04-23,506,16:18:00,Sunday,College @ Lansdowne,Mechanical,8,16,W/B,4124
+2017-04-23,505,17:21:00,Sunday,Broadview Stn,Mechanical,7,13,W/B,4111
+2017-04-23,505,17:50:00,Sunday,Dundas at Lansdowne,Mechanical,6,13,E/B,4075
+2017-04-23,501,18:05:00,Sunday,Park Lawn Rd and The queensway,Mechanical,43,58,W/B,8065
+2017-04-23,501,20:23:00,Sunday,Queensway Garage,Investigation,7,14,E/B,8412
+2017-04-23,504,20:30:00,Sunday,Dundas West Station Loop to Broadview Station Loop,General Delay,16,15,B/W,
+2017-04-23,504,20:49:00,Sunday,King St. West and Spadina Ave.,Held By,8,18,W/B,4071
+2017-04-23,514,20:51:00,Sunday,King St. West and Spadina Ave.,Held By,6,21,W/B,4418
+2017-04-23,514,21:00:00,Sunday,Dufferin Loop to Broadview/Queen,General Delay,16,30,B/W,
+2017-04-23,504,21:02:00,Sunday,King St. West and Spadina Ave.,Mechanical,15,30,E/B,4086
+2017-04-23,505,22:10:00,Sunday,Dundas at Manning,Investigation,1,12,E/B,4168
+2017-04-23,506,22:56:00,Sunday,Gerrard @ Jones,Emergency Services,6,15,E/B,4052
+2017-04-23,501,23:40:00,Sunday,College st,Utilized Off Route,7,14,E/B,1532
+2017-04-24,504,05:49:00,Monday,Roncesvalles and Queen/Roncy Yard,Late Leaving Garage,12,16,N/B,4110
+2017-04-24,505,05:57:00,Monday,Rusell yard,Mechanical,6,11,N/B,4018
+2017-04-24,504,06:35:00,Monday,Rusell yard,Held By,5,9,N/B,4033
+2017-04-24,504,07:30:00,Monday,Dundas West Stn to Broadview Stn,General Delay,20,15,B/W,
+2017-04-24,512,07:35:00,Monday,Gunns Loop,Mechanical,5,10,EB,4132
+2017-04-24,504,08:00:00,Monday,Queen-Broadview Stn,General Delay,9,16,B/W,
+2017-04-24,506,09:02:00,Monday,Gerrard & Mathews,Investigation,22,28,WB,4001
+2017-04-24,511,09:35:00,Monday,Nassau,Investigation,7,14,N/B,1669
+2017-04-24,504,10:08:00,Monday,King & Spadina,Mechanical,2,5,W/B,4240
+2017-04-24,504,10:22:00,Monday,Roncy & Marion,Investigation,6,12,S/B,7511
+2017-04-24,511,10:35:00,Monday,Dundas,Utilized Off Route,7,14,S/B,1669
+2017-04-24,501,10:53:00,Monday,Queen and University,Mechanical,5,11,W/B,4213
+2017-04-24,506,11:09:00,Monday,Coxwell & Uper Gerrard,Diversion,7,15,EB,4155
+2017-04-24,502,12:31:00,Monday,Bingham Loop,Mechanical,10,20,W/B,7849
+2017-04-24,502,13:37:00,Monday,Bingham Loop,Mechanical,10,20,W/B,7761
+2017-04-24,504,13:47:00,Monday,Roncesvalles/Queen,Late Leaving Garage,5,9,W/B,4114
+2017-04-24,505,13:54:00,Monday,Church,Held By,43,50,W/B,4010
+2017-04-24,511,14:10:00,Monday,Dundas,Utilized Off Route,6,12,S/B,1669
+2017-04-24,510,14:43:00,Monday,Spadina Station,Mechanical,4,8,S/B,4405
+2017-04-24,502,14:48:00,Monday,Eastbound Queen at Parliament,Mechanical,10,20,E/B,7715
+2017-04-24,505,14:50:00,Monday,Dovercourt,Mechanical,23,30,W/B,4069
+2017-04-24,506,15:00:00,Monday,Gerrard @ Broadview,Investigation,9,15,E/B,4199
+2017-04-24,505,15:00:00,Monday,University to Broadview Station,General Delay,10,15,B/W,
+2017-04-24,506,15:23:00,Monday,Gerrard @ Jones,Investigation,15,21,W/B,4179
+2017-04-24,506,15:38:00,Monday,Dundas West @ Morrow,Mechanical,6,12,W/B,4155
+2017-04-24,501,15:56:00,Monday,Westbound Lakeshore at Windemere,Mechanical,6,12,W/B,8086
+2017-04-24,504,16:16:00,Monday,Bingham loop,Mechanical,12,28,W/B,8148
+2017-04-24,504,16:17:00,Monday,Roncesvalles/Queen,Mechanical,3,4,W/B,
+2017-04-24,504,16:55:00,Monday,Broadview stn,Late Leaving Garage,4,9,W/B,7621
+2017-04-24,504,17:09:00,Monday,Roncesvalles/Queen,Mechanical,4,9,W/B,4068
+2017-04-24,501,17:18:00,Monday,Eastbound Queen and Niagra,Mechanical,10,15,E/B,4209
+2017-04-24,509,17:26:00,Monday,Queens Quay Loop,Held By,6,12,E/B,4400
+2017-04-24,501,17:40:00,Monday,Westbound Queen at Dufferin,Mechanical,5,10,W/B,4074
+2017-04-24,512,18:33:00,Monday,St Clair west of Bathurst,Mechanical,11,15,W/B,1602
+2017-04-24,509,18:37:00,Monday,Fleet Loop,Held By,6,12,W/B,4418
+2017-04-24,501,19:48:00,Monday,Roncy Yard,Held By,0,0,,4241
+2017-04-24,509,20:03:00,Monday,Queens Quay @ Rees,Mechanical,10,16,E/B,4424
+2017-04-24,510,20:32:00,Monday,Spadina and Queens Quay,Mechanical,1,1,N/B,4416
+2017-04-24,501,20:54:00,Monday,Queen and Woodbine,Mechanical,5,10,W/B,4235
+2017-04-24,501,22:45:00,Monday,Longbranch loop,Mechanical,6,12,W/B,1601
+2017-04-24,501,23:34:00,Monday,Springhurst loop,Mechanical,7,14,W/B,1604
+2017-04-24,501,23:53:00,Monday,Queen and Woodbine,Mechanical,10,20,W/B,4210
+2017-04-25,506,00:05:00,Tuesday,Gerrard @ Coxwell,Mechanical,9,18,E/B,4030
+2017-04-25,504,00:23:00,Tuesday,Broadview Ave. and Gerrard St.,Held By,18,26,N/B,6681
+2017-04-25,501,04:47:00,Tuesday,Danforth and Warden,Mechanical,0,0,W/B,8141
+2017-04-25,301,05:14:00,Tuesday,Longbranch Loop,Investigation,0,0,W/B,1540
+2017-04-25,504,05:52:00,Tuesday,Roncesvalles and Queen,Mechanical,6,12,E/B,4050
+2017-04-25,504,06:14:00,Tuesday,Roncesvalles and Queen,Late Leaving Garage,4,8,E/B,
+2017-04-25,504,06:28:00,Tuesday,Roncesvalles and Queen,Late Leaving Garage,4,8,E/B,4154
+2017-04-25,505,07:11:00,Tuesday,DUNDAS /OSSINGTON,Mechanical,6,13,E/B,4096
+2017-04-25,505,07:20:00,Tuesday,Dundas west station,Mechanical,10,12,E/B,4057
+2017-04-25,501,07:34:00,Tuesday,Queen and Connaught,Mechanical,5,11,E/B,4216
+2017-04-25,511,07:38:00,Tuesday,Portland/Wellington,General Delay,714,728,NB,1687
+2017-04-25,504,07:56:00,Tuesday,Roncesvalles and Queen,Late Leaving Garage,2,4,E/B,
+2017-04-25,501,08:12:00,Tuesday,Queen and McCaul,Emergency Services,21,27,E/B,4012
+2017-04-25,511,08:44:00,Tuesday,Lakeshore and Fleet to King st,General Delay,12,17,B/W,1244
+2017-04-25,501,09:09:00,Tuesday,Queen and York,Investigation,13,19,W/B,4212
+2017-04-25,501,09:32:00,Tuesday,Queen and Connaught,Mechanical,5,11,W/B,4247
+2017-04-25,501,10:58:00,Tuesday,Queen and Duffrin,Mechanical,6,12,W/B,7910
+2017-04-25,502,11:04:00,Tuesday,Queen and Jarvis,Investigation,10,20,W/B,8172
+2017-04-25,505,11:34:00,Tuesday,Dundas/Lansdowne,Mechanical,6,13,E/B,4193
+2017-04-25,501,12:01:00,Tuesday,Sunnyside Loop,Mechanical,6,12,E/B,4222
+2017-04-25,505,13:30:00,Tuesday,Dundas/Parlament,Mechanical,7,14,W/B,4042
+2017-04-25,501,13:34:00,Tuesday,Queen at Connaught,Mechanical,6,12,W/B,4093
+2017-04-25,504,15:19:00,Tuesday,Roncesvalles/Queen,Late Leaving Garage,2,6,E/B,4103
+2017-04-25,504,16:17:00,Tuesday,Roncesvalles/Queen,Late Leaving Garage,3,5,E/B,4105
+2017-04-25,504,16:26:00,Tuesday,Broadview/Gerrard,Investigation,11,16,E/B,4126
+2017-04-25,504,17:08:00,Tuesday,Roncesvalles/Queen,Mechanical,2,5,W/B,4103
+2017-04-25,504,17:46:00,Tuesday,Roncesvalles/Queen,Mechanical,5,9,W/B,4131
+2017-04-25,504,19:00:00,Tuesday,Roncesvalles/Queen,Mechanical,3,8,W/B,4098
+2017-04-25,510,19:39:00,Tuesday,Spadina and Sullivan,Mechanical,1,1,S/B,4412
+2017-04-25,505,19:53:00,Tuesday,Dundas at Bay,Investigation,3,8,E/B,4057
+2017-04-25,506,21:05:00,Tuesday,College & Euclid,Held By,7,15,E/B,4002
+2017-04-25,506,21:10:00,Tuesday,College & Lansdown,Mechanical,7,14,E/B,4052
+2017-04-25,501,22:00:00,Tuesday,Queen and Connaught,Mechanical,6,12,E/B,4240
+2017-04-26,504,00:31:00,Wednesday,Broadview north of Queen,Mechanical,7,14,W/B,4050
+2017-04-26,504,05:15:00,Wednesday,Roncy & Queen,Mechanical,10,20,E/B,4103
+2017-04-26,506,05:33:00,Wednesday,Howard Park and Roncesvalles,Late Leaving Garage,5,10,E/B,0
+2017-04-26,512,05:33:00,Wednesday,Roncy Yard,Mechanical,0,0,N/B,4169
+2017-04-26,501,05:35:00,Wednesday,Queen and Shaw,Mechanical,12,24,E/B,4224
+2017-04-26,504,07:22:00,Wednesday,King & John,Investigation,2,4,W/B,7583
+2017-04-26,501,07:27:00,Wednesday,Longbranch Loop,Mechanical,5,11,E/B,1041
+2017-04-26,504,07:31:00,Wednesday,Roncesvalles and Queen,Late Leaving Garage,2,4,E/B,
+2017-04-26,501,09:50:00,Wednesday,Spadina to Church,Diversion,0,0,E/B,4216
+2017-04-26,512,10:59:00,Wednesday,St. Claire./Dufferin,Emergency Services,38,42,E/B,4199
+2017-04-26,504,11:30:00,Wednesday,King & Ontario,Mechanical,5,10,W/B,4053
+2017-04-26,504,12:10:00,Wednesday,King & Simcoe,Held By,4,8,E/B,4189
+2017-04-26,501,13:00:00,Wednesday,Sunnyside loop-Neville loop,General Delay,12,17,B/W,
+2017-04-26,501,13:09:00,Wednesday,Queen/Pape,Investigation,6,12,E/B,4164
+2017-04-26,501,13:41:00,Wednesday,Lakeshore/Norris,Investigation,6,12,E/B,1663
+2017-04-26,501,14:03:00,Wednesday,King/Dufferin,Investigation,6,12,W/B,1380
+2017-04-26,505,15:00:00,Wednesday,Dundas West to Braodview Stns,General Delay,20,15,B/W,
+2017-04-26,503,16:35:00,Wednesday,Eglinton Garage,Late Leaving Garage,7,14,B/W,7735
+2017-04-26,511,16:49:00,Wednesday,Bathurst Stn - exiting,Investigation,2,5,S/B,1806
+2017-04-26,501,17:53:00,Wednesday,Queen/Jarvis,Mechanical,5,10,E/B,7716
+2017-04-26,503,18:38:00,Wednesday,Jarvis/King,Mechanical,8,16,E/B,7746
+2017-04-26,511,18:39:00,Wednesday,Bathurst at Dundas,Investigation,2,5,S/B,1806
+2017-04-26,510,19:45:00,Wednesday,Spadina at Queen,Investigation,5,9,N/B,4419
+2017-04-26,501,20:04:00,Wednesday,37th st/lakeshore,Mechanical,6,12,B/W,8371
+2017-04-26,510,20:34:00,Wednesday,Spadina at Queen,Held By,30,34,S/B,
+2017-04-26,511,21:25:00,Wednesday,CNE Eastern entrance,Mechanical,5,10,N/B,1706
+2017-04-27,501,04:10:00,Thursday,Queen and Bathurst,Investigation,30,60,E/B,1530
+2017-04-27,501,05:17:00,Thursday,Mt. Dennis Garage,Mechanical,11,22,W/B,1017
+2017-04-27,501,06:25:00,Thursday,Mt. Dennis Garage,Mechanical,5,10,E/B,1601
+2017-04-27,501,06:49:00,Thursday,Queen and Connaught,Mechanical,5,10,E/B,4240
+2017-04-27,502,06:51:00,Thursday,Queen and Connaught,Investigation,5,17,W/B,7802
+2017-04-27,504,07:16:00,Thursday,Roncy & Marion,Mechanical,7,11,W/B,4042
+2017-04-27,504,07:30:00,Thursday,Dundas West to Broadview Stn,General Delay,15,10,B/W,
+2017-04-27,506,07:32:00,Thursday,Brock and College,Held By,8,13,E/B,4090
+2017-04-27,501,08:11:00,Thursday,The Queensway and Parkside,Investigation,5,10,W/B,1603
+2017-04-27,501,08:46:00,Thursday,Lakeshore and Burlington,Mechanical,5,10,W/B,8370
+2017-04-27,504,09:34:00,Thursday,King & Bay,Investigation,5,10,W/B,4178
+2017-04-27,505,10:26:00,Thursday,JARVIS,Investigation,15,22,E/B,4018
+2017-04-27,505,10:26:00,Thursday,JARVIS,General Delay,15,22,E/B,505
+2017-04-27,505,10:46:00,Thursday,Dundas/ Roncesvalles,Mechanical,7,13,E/B,4170
+2017-04-27,501,11:03:00,Thursday,Queen at Beech,Emergency Services,67,73,B/W,4241
+2017-04-27,505,12:22:00,Thursday,BATHURST,General Delay,14,121,W/B,4030
+2017-04-27,501,13:14:00,Thursday,Queen at Greenwood,Mechanical,6,12,E/B,4245
+2017-04-27,512,13:20:00,Thursday,Vaughn and St Clair,Held By,14,17,E/B,4081
+2017-04-27,501,13:56:00,Thursday,Queen and Degrassi,Diversion,227,232,B/W,4213
+2017-04-27,504,14:06:00,Thursday,King and Parliament,Diversion,61,66,E/B,4086
+2017-04-27,504,15:00:00,Thursday,Dundas west to Broadview station,General Delay,15,19,B/W,
+2017-04-27,511,15:06:00,Thursday,bathurst/fleet,Investigation,5,10,S/B,8334
+2017-04-27,501,16:01:00,Thursday,Gerrard and Coxwell,Mechanical,12,18,E/B,4245
+2017-04-27,506,16:06:00,Thursday,Lower Gerrard St. and Woodfieald Rd.,Held By,13,18,E/B,4190
+2017-04-27,505,16:15:00,Thursday,dundas/church,Held By,8,13,B/W,4126
+2017-04-27,506,16:26:00,Thursday,Lower Gerrard St. and Woodfield St.,Mechanical,5,10,E/B,4189
+2017-04-27,504,16:48:00,Thursday,King and Parliament,Diversion,25,29,E/B,4010
+2017-04-27,504,17:53:00,Thursday,Dundas West Station,Mechanical,4,8,S/B,4236
+2017-04-27,501,18:48:00,Thursday,Long Branch Loop,Mechanical,6,12,E/B,8081
+2017-04-27,512,18:58:00,Thursday,Gunn's Loop,Mechanical,3,6,E/B,4032
+2017-04-27,506,19:50:00,Thursday,Upper Gerrard St. and Glenmount St.,Mechanical,10,15,W/B,4074
+2017-04-27,505,21:00:00,Thursday,bay/bathurst,Investigation,46,55,W/B,4045
+2017-04-27,504,21:46:00,Thursday,Broadview and Mount Stephen,Mechanical,4,8,S/B,4044
+2017-04-27,504,22:11:00,Thursday,King and Bay,Mechanical,4,8,W/B,4106
+2017-04-27,501,23:11:00,Thursday,Roncesvalles and Queen,Mechanical,10,20,W/B,4209
+2017-04-27,511,23:30:00,Thursday,bathurst station,Mechanical,6,12,S/B,1374
+2017-04-27,505,23:45:00,Thursday,dundas west station,Mechanical,10,20,E/B,4022
+2017-04-28,512,05:18:00,Friday,Bathurst and St.Clair,Late Leaving Garage,2,7,E/B,4057
+2017-04-28,501,05:18:00,Friday,Roncesvalles and Queen,Late Leaving Garage,12,24,E/B,4214
+2017-04-28,501,05:43:00,Friday,Queen and Shaw,Diversion,0,0,B/W,4243
+2017-04-28,502,05:45:00,Friday,Kingston Rd. and Queen,Mechanical,12,24,W/B,8121
+2017-04-28,504,06:12:00,Friday,Roncesvalles and Queen,Late Leaving Garage,4,8,E/B,4082
+2017-04-28,504,06:28:00,Friday,Roncesvalles and Queen,Late Leaving Garage,4,8,E/B,4098
+2017-04-28,501,09:05:00,Friday,Queen and Peter,Investigation,12,18,E/B,4182
+2017-04-28,503,09:14:00,Friday,Queen & Woodwood,Investigation,12,0,W/B,7727
+2017-04-28,505,09:25:00,Friday,DWS,Mechanical,1,1,E/B,4145
+2017-04-28,502,10:15:00,Friday,Bingham Loop,Investigation,10,20,W/B,
+2017-04-28,512,10:22:00,Friday,Russell hill and St Clair Ave West,Investigation,71,74,W/B,4194
+2017-04-28,510,10:24:00,Friday,Spadina at King,Mechanical,0,0,N/B,4408
+2017-04-28,506,10:43:00,Friday,Broadview and gerrard,Mechanical,5,10,W/B,4139
+2017-04-28,505,11:50:00,Friday,Dundas at Denison,Mechanical,7,14,W/B,4068
+2017-04-28,501,13:42:00,Friday,Lakeshore/Islington,Emergency Services,6,10,W/B,1054
+2017-04-28,501,15:14:00,Friday,QUEEN/PAPE,Mechanical,5,11,W/B,4240
+2017-04-28,501,15:33:00,Friday,LAKESHORE/8TH STREET,Mechanical,6,12,W/B,1246
+2017-04-28,501,15:34:00,Friday,Wilson /Keele,Mechanical,6,12,W/B,8368
+2017-04-28,504,16:09:00,Friday,King and River,Mechanical,4,8,W/B,4053
+2017-04-28,510,16:34:00,Friday,Spadina @ Sussex,Mechanical,4,9,S/B,4414
+2017-04-28,509,16:54:00,Friday,Queens Quay @ Spadina,Mechanical,6,12,E/B,4400
+2017-04-28,502,17:11:00,Friday,Richmond/ Simcoe,Mechanical,12,24,W/B,7726
+2017-04-28,514,17:25:00,Friday,King and Bathurst,Investigation,17,27,E/B,4409
+2017-04-28,504,17:25:00,Friday,King and Bathurst,Investigation,17,21,E/B,4134
+2017-04-28,511,18:45:00,Friday,fort york/bathurst,Investigation,4,8,S/B,1648
+2017-04-28,505,19:21:00,Friday,university/dundas,Investigation,17,23,W/B,4045
+2017-04-28,506,19:23:00,Friday,Gerrard @ Coxwell,Mechanical,7,15,E/B,4173
+2017-04-28,506,19:40:00,Friday,Gerrard @ Coxwell,Mechanical,8,16,E/B,4018
+2017-04-28,501,19:56:00,Friday,Queensway and Roncesvalles,Mechanical,5,10,W/B,8114
+2017-04-28,501,20:00:00,Friday,Neville Loop to Sunnyside Loop,General Delay,30,15,B/W,
+2017-04-28,504,20:05:00,Friday,King and John,Investigation,13,18,W/B,4099
+2017-04-28,506,20:28:00,Friday,Gerrard @ Coxwell,Mechanical,6,12,E/B,4141
+2017-04-28,504,21:00:00,Friday,Dundas West to Broadview STN,General Delay,20,25,B/W,
+2017-04-28,505,21:30:00,Friday,church/carlton,Emergency Services,25,33,W/B,4035
+2017-04-28,501,21:30:00,Friday,Dufferin Loop to Long Branch Loop,General Delay,25,20,W/B,
+2017-04-28,506,21:31:00,Friday,Carlton @ Church,Held By,23,31,W/B,4094
+2017-04-28,501,21:42:00,Friday,Queen St. West and Spadina Ave.,Mechanical,25,35,W/B,4182
+2017-04-28,501,21:45:00,Friday,Queen St. West and Spadina Ave.,Utilized Off Route,6,12,W/B,4182
+2017-04-28,512,22:31:00,Friday,St Clair @ Dufferin,Mechanical,6,12,E/B,4042
+2017-04-28,509,22:38:00,Friday,Queens Quay @ Rees,Investigation,38,42,E/B,4430
+2017-04-28,510,22:40:00,Friday,reese/queens quay,Held By,30,37,S/B,4424
+2017-04-28,506,22:43:00,Friday,Gerrard @ Carlaw,Mechanical,9,18,W/B,4018
+2017-04-28,511,22:55:00,Friday,CNE Loop,Utilized Off Route,6,12,E/B,1011
+2017-04-28,511,23:00:00,Friday,Bathurst @ Queen,Utilized Off Route,6,12,N/B,1370
+2017-04-29,301,03:08:00,Saturday,King St. West and Niagara St.,Investigation,30,60,E/B,4213
+2017-04-29,501,06:32:00,Saturday,Woodbine,Mechanical,6,12,E/B,4214
+2017-04-29,509,08:50:00,Saturday,CNE Loop,Mechanical,5,10,W/B,4425
+2017-04-29,501,09:10:00,Saturday,Connought,Mechanical,6,12,E/B,4096
+2017-04-29,506,09:17:00,Saturday,Lansdown and college,Mechanical,6,12,eb,4136
+2017-04-29,504,09:23:00,Saturday,Broadview/Queen,Late Leaving Garage,8,15,E/B,4127
+2017-04-29,501,11:30:00,Saturday,Bay,Mechanical,7,13,E/B,4153
+2017-04-29,504,12:00:00,Saturday,Roncesvalles/Queen,Late Leaving Garage,6,13,W/B,4089
+2017-04-29,501,12:14:00,Saturday,Roncesvalles Yard,Mechanical,6,12,W/B,4241
+2017-04-29,501,12:35:00,Saturday,Springhurst Loop,Mechanical,5,10,W/B,7938
+2017-04-29,511,13:00:00,Saturday,Bathurst STN,General Delay,5,13,B/W,1013
+2017-04-29,511,13:45:00,Saturday,Bathurst and Fort York,Investigation,6,12,N/B,1801
+2017-04-29,501,14:25:00,Saturday,University at Queen,Held By,10,15,B/W,4065
+2017-04-29,505,14:41:00,Saturday,Broadview and Dundas,Mechanical,5,10,E/B,4155
+2017-04-29,506,14:59:00,Saturday,Morrow Av. And Dundas,Investigation,40,44,wb,4090
+2017-04-29,505,15:06:00,Saturday,Sorauren and Dundas,Held By,32,38,N/B,4160
+2017-04-29,511,15:08:00,Saturday,Fort York,Investigation,6,12,S/B,1829
+2017-04-29,506,15:20:00,Saturday,Whichwood Ave & St Clair W.,Held By,38,44,EB,4050
+2017-04-29,512,15:58:00,Saturday,St Clair West & Vaughan,Mechanical,6,12,EB,4033
+2017-04-29,506,16:28:00,Saturday,College @ Spadina,Mechanical,6,12,W/B,4098
+2017-04-29,501,16:51:00,Saturday,Queen at Woodbine,Mechanical,5,10,E/B,4114
+2017-04-29,506,18:13:00,Saturday,Gerrard @ Coxwell,Mechanical,26,30,E/B,4046
+2017-04-29,506,19:30:00,Saturday,Main Stn,Mechanical,6,12,W/B,4043
+2017-04-29,501,21:30:00,Saturday,Neville Park Loop to Sunnyside Loop,General Delay,31,12,B/W,
+2017-04-29,511,22:55:00,Saturday,CNE Loop,Utilized Off Route,6,12,E/B,1011
+2017-04-30,317,03:26:00,Sunday,Queen's Quay and Bay St.,Mechanical,30,60,S/B,4431
+2017-04-30,504,05:23:00,Sunday,Queen/University,Mechanical,30,0,E/B,4038
+2017-04-30,501,05:40:00,Sunday,Queen/University,Mechanical,9,18,E/B,4217
+2017-04-30,505,05:47:00,Sunday,Dundas/Howard Park,Investigation,11,149,B/W,4051
+2017-04-30,506,05:47:00,Sunday,Roncesvalles @ Howard Park,Diversion,10,20,EB,4198
+2017-04-30,506,06:12:00,Sunday,Ronce Tard,Mechanical,22,12,EB,
+2017-04-30,504,06:33:00,Sunday,Roncesvalles/Queen,Mechanical,9,18,W/B,4192
+2017-04-30,509,07:46:00,Sunday,Ferry Docks @ QQ,Investigation,27,33,EB,4429
+2017-04-30,510,07:49:00,Sunday,Queens Quay,Held By,13,26,E/B,4409
+2017-04-30,501,07:54:00,Sunday,Connought - Russell Yard,Investigation,9,15,W/B,4210
+2017-04-30,501,08:25:00,Sunday,Kipling,Mechanical,1,6,E/B,8099
+2017-04-30,505,08:54:00,Sunday,Broadview and Dundas,Mechanical,11,23,W/B,4134
+2017-04-30,504,09:01:00,Sunday,Roncesvalles/Queen,Late Leaving Garage,7,14,W/B,4045
+2017-04-30,509,09:17:00,Sunday,Roncy Yard,Mechanical,26,32,EB,4105
+2017-04-30,501,09:29:00,Sunday,Dufferin North of Queen,Mechanical,6,12,W/B,7778
+2017-04-30,805,11:29:00,Sunday,University,Investigation,6,12,W/B,7727
+2017-04-30,501,11:32:00,Sunday,University,Held By,14,20,W/B,4249
+2017-04-30,510,11:37:00,Sunday,College,Emergency Services,23,28,S/B,4400
+2017-04-30,505,11:42:00,Sunday,Broadview Station,Mechanical,8,15,S/B,4083
+2017-04-30,504,12:30:00,Sunday,Dufferin St  to Broadview Stn,General Delay,15,21,B/W,
+2017-04-30,512,12:39:00,Sunday,Via Italia,Investigation,2,8,EB,4133
+2017-04-30,509,12:50:00,Sunday,QQ & Spadina,General Delay,15,7,EB,4412
+2017-04-30,511,13:00:00,Sunday,Bathurst STN,General Delay,15,20,B/W,8345
+2017-04-30,510,13:41:00,Sunday,Spadina and King,Utilized Off Route,3,6,E/B,4421
+2017-04-30,504,14:14:00,Sunday,King and Parliament,Mechanical,8,16,B/W,4182
+2017-04-30,512,14:42:00,Sunday,Lansdown & St Clair W.,Mechanical,0,0,EB,4142
+2017-04-30,504,15:00:00,Sunday,Broadview Station,Mechanical,6,12,E/B,4043
+2017-04-30,512,15:25:00,Sunday,St Clair West Stn,Mechanical,0,0,W/B,4000
+2017-04-30,505,15:36:00,Sunday,Spadina,Mechanical,7,14,E/B,4187
+2017-04-30,505,15:54:00,Sunday,Broadview  Stn to DWS,General Delay,15,22,W/B,4085
+2017-04-30,505,16:33:00,Sunday,Dundas at Parliament,Investigation,23,30,E/B,4147
+2017-04-30,501,17:06:00,Sunday,King/Jefferson,Mechanical,10,20,E/B,8118
+2017-04-30,505,18:25:00,Sunday,Dundas at Bay,Held By,26,33,E/B,4134
+2017-04-30,501,18:59:00,Sunday,Kingston Road Loop,Investigation,6,12,W/B,4099
+2017-04-30,511,20:37:00,Sunday,Bathdurst Station,Investigation,8,16,S/B,8313
+2017-04-30,504,22:10:00,Sunday,Broadview Ave. and Dundas St. East,Mechanical,10,20,E/B,4161
+2017-04-30,504,22:10:00,Sunday,King St. West and Queen St. West,Mechanical,10,20,W/B,4043
+2017-04-30,501,22:24:00,Sunday,Spadina and King,Investigation,129,139,S/B,4208

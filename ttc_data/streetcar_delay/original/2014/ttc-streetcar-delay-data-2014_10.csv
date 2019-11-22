@@ -1,0 +1,994 @@
+Report Date,Route,Time,Day,Location,Incident,Min Delay,Min Gap,Direction,Vehicle
+2014-10-01,511,01:00:00,Wednesday,Bathurst Station,Mechanical,18,24,S/B,4190
+2014-10-01,504,05:06:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,10,20,W/B,4046
+2014-10-01,501,05:34:00,Wednesday,Roncevalles and Queen,Mechanical,9,15,W/B,4242
+2014-10-01,510,05:41:00,Wednesday,Spadina and King,Late Leaving Garage,3,6,N/B,4091
+2014-10-01,510,05:43:00,Wednesday,Spadina and King,Late Leaving Garage,4,7,N/B,4161
+2014-10-01,501,05:44:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,6,8,W/B,4223
+2014-10-01,512,05:45:00,Wednesday,Bathurst and St.Clair,Late Leaving Garage,3,6,E/B,4102
+2014-10-01,504,05:50:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,12,14,W/B,4199
+2014-10-01,504,05:53:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,6,12,W/B,4172
+2014-10-01,501,05:56:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,3,7,W/B,4208
+2014-10-01,512,05:59:00,Wednesday,Bathurst and St. Clair,Late Leaving Garage,2,4,W/B,4083
+2014-10-01,510,05:59:00,Wednesday,Spadina and King,Late Leaving Garage,3,6,N/B,4178
+2014-10-01,505,06:00:00,Wednesday,Dundas at Broadview,Late Leaving Garage,5,10,W/B,4035
+2014-10-01,510,06:00:00,Wednesday,Spadina and King,Late Leaving Garage,3,6,S/B,4036
+2014-10-01,511,06:08:00,Wednesday,CNE LOOP,Mechanical,4,8,N/B,4127
+2014-10-01,512,06:08:00,Wednesday,Bathurst and St. Clair,Late Leaving Garage,3,6,E/B,4132
+2014-10-01,512,06:10:00,Wednesday,St. Clair/Bathurst,Mechanical,4,8,E/B,4095
+2014-10-01,511,06:10:00,Wednesday,CNE Loop,Mechanical,4,8,S/B,4127
+2014-10-01,501,06:17:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,3,6,W/B,4236
+2014-10-01,511,06:35:00,Wednesday,BATHURST STATION,Held By,12,16,N/B,4154
+2014-10-01,512,06:42:00,Wednesday,St clair/Bathurst,Mechanical,3,5,E/B,4162
+2014-10-01,501,06:53:00,Wednesday,Queen and Connaught,Mechanical,6,11,E/B,4200
+2014-10-01,501,07:27:00,Wednesday,Queen and Parliament,Investigation,10,15,W/B,4230
+2014-10-01,504,07:27:00,Wednesday,Queen and Parliament,Investigation,2,4,W/B,4019
+2014-10-01,502,07:37:00,Wednesday,Queen and Parliament,Investigation,12,24,W/B,4051
+2014-10-01,502,11:08:00,Wednesday,Queen and Connaught,Mechanical,16,32,W/B,4048
+2014-10-01,501,11:14:00,Wednesday,Queen and Roncesvalles,Mechanical,6,12,W/B,4236
+2014-10-01,505,14:19:00,Wednesday,Dundas/Huron,Held By,13,7,W/B,4128
+2014-10-01,505,14:30:00,Wednesday,Broadview/Dundas,Late Leaving Garage,3,7,E/B,4023
+2014-10-01,506,14:30:00,Wednesday,Carlton Route,General Delay,27,15,B/W,
+2014-10-01,511,14:40:00,Wednesday,Bathurst/Dundas,Utilized Off Route,5,10,S/B,4154
+2014-10-01,511,15:34:00,Wednesday,Bathurst at Queen,Mechanical,5,10,N/B,4167
+2014-10-01,508,16:25:00,Wednesday,Queen and Roncenvales,Mechanical,10,25,E/B,4242
+2014-10-01,504,16:58:00,Wednesday,King St. W at Queensway,Investigation,11,15,W/B,4192
+2014-10-01,506,17:00:00,Wednesday,Main Station - High Park,General Delay,30,15,B/W,
+2014-10-01,512,17:00:00,Wednesday,St. Clair Stn to Gunns Loop,General Delay,15,8,B/W,
+2014-10-01,504,17:29:00,Wednesday,King and Dufferin,Mechanical,3,6,E/B,4038
+2014-10-01,510,18:47:00,Wednesday,Spadina and Queens Quay,Held By,41,43,N/B,4147
+2014-10-01,501,20:06:00,Wednesday,Queen and Gladstone,Investigation,5,16,E/B,4211
+2014-10-01,506,20:33:00,Wednesday,College and University,Mechanical,22,30,W/B,4109
+2014-10-01,506,20:33:00,Wednesday,College and University,Utilized Off Route,22,30,W/B,4164
+2014-10-01,506,20:37:00,Wednesday,College and Spadina,Held By,10,18,E/B,4087
+2014-10-01,505,21:13:00,Wednesday,Dundas and McCaul,Investigation,36,48,E/B,4134
+2014-10-02,501,00:15:00,Thursday,Parklawn and QEW,Held By,10,20,W/B,8067
+2014-10-02,501,00:43:00,Thursday,Humber Loop,Emergency Services,12,9,E/B,4183
+2014-10-02,501,01:18:00,Thursday,Spadina and Queen,Investigation,146,155,B/W,4112
+2014-10-02,501,04:43:00,Thursday,Russell Yard,Mechanical,13,26,E/B,4249
+2014-10-02,510,05:28:00,Thursday,Spadina and King,Late Leaving Garage,2,4,S/B,4400
+2014-10-02,501,05:43:00,Thursday,Queen and Noble,Held By,84,97,W/B,4209
+2014-10-02,506,05:49:00,Thursday,U.GERRARD and WOODBINE,Mechanical,14,19,E/B,4079
+2014-10-02,510,05:59:00,Thursday,Spadina and King,Late Leaving Garage,3,6,N/B,4145
+2014-10-02,510,06:00:00,Thursday,Spadina and King,Late Leaving Garage,3,6,S/B,4127
+2014-10-02,505,06:19:00,Thursday,Dundas/Sackville,Mechanical,5,11,W/B,4100
+2014-10-02,506,06:26:00,Thursday,COLLEGE and LANSDOWNE,Mechanical,37,42,E/B,4029
+2014-10-02,506,06:26:00,Thursday,COLLEGE and LANSDOWNE,Mechanical,21,26,E/B,4010
+2014-10-02,504,06:34:00,Thursday,St. Clair/Bathurst,Mechanical,2,4,W/B,4161
+2014-10-02,505,06:34:00,Thursday,College/Dundas,Held By,6,12,E/B,4051
+2014-10-02,506,06:45:00,Thursday,Lower Gerrard at Coxwell,Late Leaving Garage,4,7,E/B,4034
+2014-10-02,504,07:32:00,Thursday,King and Spadina,Emergency Services,37,39,E/B,4188
+2014-10-02,511,07:32:00,Thursday,CNE Loop,Mechanical,4,8,N/B,4046
+2014-10-02,506,08:13:00,Thursday,BAY and COLLEGE,Mechanical,5,10,E/B,4013
+2014-10-02,511,08:20:00,Thursday,BATHURST and FLEET,Mechanical,4,8,N/B,4167
+2014-10-02,506,08:30:00,Thursday,506 CARLTON,General Delay,16,8,B/W,
+2014-10-02,506,09:06:00,Thursday,COLLEGE and BAY,Mechanical,5,10,E/B,4022
+2014-10-02,506,11:57:00,Thursday,AUGUSTA and COLLEGE,Investigation,5,10,E/B,4072
+2014-10-02,506,12:40:00,Thursday,COLLEGE and MAJOR,Mechanical,17,22,W/B,4074
+2014-10-02,506,12:40:00,Thursday,COLLEGE and MAJOR,Mechanical,17,22,W/B,4074
+2014-10-02,506,12:54:00,Thursday,COLLEGE and MAJOR,Investigation,18,23,W/B,4115
+2014-10-02,505,13:00:00,Thursday,Dundas West Stn to Broadview Stn,General Delay,25,15,B/W,
+2014-10-02,506,13:22:00,Thursday,COXWELL and GERRARD,Mechanical,5,10,W/B,4072
+2014-10-02,504,13:27:00,Thursday,Broadview - Dundas to Queen,Diversion,81,85,B/W,4031
+2014-10-02,504,13:30:00,Thursday,King and Sherbourne,Mechanical,28,33,W/B,4044
+2014-10-02,505,13:33:00,Thursday,Dundas and Parliament,Mechanical,6,12,E/B,4057
+2014-10-02,504,13:48:00,Thursday,Queen/Broadview,Mechanical,16,32,E/B,4128
+2014-10-02,501,13:49:00,Thursday,Queen/Parliament,Held By,6,12,E/B,4217
+2014-10-02,509,13:54:00,Thursday,CNE Loop,Mechanical,4,8,E/B,7552
+2014-10-02,512,14:36:00,Thursday,Bathurst and Bloor St,Mechanical,4,8,N/B,4162
+2014-10-02,504,14:45:00,Thursday,Ronesvalles and Queen,Mechanical,4,8,E/B,4153
+2014-10-02,506,15:00:00,Thursday,Main Station - High Park,General Delay,30,15,B/W,
+2014-10-02,512,15:14:00,Thursday,St Clair West Stn,Mechanical,3,6,W/B,4017
+2014-10-02,512,15:23:00,Thursday,St. Clair and Gunns,Mechanical,4,7,E/B,4097
+2014-10-02,504,15:31:00,Thursday,King and Dunn Ave,Mechanical,15,19,W/B,4136
+2014-10-02,512,15:59:00,Thursday,St. Clair West Stn,Mechanical,4,7,W/B,4176
+2014-10-02,512,15:59:00,Thursday,St Clair West Stn,Mechanical,3,6,W/B,4176
+2014-10-02,511,16:05:00,Thursday,Bathurst and Queen,Mechanical,4,8,N/B,4083
+2014-10-02,505,16:38:00,Thursday,Dundas and Parliament,Emergency Services,20,26,W/B,4099
+2014-10-02,506,16:43:00,Thursday,McCaul and Baldwin,Held By,10,15,N/B,4029
+2014-10-02,505,17:21:00,Thursday,Broadview and Dundas,Mechanical,7,14,S/B,4034
+2014-10-02,509,17:23:00,Thursday,Bay & Front,Investigation,24,28,E/B,7601
+2014-10-02,504,19:36:00,Thursday,King & Peter,Investigation,22,26,E/B,4031
+2014-10-02,504,21:17:00,Thursday,Dundas West Station,Mechanical,12,20,E/B,4078
+2014-10-02,501,21:36:00,Thursday,Neville Loop,Mechanical,9,18,W/B,4238
+2014-10-03,504,02:21:00,Friday,King and Atlantic,Mechanical,12,24,E/B,4047
+2014-10-03,505,05:13:00,Friday,Dundas at Broadview,Late Leaving Garage,7,0,E/B,4062
+2014-10-03,510,05:28:00,Friday,Spadina and King,Mechanical,2,4,S/B,4403
+2014-10-03,510,05:39:00,Friday,Spadina and King,Late Leaving Garage,7,9,S/B,4015
+2014-10-03,510,05:43:00,Friday,Spadina and King,Late Leaving Garage,2,5,N/B,4181
+2014-10-03,510,05:47:00,Friday,Spadina and King,Late Leaving Garage,3,9,N/B,4102
+2014-10-03,512,05:47:00,Friday,Bathurst and St. Clair,Late Leaving Garage,3,6,W/B,4083
+2014-10-03,512,05:51:00,Friday,Bathurst and St. Clair,Late Leaving Garage,3,6,E/B,4091
+2014-10-03,511,05:51:00,Friday,Bathurst and King,Late Leaving Garage,5,9,S/B,4001
+2014-10-03,510,05:54:00,Friday,Spadina and King,Late Leaving Garage,9,12,S/B,4149
+2014-10-03,510,05:55:00,Friday,Spadina and King,Late Leaving Garage,5,9,S/B,4040
+2014-10-03,512,05:58:00,Friday,Bathurst and St. Clair,Late Leaving Garage,3,5,W/B,4104
+2014-10-03,510,05:59:00,Friday,Spadina and King,Late Leaving Garage,3,6,S/B,4112
+2014-10-03,510,06:00:00,Friday,Spadina and King,Late Leaving Garage,3,6,S/B,4045
+2014-10-03,510,06:05:00,Friday,Spadina and King,Late Leaving Garage,2,6,S/B,4123
+2014-10-03,511,06:06:00,Friday,Bathurst and King,Late Leaving Garage,4,8,N/B,4175
+2014-10-03,510,06:06:00,Friday,Spadina and King,Late Leaving Garage,6,8,S/B,4143
+2014-10-03,512,06:07:00,Friday,Bathurst and St. Clair,Late Leaving Garage,3,6,S/B,4186
+2014-10-03,511,06:07:00,Friday,Bathurst and King,Late Leaving Garage,6,9,S/B,4200
+2014-10-03,511,06:13:00,Friday,Bathurst and King,Late Leaving Garage,4,8,N/B,4177
+2014-10-03,511,06:15:00,Friday,Bathurst and King,Late Leaving Garage,4,8,N/B,4039
+2014-10-03,511,06:25:00,Friday,Bathurst and King,Late Leaving Garage,6,9,S/B,4020
+2014-10-03,511,06:25:00,Friday,Bathurst and King,Late Leaving Garage,4,8,N/B,5163
+2014-10-03,506,06:45:00,Friday,Lower Gerrard at Coxwell,Late Leaving Garage,4,7,E/B,4105
+2014-10-03,501,07:09:00,Friday,Queen at Connaught,Late Leaving Garage,2,5,W/B,4251
+2014-10-03,504,07:53:00,Friday,Queen/Roncesvalles,Late Leaving Garage,2,4,W/B,4210
+2014-10-03,512,08:07:00,Friday,St. Clair and Dunvegan Road,Mechanical,6,9,E/B,4144
+2014-10-03,505,08:40:00,Friday,Younge and Adeliade,Mechanical,4,8,W/B,7413
+2014-10-03,501,09:43:00,Friday,queen and Carrol,Mechanical,4,10,EB,4221
+2014-10-03,506,10:10:00,Friday,Bay&Collage,General Delay,6,12,E/B,4027
+2014-10-03,511,10:10:00,Friday,Exhibition Loop to Bathurst Stn,Mechanical,0,0,S/B,4175
+2014-10-03,511,10:36:00,Friday,Queen&bathurst,Mechanical,4,8,N/B,4001
+2014-10-03,511,10:38:00,Friday,Bathurst Stn and Exhibition Loop,Mechanical,6,10,S/B,4001
+2014-10-03,512,10:48:00,Friday,St Clair West Stn,Mechanical,5,11,E/B,4137
+2014-10-03,511,11:00:00,Friday,Collage@bathurst,Mechanical,4,8,S/B,4175
+2014-10-03,506,11:40:00,Friday,Collage&lansdowne,Mechanical,6,12,E/B,4153
+2014-10-03,504,11:59:00,Friday,Roncesvalles and Queen,Mechanical,5,11,W/B,4052
+2014-10-03,505,12:00:00,Friday,Broadview stn.,Mechanical,5,10,W/B,4129
+2014-10-03,510,12:05:00,Friday,Spadina at Adelaide,Mechanical,3,6,S/B,4102
+2014-10-03,502,12:27:00,Friday,McCaul Loop,Utilized Off Route,15,45,E/B,4103
+2014-10-03,502,12:27:00,Friday,McCaul Loop,Mechanical,15,30,E/B,4114
+2014-10-03,505,13:30:00,Friday,Dundas at Beverly,Investigation,9,14,E/B,4118
+2014-10-03,509,13:40:00,Friday,CNE loop,Mechanical,4,8,E/B,7563
+2014-10-03,509,14:20:00,Friday,Exhibition Loop & Union Stn,Utilized Off Route,0,0,B/W,7413
+2014-10-03,501,14:25:00,Friday,Queen St. W at Soho St.,Held By,8,13,E/B,4239
+2014-10-03,509,14:45:00,Friday,Exhibition Loop and Union Stn,Utilized Off Route,0,0,B/W,7513
+2014-10-03,511,15:17:00,Friday,Fleet and Fort York,Mechanical,4,8,N/B,4200
+2014-10-03,506,15:30:00,Friday,Main Station - High Park,General Delay,30,15,B/W,
+2014-10-03,504,15:46:00,Friday,King and Dunn,Investigation,8,11,E/B,4087
+2014-10-03,506,16:41:00,Friday,College and Dovercourt,Held By,21,26,B/W,4057
+2014-10-03,511,17:36:00,Friday,Queen and Bathurst,Investigation,4,8,W/B,4010
+2014-10-03,501,17:40:00,Friday,Queen St. W. at Bathurst St.,Held By,7,12,W/B,4234
+2014-10-03,503,18:15:00,Friday,Wellington & York,Held By,18,30,W/B,4110
+2014-10-03,506,21:30:00,Friday,Main Station - High Park,General Delay,30,15,B/W,
+2014-10-04,504,01:30:00,Saturday,King and Simcoe,Held By,10,18,E/B,4002
+2014-10-04,501,03:13:00,Saturday,Queen and Broadview,Mechanical,15,30,E/B,4221
+2014-10-04,510,04:50:00,Saturday,Roncy yard,Mechanical,16,33,S/B,4403
+2014-10-04,505,05:27:00,Saturday,Russell Yard,Held By,14,24,W/B,4087
+2014-10-04,510,05:45:00,Saturday,Roncy yard,Mechanical,8,17,S/B,4400
+2014-10-04,510,07:36:00,Saturday,Queensquay loop,Mechanical,6,12,N/B,4403
+2014-10-04,510,08:47:00,Saturday,Roncy yard,Mechanical,2,4,N/B,4174
+2014-10-04,510,09:08:00,Saturday,Queen and Spadina,Mechanical,0,0,S/B,4403
+2014-10-04,509,09:12:00,Saturday,Eglinton garage,Mechanical,5,9,W/B,7642
+2014-10-04,501,11:42:00,Saturday,Queen and O'Hara,Investigation,20,25,E/B,4236
+2014-10-04,509,12:35:00,Saturday,Exhibition Loop to Union Stn,Utilized Off Route,4,0,B/W,7642
+2014-10-04,512,12:58:00,Saturday,St Clair West Station,Mechanical,4,8,E/B,4115
+2014-10-04,501,13:26:00,Saturday,Queen and Silverbirch,Investigation,46,51,W/B,4226
+2014-10-04,506,13:37:00,Saturday,Gerrard and Sackville,Investigation,67,68,W/B,4103
+2014-10-04,506,14:26:00,Saturday,Howard Park and Roncesvalles,Mechanical,6,12,W/B,4017
+2014-10-04,501,14:59:00,Saturday,Queen and Sherbourne,Investigation,3,8,E/B,4203
+2014-10-04,504,15:24:00,Saturday,King and Fraser,Held By,23,27,E/B,4157
+2014-10-04,509,15:42:00,Saturday,Exhibition Loop,Utilized Off Route,5,10,E/B,7572
+2014-10-04,512,15:47:00,Saturday,St Clair West Station,Mechanical,4,8,W/B,4089
+2014-10-04,509,17:15:00,Saturday,Exhibition Loop to Union Stn,Utilized Off Route,0,0,B/W,7571
+2014-10-04,504,18:00:00,Saturday,Dundas West Stn to Broadview Stn,General Delay,18,10,B/W,
+2014-10-04,511,19:00:00,Saturday,CNE loop to Bathurst STN,General Delay,20,35,B/W,
+2014-10-04,512,20:53:00,Saturday,St Clair @ Keele,Held By,28,34,W/B,4076
+2014-10-04,506,22:05:00,Saturday,College and Rusholme,Mechanical,6,12,E/B,4094
+2014-10-04,501,22:18:00,Saturday,Church and Richmond,Emergency Services,9,18,E/B,4210
+2014-10-05,506,00:11:00,Sunday,College and Bellvieu,Investigation,12,18,W/B,4121
+2014-10-05,501,00:12:00,Sunday,Queen and Church,Mechanical,9,18,W/B,4220
+2014-10-05,501,01:47:00,Sunday,Humber to Neville,General Delay,15,30,B/W,
+2014-10-05,501,02:32:00,Sunday,Lakeshoshe and Royal York,Investigation,15,30,W/B,7307
+2014-10-05,306,04:53:00,Sunday,Gerrard and Coxwell,Mechanical,30,60,E/B,4064
+2014-10-05,501,05:25:00,Sunday,Spadina to Church,Diversion,198,0,B/W,4226
+2014-10-05,501,08:52:00,Sunday,Queen and McCaul,Mechanical,10,20,W/B,4248
+2014-10-05,501,08:53:00,Sunday,King and York,Mechanical,10,20,E/B,4220
+2014-10-05,504,10:01:00,Sunday,Queen and Broadview,Mechanical,6,11,E/B,4055
+2014-10-05,505,10:14:00,Sunday,Dundas at University,Held By,43,51,B/W,4028
+2014-10-05,509,11:00:00,Sunday,CNE to Front and Bay,Mechanical,6,12,W/B,7866
+2014-10-05,510,11:41:00,Sunday,King and Spadina to Queensquay,Mechanical,2,4,S/B,4177
+2014-10-05,512,14:18:00,Sunday,St Clair West to Younge,Mechanical,6,12,E/B,4115
+2014-10-05,501,15:13:00,Sunday,Connaught to Humber loop,Mechanical,5,10,W/B,4200
+2014-10-05,509,17:25:00,Sunday,Exhibition Loop,Investigation,0,0,B/W,7626
+2014-10-05,510,18:53:00,Sunday,Spadina and Richmond,Mechanical,10,12,S/B,4128
+2014-10-05,506,19:00:00,Sunday,High park Loop to Main STN,General Delay,20,35,B/W,
+2014-10-05,501,19:18:00,Sunday,Queen and Crawford,Emergency Services,10,15,W/B,4222
+2014-10-05,511,20:31:00,Sunday,Bathurst South of College,Held By,59,65,S/B,4153
+2014-10-05,509,20:55:00,Sunday,Bathurst and Lake Shore Blvd W,Utilized Off Route,5,10,W/B,7831
+2014-10-05,506,22:05:00,Sunday,College and Rusholme,Mechanical,6,12,E/B,4094
+2014-10-05,501,22:51:00,Sunday,Neville Loop,Mechanical,10,19,W/B,4250
+2014-10-05,501,23:34:00,Sunday,queen and Spadina,Investigation,7,17,E/B,4240
+2014-10-06,506,01:19:00,Monday,Coxwell and Dundas,Mechanical,11,22,W/B,4016
+2014-10-06,505,02:33:00,Monday,BROADVIEW and GERRARD,Investigation,24,29,W/B,4157
+2014-10-06,502,05:07:00,Monday,Queen at Connaught,Late Leaving Garage,6,0,E/B,4071
+2014-10-06,501,05:34:00,Monday,Roncesvalles Yard,Late Leaving Garage,6,12,W/B,4204
+2014-10-06,504,06:06:00,Monday,Roncesvalles Yard.,Late Leaving Garage,4,8,W/B,4079
+2014-10-06,501,06:07:00,Monday,Queen at Connaught,Late Leaving Garage,5,10,E/B,4216
+2014-10-06,501,06:17:00,Monday,Roncesvalles Yard.,Late Leaving Garage,6,12,W/B,4223
+2014-10-06,501,06:17:00,Monday,Queen at Connaught.,Late Leaving Garage,5,10,E/B,4205
+2014-10-06,512,06:26:00,Monday,Bathurst @ Bloor,Mechanical,0,0,,4021
+2014-10-06,502,06:30:00,Monday,Queen and Connaught,Mechanical,12,24,E/B,4071
+2014-10-06,504,06:46:00,Monday,Broadview Stn,Mechanical,15,17,W/B,4039
+2014-10-06,505,06:47:00,Monday,Broadview Stn,Mechanical,5,10,W/B,4039
+2014-10-06,5,06:47:00,Monday,Humberv Loop,Mechanical,5,10,E/B,4206
+2014-10-06,510,06:51:00,Monday,SPADINA STATION,Mechanical,3,6,S/B,4062
+2014-10-06,505,07:02:00,Monday,BROADVIEW STATION,Mechanical,5,10,W/B,4032
+2014-10-06,506,07:17:00,Monday,Church and Wellington,Held By,136,0,W/B,4133
+2014-10-06,501,08:41:00,Monday,Queen at Connaught,Mechanical,5,10,E/B,4208
+2014-10-06,505,08:55:00,Monday,DUNDAS and HOWARD OARK,Investigation,30,35,W/B,4032
+2014-10-06,512,09:00:00,Monday,St. Clair and Silverthorn,Mechanical,10,14,W/B,4163
+2014-10-06,502,09:13:00,Monday,Queen and Brooklyn,Investigation,4,16,W/B,4107
+2014-10-06,505,11:07:00,Monday,MCCAUL (south of college),Held By,5,10,E/B,4176
+2014-10-06,512,12:44:00,Monday,St. Clair and Vaughan,Investigation,30,35,E/B,4061
+2014-10-06,501,13:17:00,Monday,Queen at Lee,Mechanical,56,62,B/W,4244
+2014-10-06,504,14:32:00,Monday,Roncesvalles Yard,Held By,3,6,wb,4243
+2014-10-06,504,14:33:00,Monday,Brodview and Gerrard,Held By,22,26,E/B,4119
+2014-10-06,504,17:50:00,Monday,Roncesvalles and queen,Mechanical,3,6,W/B,4079
+2014-10-06,505,21:13:00,Monday,Dundas and Crawford,Investigation,40,48,W/B,4124
+2014-10-06,509,21:38:00,Monday,Exhibition Loop,Utilized Off Route,5,10,E/B,7501
+2014-10-07,501,00:12:00,Tuesday,Queen and University,Held By,178,188,B/W,4249
+2014-10-07,506,05:47:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,6,12,W/B,4029
+2014-10-07,504,05:50:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,4,8,W/B,4103
+2014-10-07,506,05:51:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,4,8,W/B,4061
+2014-10-07,512,05:51:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,4,8,W/B,4198
+2014-10-07,512,05:51:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,4,8,W/B,4084
+2014-10-07,511,05:51:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,4,8,W/B,4130
+2014-10-07,504,05:56:00,Tuesday,Queen at Broadview,Late Leaving Garage,6,12,E/B,4195
+2014-10-07,506,05:58:00,Tuesday,Roncesvalles Yard.,Late Leaving Garage,6,12,W/B,4146
+2014-10-07,511,06:20:00,Tuesday,CNE LOOP,Mechanical,4,8,S/B,4149
+2014-10-07,509,06:22:00,Tuesday,Eglinton Garage,Mechanical,7,13,E/B,7626
+2014-10-07,501,06:27:00,Tuesday,Humber Loop,Investigation,6,12,E/B,7329
+2014-10-07,504,06:39:00,Tuesday,DW Stn,Mechanical,6,10,E/B,4022
+2014-10-07,511,07:26:00,Tuesday,COLLEGE and BATHURST,Mechanical,4,8,S/B,4130
+2014-10-07,504,07:30:00,Tuesday,Queen/Roncy,Mechanical,2,4,W/B,4210
+2014-10-07,504,07:41:00,Tuesday,Queen/Roncy,Held By,2,4,E/B,4222
+2014-10-07,504,07:46:00,Tuesday,Queen/Broadview,Mechanical,2,4,E/B,4036
+2014-10-07,505,08:07:00,Tuesday,Dundas and Sackville,Investigation,6,11,W/B,4120
+2014-10-07,501,08:30:00,Tuesday,Queen and Roncesvalles,Mechanical,5,6,W/B,4234
+2014-10-07,504,08:55:00,Tuesday,King/Atlantic,Mechanical,11,13,E/B,4136
+2014-10-07,504,09:42:00,Tuesday,King/Crawford,Mechanical,29,31,E/B,4166
+2014-10-07,504,09:44:00,Tuesday,King/Crawford,Mechanical,27,29,E/B,4195
+2014-10-07,511,10:10:00,Tuesday,King and Bathurst,Investigation,8,12,W/B,4127
+2014-10-07,509,10:20:00,Tuesday,Exhibition Place,Mechanical,4,8,E/B,7727
+2014-10-07,504,10:38:00,Tuesday,Queen/Roncesvalles,Mechanical,5,10,E/B,4222
+2014-10-07,510,12:26:00,Tuesday,Spadina and Queen,Investigation,31,34,S/B,4152
+2014-10-07,510,13:36:00,Tuesday,Spadina and Queens Quay,Mechanical,2,4,N/B,4163
+2014-10-07,506,14:13:00,Tuesday,Upper Gerrard and Main St,Investigation,64,69,E/B,4012
+2014-10-07,509,14:15:00,Tuesday,Bay and Front,Investigation,4,8,N/B,7626
+2014-10-07,511,14:22:00,Tuesday,Bathurst and Front,Mechanical,5,10,N/B,4175
+2014-10-07,509,14:31:00,Tuesday,Exhibition Place,Mechanical,4,8,E/B,7516
+2014-10-07,512,15:55:00,Tuesday,Gunns Loop,Mechanical,4,7,E/B,4102
+2014-10-07,506,16:00:00,Tuesday,Main Station Loop to High Park Loop,General Delay,24,8,B/W,
+2014-10-07,502,16:05:00,Tuesday,Queen at Connaught,Mechanical,12,24,W/B,4074
+2014-10-07,506,16:17:00,Tuesday,College and Dovercourt,Held By,11,16,E/B,4003
+2014-10-07,512,16:55:00,Tuesday,St Clair & Oakwood,Held By,10,14,E/B,
+2014-10-07,505,17:05:00,Tuesday,Dundas and Dufferin,Mechanical,4,9,W/B,4031
+2014-10-07,501,17:10:00,Tuesday,Queen at Church,Investigation,26,32,E/B,4208
+2014-10-07,508,17:15:00,Tuesday,Queen at Church,Held By,23,38,W/B,4233
+2014-10-07,508,17:34:00,Tuesday,King & Queensway,Mechanical,15,30,W/B,4170
+2014-10-07,501,17:55:00,Tuesday,Queen / Ossington,Investigation,15,35,W/B,4222
+2014-10-07,505,18:50:00,Tuesday,Dundas and Jarvis,Held By,15,21,W/B,4053
+2014-10-07,501,19:25:00,Tuesday,Queen & Yonge,Mechanical,5,10,E/B,4233
+2014-10-07,504,22:35:00,Tuesday,King& Jefferson,Investigation,7,14,W/B,4121
+2014-10-07,504,22:55:00,Tuesday,Queen & Wilson Prk,Mechanical,14,21,W/B,4121
+2014-10-08,501,00:18:00,Wednesday,Kingston Rd and Queen,Emergency Services,9,18,E/B,4200
+2014-10-08,510,04:50:00,Wednesday,Queen / Spadina,Late Leaving Garage,4,10,W/B,4178
+2014-10-08,502,05:07:00,Wednesday,Queen at Connaught,Late Leaving Garage,8,0,E/B,4005
+2014-10-08,501,05:24:00,Wednesday,Queen / Roncesvalles,Late Leaving Garage,16,22,W/B,4214
+2014-10-08,506,05:36:00,Wednesday,Queen / Roncesvalles,Late Leaving Garage,3,9,W/B,4146
+2014-10-08,505,05:43:00,Wednesday,Dundas at Broadview,Late Leaving Garage,8,14,E/B,4088
+2014-10-08,504,05:45:00,Wednesday,Broadview Stn,Mechanical,8,15,W/B,4188
+2014-10-08,510,05:54:00,Wednesday,Queen / Spadina,Late Leaving Garage,4,6,W/B,4193
+2014-10-08,505,05:54:00,Wednesday,Dundas at Broadview,Late Leaving Garage,6,12,E/B,4073
+2014-10-08,501,05:55:00,Wednesday,Humber Loop,Mechanical,23,28,E/B,4220
+2014-10-08,512,05:58:00,Wednesday,Bathurst / St. Clair,Late Leaving Garage,6,11,W/B,4024
+2014-10-08,512,05:59:00,Wednesday,Bathurst / St. Clair,Late Leaving Garage,5,7,W/B,4047
+2014-10-08,501,06:00:00,Wednesday,Queen / Spadina,Late Leaving Garage,3,6,W/B,4184
+2014-10-08,512,06:03:00,Wednesday,Bathurst / St. Clair,Late Leaving Garage,2,4,W/B,4015
+2014-10-08,503,06:05:00,Wednesday,Queen at Connaught,Late Leaving Garage,15,0,E/B,4066
+2014-10-08,506,06:06:00,Wednesday,Queen / Roncesvalles,Late Leaving Garage,3,9,W/B,4173
+2014-10-08,512,06:07:00,Wednesday,Bathurst / St. Clair,Late Leaving Garage,6,9,W/B,4045
+2014-10-08,512,06:08:00,Wednesday,Bathurst / St. Clair,Late Leaving Garage,6,9,W/B,4051
+2014-10-08,504,06:09:00,Wednesday,Queen at Broadview,Late Leaving Garage,4,8,E/B,4109
+2014-10-08,504,06:10:00,Wednesday,King/Parliament,Held By,15,23,E/B,4021
+2014-10-08,505,06:16:00,Wednesday,Dundas at Broadview,Late Leaving Garage,6,11,E/B,4086
+2014-10-08,503,06:17:00,Wednesday,Queen at Connaught,Late Leaving Garage,8,12,E/B,4044
+2014-10-08,506,06:27:00,Wednesday,Lower Gerrard at Coxwell,Late Leaving Garage,4,8,E/B,4016
+2014-10-08,506,06:30:00,Wednesday,Lower Gerrard at Coxwell,Late Leaving Garage,4,7,E/B,4114
+2014-10-08,512,06:34:00,Wednesday,St Clair/Bathurst,Mechanical,2,4,W/B,4047
+2014-10-08,501,06:38:00,Wednesday,Queen / Roncesvalles,Late Leaving Garage,4,10,W/B,4223
+2014-10-08,512,06:41:00,Wednesday,Bathurst / St. Clair,Late Leaving Garage,3,5,W/B,4172
+2014-10-08,511,06:52:00,Wednesday,Bathurst station,Utilized Off Route,5,10,S/B,4187
+2014-10-08,506,06:53:00,Wednesday,Lower Gerrard at Coxwell,Late Leaving Garage,4,8,E/B,4140
+2014-10-08,506,07:00:00,Wednesday,Marjory and Gerrard,Mechanical,3,6,E/B,4058
+2014-10-08,504,07:21:00,Wednesday,Queen/Roncesvalles,Late Leaving Garage,2,4,W/B,4201
+2014-10-08,504,07:30:00,Wednesday,Queen/Roncesvalles,Mechanical,2,4,W/B,4248
+2014-10-08,512,08:00:00,Wednesday,St Clair STN,Mechanical,2,5,W/B,4144
+2014-10-08,510,10:19:00,Wednesday,SPADINA STN,Mechanical,2,4,N/B,4403
+2014-10-08,504,10:29:00,Wednesday,King/Duoro,Mechanical,35,39,E/B,4094
+2014-10-08,504,10:33:00,Wednesday,King/Duoro,Mechanical,31,35,E/B,4122
+2014-10-08,509,10:46:00,Wednesday,Harbour and Bay,Investigation,4,8,E/B,7579
+2014-10-08,506,11:00:00,Wednesday,Main station to High Park,General Delay,24,15,B/W,
+2014-10-08,504,11:14:00,Wednesday,King/Atlantic,Mechanical,9,13,W/B,4109
+2014-10-08,504,12:55:00,Wednesday,Broadview and Dundas,Diversion,130,134,W/B,4183
+2014-10-08,504,13:35:00,Wednesday,King and Dufferin,Held By,26,30,B/W,4021
+2014-10-08,502,14:07:00,Wednesday,Mccaul at Queen,Held By,12,28,N/B,4123
+2014-10-08,510,14:58:00,Wednesday,Spadina and Queens Quay.,Mechanical,3,6,N/B,4150
+2014-10-08,505,16:00:00,Wednesday,Dundas West Station to Broadview Station,General Delay,14,6,B/W,
+2014-10-08,506,16:00:00,Wednesday,Main Station - High Park,General Delay,30,15,B/W,
+2014-10-08,508,17:03:00,Wednesday,Roncesvalles carhouse,Mechanical,17,0,E/B,4212
+2014-10-08,509,17:07:00,Wednesday,Queen's Quay West and Dan Leckie Way,Held By,20,24,W/B,7647
+2014-10-08,505,18:30:00,Wednesday,Bay St. to Church St.,General Delay,24,10,B/W,
+2014-10-08,504,19:30:00,Wednesday,Parliament & Queen,Mechanical,21,23,E/B,4149
+2014-10-08,501,19:33:00,Wednesday,Queen at Parliament,Held By,8,14,E/B,4235
+2014-10-08,501,19:47:00,Wednesday,Queen at Kingston,Held By,24,30,E/B,4247
+2014-10-08,506,20:10:00,Wednesday,Gerrard and Logan,Held By,28,36,E/B,4002
+2014-10-08,509,20:17:00,Wednesday,Yonge and Wellington,Investigation,4,8,S/B,7809
+2014-10-08,506,20:18:00,Wednesday,Gerrard and Logan,Held By,41,49,W/B,4112
+2014-10-08,501,20:41:00,Wednesday,Queen and Wverly,Mechanical,6,11,W/B,4223
+2014-10-08,506,21:49:00,Wednesday,College and Grace,Investigation,33,41,E/B,4176
+2014-10-09,504,05:20:00,Thursday,Queen/Broadview,Mechanical,15,23,E/B,4118
+2014-10-09,511,05:20:00,Thursday,cne loop,Mechanical,9,18,N/B,4159
+2014-10-09,511,05:29:00,Thursday,cne loop,Mechanical,18,27,N/B,4024
+2014-10-09,501,05:34:00,Thursday,Queen / Roncesvalles,Late Leaving Garage,6,10,W/B,4218
+2014-10-09,510,05:39:00,Thursday,Queen / Spadina,Late Leaving Garage,9,11,W/B,4177
+2014-10-09,506,05:42:00,Thursday,Coxwell at Lower Gerrard,Late Leaving Garage,2,5,W/B,4068
+2014-10-09,512,05:50:00,Thursday,St. Clair/bathurst,Late Leaving Garage,5,10,E/B,4111
+2014-10-09,502,05:51:00,Thursday,Russell Yard,Late Leaving Garage,6,18,E/B,4066
+2014-10-09,510,05:54:00,Thursday,Queen / Roncesvalles,Late Leaving Garage,10,13,W/B,4128
+2014-10-09,501,05:55:00,Thursday,South kingsway and the Queensway,Mechanical,6,12,W/B,4204
+2014-10-09,506,05:56:00,Thursday,Coxwell at Lower Gerrard,Late Leaving Garage,4,8,W/B,4048
+2014-10-09,504,06:06:00,Thursday,King / Roncesvalles,Late Leaving Garage,3,9,W/B,4150
+2014-10-09,501,06:12:00,Thursday,Queen at Connaught,Late Leaving Garage,5,10,E/B,4236
+2014-10-09,501,06:12:00,Thursday,Queen at Connaught,Late Leaving Garage,9,14,E/B,4223
+2014-10-09,506,06:45:00,Thursday,Lower Gerrard at Coxwell,Late Leaving Garage,4,8,E/B,4156
+2014-10-09,503,07:04:00,Thursday,Kingston Rd and Beech Ave,Mechanical,12,24,E/B,4046
+2014-10-09,504,08:16:00,Thursday,King/Strachan,Mechanical,2,4,W/B,4161
+2014-10-09,509,08:33:00,Thursday,CNE loop,Mechanical,4,8,E/B,7414
+2014-10-09,504,08:34:00,Thursday,King/Sudbury,Mechanical,2,4,E/B,4043
+2014-10-09,504,08:47:00,Thursday,Broadview/Riverdale,Mechanical,2,4,W/B,4237
+2014-10-09,504,08:53:00,Thursday,DW Stn,Mechanical,2,4,E/B,4251
+2014-10-09,506,08:54:00,Thursday,College and Spadina,Investigation,5,10,E/B,4079
+2014-10-09,501,10:13:00,Thursday,Queen and Rushbrooke,Investigation,13,18,E/B,4201
+2014-10-09,512,11:20:00,Thursday,St. Clair and Yonge St,Investigation,23,28,W/B,4170
+2014-10-09,501,11:38:00,Thursday,Neville loop,Mechanical,6,12,W/B,4241
+2014-10-09,501,11:57:00,Thursday,Grennwood and queen,Mechanical,8,14,E/B,4233
+2014-10-09,505,12:28:00,Thursday,Dundas and Brock,Held By,47,52,E/B,4143
+2014-10-09,505,13:46:00,Thursday,dundas at young,Mechanical,5,10,E/B,4143
+2014-10-09,506,14:30:00,Thursday,High Park to Main Station,General Delay,15,20,B/W,
+2014-10-09,504,15:41:00,Thursday,Queen and Roncesvalles,Mechanical,3,6,W/B,4175
+2014-10-09,501,15:44:00,Thursday,Queen & Gladstone,Investigation,57,63,W/B,4214
+2014-10-09,512,15:56:00,Thursday,St. Clair West STN,Mechanical,3,7,W/B,4153
+2014-10-09,506,16:00:00,Thursday,Main Station - High Park,General Delay,40,20,B/W,
+2014-10-09,508,16:18:00,Thursday,Roncesvalles carhouse,Mechanical,12,28,E/B,4246
+2014-10-09,505,16:30:00,Thursday,Dundas West Station to Broadview Station,General Delay,12,6,B/W,
+2014-10-09,501,17:49:00,Thursday,Queen at Mccaul,Investigation,6,12,E/B,4239
+2014-10-09,504,17:51:00,Thursday,King & Jamieson,Held By,305,313,B/W,4197
+2014-10-09,508,17:55:00,Thursday,King at Jameson,Held By,118,134,E/B,4242
+2014-10-09,509,18:14:00,Thursday,Exhibition Loop,Utilized Off Route,4,8,E/B,7406
+2014-10-09,509,18:20:00,Thursday,Exhibition Loop,Utilized Off Route,4,8,E/B,7429
+2014-10-09,510,19:27:00,Thursday,Spadina Loop,Utilized Off Route,3,6,N/B,4145
+2014-10-09,501,19:32:00,Thursday,Lakeshore and Mimico,Investigation,6,12,E/B,8044
+2014-10-09,504,20:02:00,Thursday,King and Shaw,Investigation,6,12,E/B,4120
+2014-10-09,506,20:13:00,Thursday,College and Spadina,Mechanical,7,15,W/B,4140
+2014-10-09,510,22:29:00,Thursday,Front and Spadina,Mechanical,6,13,S/B,4147
+2014-10-09,506,22:55:00,Thursday,Gerrard and Coxwell,Held By,8,17,E/B,4002
+2014-10-10,512,00:34:00,Friday,St Clair and Northcliffe,Held By,28,36,E/B,4106
+2014-10-10,511,00:48:00,Friday,Exhibition Loop,Held By,38,46,N/B,4104
+2014-10-10,506,01:27:00,Friday,Gerrard and Coxwell,Mechanical,10,20,E/B,4156
+2014-10-10,510,04:50:00,Friday,Roncessvalles Yard,Mechanical,20,30,W/B,4177
+2014-10-10,504,05:13:00,Friday,Broadview at Queen,Late Leaving Garage,10,25,E/B,4136
+2014-10-10,502,05:28:00,Friday,Queen at Connaught,Late Leaving Garage,12,19,W/B,4089
+2014-10-10,505,05:36:00,Friday,Dundas at Broadview,Late Leaving Garage,7,15,E/B,4119
+2014-10-10,506,05:50:00,Friday,Coxwell at Lower Gerrard,Late Leaving Garage,3,7,E/B,4000
+2014-10-10,504,06:06:00,Friday,King / Roncesvalles,Late Leaving Garage,3,5,W/B,4188
+2014-10-10,501,06:38:00,Friday,Queen Roncesvalles,Late Leaving Garage,6,8,W/B,4213
+2014-10-10,506,06:54:00,Friday,Lower Gerrard at Coxwell,Late Leaving Garage,4,8,E/B,4090
+2014-10-10,501,06:57:00,Friday,Queen at Connaught,Late Leaving Garage,2,5,W/B,4235
+2014-10-10,506,06:57:00,Friday,Lower Gerrard and Ashdale,Held By,46,50,W/B,4092
+2014-10-10,501,07:20:00,Friday,Queen and Kingston rd,Mechanical,6,12,eb,4225
+2014-10-10,510,07:45:00,Friday,Spadina at Adeliade,Mechanical,3,6,S/B,4170
+2014-10-10,504,07:52:00,Friday,Queen/Broadview,Mechanical,2,4,E/B,4156
+2014-10-10,504,07:53:00,Friday,queen/Broadview,Late Leaving Garage,2,4,W/B,4204
+2014-10-10,504,07:57:00,Friday,Queen/Roncesvalles,Mechanical,2,4,E/B,4113
+2014-10-10,504,07:59:00,Friday,Queen and River,Held By,24,28,W/B,4058
+2014-10-10,505,08:00:00,Friday,Dundas at Ossington,Held By,35,40,E/B,4095
+2014-10-10,501,08:12:00,Friday,Queen St West and Church,Investigation,28,34,E/B,4234
+2014-10-10,505,08:13:00,Friday,Dundas at Sterling,Mechanical,5,10,W/B,4134
+2014-10-10,501,08:36:00,Friday,Queen and Shaw,Investigation,6,12,E/B,4243
+2014-10-10,501,08:47:00,Friday,Yonge and Queen,Mechanical,0,0,E/B,4201
+2014-10-10,510,09:00:00,Friday,Spadina at Adeliade,Mechanical,3,6,S/B,4167
+2014-10-10,504,09:10:00,Friday,King/Spadina,Mechanical,2,4,W/B,4159
+2014-10-10,509,09:15:00,Friday,Exhibition Loop to Union Stn,Utilized Off Route,0,0,B/W,7702
+2014-10-10,509,12:23:00,Friday,Exhibition Loop Union Stn,Utilized Off Route,0,0,B/W,7795
+2014-10-10,506,13:15:00,Friday,Main St and Upper Gerrard,Held By,32,37,E/B,4075
+2014-10-10,504,13:43:00,Friday,King and Bay,Investigation,5,9,E/B,4085
+2014-10-10,501,14:20:00,Friday,Queen at Leslie,Mechanical,10,16,W/B,4239
+2014-10-10,502,14:28:00,Friday,Queen at Leslie,Mechanical,16,32,W/B,4013
+2014-10-10,505,15:00:00,Friday,Broadview at dundas.,Mechanical,5,10,E/B,4157
+2014-10-10,503,16:01:00,Friday,King & Church,General Delay,121,135,W/B,4090
+2014-10-10,505,16:37:00,Friday,Broadview STN,Mechanical,5,10,S/B,4138
+2014-10-10,510,17:00:00,Friday,Spadina & Adelaide,Investigation,3,6,S/B,4146
+2014-10-10,510,17:52:00,Friday,Charlotte Loo[,Mechanical,2,4,S/B,4115
+2014-10-10,510,19:50:00,Friday,Spadina and College,Mechanical,2,4,S/B,4153
+2014-10-10,504,22:32:00,Friday,King & Bathurst,Mechanical,7,14,W/B,4085
+2014-10-10,501,22:45:00,Friday,Neville Park Loop,Investigation,2,16,W/B,4221
+2014-10-10,510,23:02:00,Friday,Bloor Loop,Investigation,4,10,S/B,4403
+2014-10-11,301,02:29:00,Saturday,Long Branch Loop,Mechanical,10,20,E/B,7961
+2014-10-11,509,05:28:00,Saturday,Birchmount Garage,Mechanical,7,13,E/B,7785
+2014-10-11,506,05:48:00,Saturday,Coxwell&Gerarrd,Mechanical,15,30,E/B,4131
+2014-10-11,506,06:00:00,Saturday,gerarrd & jones,Mechanical,7,14,W/B,4026
+2014-10-11,506,06:02:00,Saturday,lansdowne&collage,Mechanical,10,20,E/B,4023
+2014-10-11,501,07:09:00,Saturday,Roncesvalles at Queen,Mechanical,7,15,E/B,4222
+2014-10-11,509,07:17:00,Saturday,Lakeshore and York,Investigation,5,10,E/B,7548
+2014-10-11,504,08:41:00,Saturday,Simcoe to Boadview station,Held By,28,39,E/B,4157
+2014-10-11,504,08:41:00,Saturday,Simcoe and King,Held By,28,39,W/B,4113
+2014-10-11,509,09:00:00,Saturday,CNE to Union,Utilized Off Route,30,36,W/B,7833
+2014-10-11,504,09:12:00,Saturday,King and Dufferin,Mechanical,24,35,W/B,4059
+2014-10-11,501,09:34:00,Saturday,Waverley to Neville,Mechanical,76,85,E/B,4248
+2014-10-11,510,10:09:00,Saturday,Roncesvalles yard,Mechanical,2,4,N/B,4070
+2014-10-11,510,10:21:00,Saturday,Russell yard,Mechanical,2,4,N/B,4127
+2014-10-11,504,12:19:00,Saturday,Jarvis and King,Investigation,41,46,E/B,4181
+2014-10-11,504,12:47:00,Saturday,Danforth and Broadview,Investigation,33,38,N/B,4031
+2014-10-11,505,13:01:00,Saturday,Broadview and Danforth.,Held By,19,24,W/B,4019
+2014-10-11,512,13:28:00,Saturday,St Clair West station,Mechanical,4,8,N/B,4155
+2014-10-11,512,13:40:00,Saturday,St Clair W. St.,Mechanical,5,10,E/B,4155
+2014-10-11,512,15:32:00,Saturday,St Clair west station,Investigation,4,8,W/B,4163
+2014-10-11,512,15:50:00,Saturday,St Clair W. St.,Investigation,6,12,,4163
+2014-10-11,509,15:52:00,Saturday,Exhibition Loop to Union Stn,Utilized Off Route,0,0,B/W,7601
+2014-10-11,512,16:04:00,Saturday,Gunns to Oakwood,Mechanical,4,8,E/B,4152
+2014-10-11,501,21:40:00,Saturday,Queen St. West and University Ave.,Mechanical,7,14,E/B,4214
+2014-10-11,501,22:18:00,Saturday,Neville Park Loop to Humber Loop,General Delay,12,12,B/W,
+2014-10-12,301,01:06:00,Sunday,Neville Park Loop to Humber Loop,General Delay,10,10,B/W,
+2014-10-12,510,07:31:00,Sunday,Queensquay at Spadina,Mechanical,12,24,E/B,4400
+2014-10-12,512,08:43:00,Sunday,St.Clair and Bathurst Street,Late Leaving Garage,6,12,W/B,4171
+2014-10-12,504,09:28:00,Sunday,Queen @Broadview,Mechanical,4,8,E/B,4036
+2014-10-12,504,09:32:00,Sunday,Broadview @ Queen,Mechanical,4,8,E/B,4124
+2014-10-12,510,10:32:00,Sunday,Spadina Avenue and Queen Street East,Mechanical,3,6,E/B,4011
+2014-10-12,504,10:40:00,Sunday,RONCESVALLES And QUEEN,Mechanical,7,14,E/B,4164
+2014-10-12,510,11:25:00,Sunday,Union Station to Spadina Station,General Delay,7,11,N/B,4146
+2014-10-12,509,12:02:00,Sunday,Exhibition Loop,Utilized Off Route,6,12,E/B,7548
+2014-10-12,511,12:47:00,Sunday,Bathurst and Dundas,Emergency Services,205,210,S/B,7807
+2014-10-12,506,12:56:00,Sunday,College Street and Bathurst Street,Emergency Services,116,123,B/W,4048
+2014-10-12,505,13:04:00,Sunday,Bathrust and Dundas,Emergency Services,109,115,B/W,4138
+2014-10-12,504,13:25:00,Sunday,DW. STN.,Mechanical,6,12,E/B,4103
+2014-10-12,501,13:59:00,Sunday,Neville park.,Mechanical,6,12,W/B,4219
+2014-10-12,501,14:05:00,Sunday,The queens way at South kings way,Mechanical,17,22,W/B,4235
+2014-10-12,501,15:24:00,Sunday,Queen at Broadview,Mechanical,6,12,E/B,4216
+2014-10-12,501,17:26:00,Sunday,Queen at Dovercourt,Mechanical,25,31,W/B,4218
+2014-10-12,501,17:26:00,Sunday,Queen  at dovercourt,Mechanical,25,31,W/B,4218
+2014-10-12,506,18:23:00,Sunday,Gerrard and Logan,Mechanical,5,10,W/B,4188
+2014-10-12,501,20:04:00,Sunday,Humber loop,Emergency Services,9,18,E/B,4202
+2014-10-12,504,20:41:00,Sunday,BROADVIEW and QUEEN,Investigation,6,12,W/B,4157
+2014-10-12,510,21:54:00,Sunday,Dundas and Spadina,Mechanical,6,12,N/B,4064
+2014-10-13,306,01:43:00,Monday,Carlton and Sherbourne,Mechanical,11,22,W/B,4156
+2014-10-13,510,06:00:00,Monday,Queens Quay - Spadina to Union - Union to Spadina,General Delay,15,0,S/B,
+2014-10-13,510,08:20:00,Monday,"Spadina Station, southbound platform",General Delay,18,22,S/B,4403
+2014-10-13,501,08:42:00,Monday,queen st east and waverly,Investigation,10,20,W/B,4218
+2014-10-13,510,09:11:00,Monday,"Spadina Station, Southbound Platform",General Delay,27,31,S/B,4145
+2014-10-13,501,10:32:00,Monday,Queen and spadina,Mechanical,10,20,E/B,4237
+2014-10-13,504,15:03:00,Monday,Parliament and Richmond,Held By,30,36,B/W,4181
+2014-10-13,501,17:30:00,Monday,Queensway at Lakeshore,Mechanical,8,14,E/B,4244
+2014-10-13,505,17:32:00,Monday,Dundas and Broadview,Mechanical,6,12,E/B,4026
+2014-10-13,504,19:01:00,Monday,Broadview Avenue south of Dundas,Emergency Services,101,111,B/W,4067
+2014-10-13,511,23:40:00,Monday,Bathurst STN,Investigation,5,10,S/B,7881
+2014-10-14,506,00:13:00,Tuesday,College and Clinton,Investigation,10,20,E/B,4114
+2014-10-14,505,05:13:00,Tuesday,Russell Yard,Mechanical,14,8,W/B,4066
+2014-10-14,505,05:27:00,Tuesday,Russell Yard,Mechanical,14,8,W/B,4066
+2014-10-14,510,05:35:00,Tuesday,Spadina and King,Late Leaving Garage,5,6,S/B,4149
+2014-10-14,506,05:48:00,Tuesday,Howard Park and Roncevalles,Late Leaving Garage,4,8,E/B,4048
+2014-10-14,509,05:57:00,Tuesday,Bathurst and King,Late Leaving Garage,5,10,S/B,4197
+2014-10-14,506,06:06:00,Tuesday,Howard Park and Roncevalles,Mechanical,9,11,E/B,4014
+2014-10-14,501,06:22:00,Tuesday,Roncesvalles and Queen,Diversion,29,35,E/B,4219
+2014-10-14,509,06:26:00,Tuesday,Bathurst and King,Late Leaving Garage,5,9,S/B,4061
+2014-10-14,506,06:30:00,Tuesday,Russell Yard,Late Leaving Garage,24,8,W/B,4043
+2014-10-14,504,06:37:00,Tuesday,Russell Yard,Mechanical,10,16,W/B,4163
+2014-10-14,510,07:19:00,Tuesday,RONCY YARD,Mechanical,6,12,E/B,4140
+2014-10-14,505,07:40:00,Tuesday,BROADVIEW STATION,Mechanical,6,12,E/B,4077
+2014-10-14,504,07:46:00,Tuesday,Queen/Roncesvalles,Late Leaving Garage,2,4,W/B,4209
+2014-10-14,504,08:19:00,Tuesday,King/Spadina,Mechanical,2,4,W/B,4131
+2014-10-14,510,09:29:00,Tuesday,SPADINA and WILLCOCKS,Mechanical,21,23,S/B,4193
+2014-10-14,505,10:00:00,Tuesday,JARVIS and DUNDAS,Held By,6,12,W/B,4138
+2014-10-14,501,12:17:00,Tuesday,Queen and Yonge,Emergency Services,16,22,W/B,4245
+2014-10-14,505,16:22:00,Tuesday,Dundas St. East and Yonge St.,Investigation,12,18,W/B,4036
+2014-10-14,504,17:06:00,Tuesday,Dundas West Station,Utilized Off Route,3,6,E/B,4122
+2014-10-14,501,17:13:00,Tuesday,Queen at Tecumseth,Held By,6,12,E/B,4214
+2014-10-14,50,17:52:00,Tuesday,Spadina Station,Mechanical,3,6,S/B,4153
+2014-10-14,501,19:59:00,Tuesday,Queen St. East and Woodward Ave.,Investigation,11,16,E/B,4225
+2014-10-14,510,22:56:00,Tuesday,York and Queens Quay,Held By,81,87,E/B,4069
+2014-10-14,511,22:56:00,Tuesday,Exibition loop,Utilized Off Route,5,10,E/B,7643
+2014-10-14,511,22:56:00,Tuesday,CNE Loop,Utilized Off Route,5,10,E/B,7480
+2014-10-15,301,01:28:00,Wednesday,Broadview and Queen,Held By,7,16,B/W,4232
+2014-10-15,505,01:30:00,Wednesday,Broadview and Queen,Mechanical,8,0,E/B,4024
+2014-10-15,504,01:33:00,Wednesday,Broadview and Queen,Held By,5,12,E/B,4073
+2014-10-15,501,05:28:00,Wednesday,Queen at Church,Mechanical,13,0,W/B,4228
+2014-10-15,504,05:30:00,Wednesday,Roncevalles and Queen,Mechanical,6,12,W/B,4182
+2014-10-15,501,05:36:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,9,16,W/B,4247
+2014-10-15,501,05:42:00,Wednesday,Roncevalles and Queen,Late Leaving Garage,11,20,W/B,4205
+2014-10-15,509,06:26:00,Wednesday,Bathurst and Fleet,Late Leaving Garage,5,8,S/B,4132
+2014-10-15,504,06:34:00,Wednesday,Roncevalles and Queen,Mechanical,4,8,W/B,4240
+2014-10-15,506,06:45:00,Wednesday,Main Stn.,Mechanical,4,7,E/B,4027
+2014-10-15,510,07:16:00,Wednesday,Spadina and King,Late Leaving Garage,3,5,N/B,4140
+2014-10-15,510,07:19:00,Wednesday,Spadina and King,Late Leaving Garage,2,5,N/B,4155
+2014-10-15,510,07:24:00,Wednesday,Spadina and King,Late Leaving Garage,3,5,N/B,4177
+2014-10-15,510,07:26:00,Wednesday,Spadina and King,Late Leaving Garage,2,5,N/B,4189
+2014-10-15,504,07:27:00,Wednesday,Roncevalles and Queen,Mechanical,2,5,W/B,4209
+2014-10-15,501,07:39:00,Wednesday,Connaught and Queen,Mechanical,3,5,W/B,4220
+2014-10-15,506,08:28:00,Wednesday,Gerrard at Parlament,Mechanical,4,8,W/B,4151
+2014-10-15,505,08:36:00,Wednesday,DUNDAS and PARLIAMENT,Mechanical,5,10,E/B,4100
+2014-10-15,505,11:28:00,Wednesday,greenwood&queen,Mechanical,6,12,E/B,4046
+2014-10-15,506,11:35:00,Wednesday,Woodbine at Gerrard,Held By,10,15,B/W,4043
+2014-10-15,501,13:11:00,Wednesday,Gladstone@queen,General Delay,10,15,W/B,4212
+2014-10-15,504,13:40:00,Wednesday,King and Jarvis,Investigation,20,24,E/B,4175
+2014-10-15,504,13:41:00,Wednesday,Jarvis&king,Investigation,4,8,E/B,4175
+2014-10-15,504,15:14:00,Wednesday,Dundas West Stn,Mechanical,3,6,E/B,4201
+2014-10-15,501,15:15:00,Wednesday,Quensway at Roncesvalles,Mechanical,6,12,E/B,4247
+2014-10-15,506,15:32:00,Wednesday,Beverly& collage,Investigation,5,10,W/B,4130
+2014-10-15,512,15:42:00,Wednesday,St Clair & Keele,General Delay,5,9,E/B,4167
+2014-10-15,505,16:30:00,Wednesday,Dundas West Station to Broadview Station,General Delay,12,8,B/W,
+2014-10-15,505,16:41:00,Wednesday,Dundas St. West and Gladstone Ave.,Mechanical,6,12,E/B,4013
+2014-10-15,504,17:05:00,Wednesday,Dundas West Station,Utilized Off Route,4,8,E/B,4100
+2014-10-15,510,17:21:00,Wednesday,Spadina Ave. and Collegs St.,Mechanical,10,12,N/B,4403
+2014-10-15,501,19:05:00,Wednesday,Coxwell and Queen,Held By,57,63,W/B,4205
+2014-10-15,504,19:05:00,Wednesday,Coxwell & Queen,Investigation,0,0,S/B,4128
+2014-10-15,501,20:15:00,Wednesday,McCaul,Held By,6,12,N/B,4051
+2014-10-15,509,22:56:00,Wednesday,Queens Quay and York,Held By,81,89,E/B,4186
+2014-10-15,506,23:31:00,Wednesday,Gerrarad Street and Main Street,Mechanical,20,10,W/B,4130
+2014-10-16,504,00:09:00,Thursday,king and shaw,Investigation,21,28,W/B,4129
+2014-10-16,301,02:02:00,Thursday,Beech Ave. and Queen,Emergency Services,83,92,B/W,4218
+2014-10-16,506,05:28:00,Thursday,Main Stn,Mechanical,4,8,E/B,4115
+2014-10-16,504,05:35:00,Thursday,Broadview and Queen,Investigation,17,19,W/B,4087
+2014-10-16,501,05:44:00,Thursday,Roncevalles and Queen,Mechanical,5,11,W/B,4213
+2014-10-16,501,05:49:00,Thursday,Niagara and Queen,Mechanical,6,12,W/B,4204
+2014-10-16,501,06:17:00,Thursday,Roncevalles and Queen,Late Leaving Garage,5,7,W/B,4220
+2014-10-16,510,06:24:00,Thursday,Spadina at Bremner,Investigation,8,16,S/B,4403
+2014-10-16,512,06:34:00,Thursday,Bathurst @ St.Clair,Mechanical,3,6,W/B,4155
+2014-10-16,505,06:46:00,Thursday,BROADVIEW STATION,Mechanical,7,14,W/B,4115
+2014-10-16,510,06:56:00,Thursday,Spadina at college,Utilized Off Route,4,8,W/B,4027
+2014-10-16,504,07:11:00,Thursday,Roncevalles and Queen,Mechanical,2,6,W/B,4206
+2014-10-16,510,07:19:00,Thursday,RONCY YARD,Mechanical,2,4,E/B,4030
+2014-10-16,510,08:30:00,Thursday,UNION STATION,Mechanical,4,6,N/B,4403
+2014-10-16,501,09:54:00,Thursday,York and Queen,Mechanical,6,12,W/B,4230
+2014-10-16,509,10:37:00,Thursday,Union Stn to Exhibition Loop,General Delay,7,11,B/W,4130
+2014-10-16,502,10:44:00,Thursday,Carlaw and Queen.,Mechanical,16,32,W/B,4132
+2014-10-16,512,10:45:00,Thursday,St Clair @ Bathurst,Mechanical,15,20,W/B,4015
+2014-10-16,501,13:42:00,Thursday,Queen St. West at John St.,Mechanical,48,52,W/B,4236
+2014-10-16,501,13:42:00,Thursday,Queen St. Church to Shaw St.,Diversion,128,134,B/W,4228
+2014-10-16,501,14:00:00,Thursday,Neville Loop to Humber Loop,General Delay,10,15,B/W,
+2014-10-16,505,15:00:00,Thursday,505 DUNDAS,General Delay,20,15,B/W,
+2014-10-16,506,15:03:00,Thursday,Russell Carhouse,Late Leaving Garage,5,10,,4183
+2014-10-16,503,15:30:00,Thursday,Bingham Loop to York and Wellington,General Delay,30,25,B/W,
+2014-10-16,508,15:48:00,Thursday,Roncesvalles Yard,Mechanical,15,1,E/B,4189
+2014-10-16,506,16:00:00,Thursday,High Park Loop to Main Station,General Delay,13,8,B/W,
+2014-10-16,512,17:46:00,Thursday,St. Clair and Winona,Mechanical,7,11,W/B,4176
+2014-10-16,511,19:18:00,Thursday,Fleet and Strachan,Investigation,5,10,E/B,7707
+2014-10-16,501,19:27:00,Thursday,Queen at Coxwell,Mechanical,10,16,E/B,4214
+2014-10-16,504,19:36:00,Thursday,King St. W. at Blue Jays Way,Mechanical,34,39,E/B,4014
+2014-10-16,501,19:45:00,Thursday,Queen at Roncesvalles,Mechanical,6,12,W/B,4139
+2014-10-16,511,19:48:00,Thursday,Exhibition Loop,Utilized Off Route,5,10,E/B,7498
+2014-10-16,512,19:52:00,Thursday,St. Clair - Christie to Dufferin,Held By,81,86,B/W,4169
+2014-10-16,511,20:01:00,Thursday,Exhibition Loop,Utilized Off Route,5,10,E/B,7410
+2014-10-16,511,20:03:00,Thursday,Bathurst Station,Utilized Off Route,5,10,S/B,7685
+2014-10-16,501,20:05:00,Thursday,Woodbine and Queen,Mechanical,8,14,W/B,4200
+2014-10-16,511,20:08:00,Thursday,Bathurst Station,Utilized Off Route,5,10,S/B,7753
+2014-10-16,512,20:10:00,Thursday,St. Clair - Yonge St to St Clair West,Held By,20,25,B/W,4141
+2014-10-16,511,20:20:00,Thursday,Exhibition Loop,Utilized Off Route,5,10,E/B,7707
+2014-10-16,510,20:30:00,Thursday,SOUHTBOUND on SPADINA,Mechanical,2,4,S/B,4400
+2014-10-16,511,20:30:00,Thursday,Bathurst at Queen St.,Held By,30,35,S/B,7406
+2014-10-16,506,20:37:00,Thursday,College and Clinton,Mechanical,9,14,W/B,4121
+2014-10-16,511,20:59:00,Thursday,Broadview Station,Mechanical,6,12,W/B,7498
+2014-10-16,512,21:42:00,Thursday,St. Clair and Dunvegan,Utilized Off Route,23,29,W/B,4149
+2014-10-16,512,21:42:00,Thursday,St. Clair at Dunvegan,Mechanical,23,29,W/B,4187
+2014-10-16,511,22:30:00,Thursday,Bathurst and Fleet,Investigation,5,10,S/B,7786
+2014-10-16,511,23:34:00,Thursday,Bathurst Station,Mechanical,5,10,S/B,7707
+2014-10-16,510,23:44:00,Thursday,Spadina station,Mechanical,6,15,S/B,4400
+2014-10-16,506,23:59:00,Thursday,College and Dufferin,Mechanical,51,61,E/B,4071
+2014-10-17,506,00:09:00,Friday,College and Dufferin,Utilized Off Route,10,20,E/B,4018
+2014-10-17,505,05:12:00,Friday,Broadview Stn,Mechanical,8,16,E/B,4124
+2014-10-17,504,05:51:00,Friday,Roncesvalles and Queen,Mechanical,6,13,W/B,4074
+2014-10-17,504,05:53:00,Friday,Roncevalles and Queen,Mechanical,6,12,W/B,4060
+2014-10-17,501,05:56:00,Friday,Roncevalles and Queen,Late Leaving Garage,3,8,W/B,4215
+2014-10-17,509,06:06:00,Friday,Bathurst and Fleet,Mechanical,5,9,S/B,4155
+2014-10-17,501,06:36:00,Friday,Roncevalles and Queen,Late Leaving Garage,5,10,W/B,4244
+2014-10-17,506,07:12:00,Friday,spadina & collage,Mechanical,4,8,W/B,4188
+2014-10-17,510,07:19:00,Friday,RONCY YARD,Late Leaving Garage,3,6,E/B,4145
+2014-10-17,506,07:47:00,Friday,Main and Danforth,Investigation,18,23,W/B,4120
+2014-10-17,504,08:00:00,Friday,Broadview Station - Dundas West Stn,General Delay,40,15,B/W,
+2014-10-17,501,08:07:00,Friday,Queen and Connaught,Mechanical,5,10,W/B,4244
+2014-10-17,504,09:32:00,Friday,King and Portland,Held By,32,37,E/B,4203
+2014-10-17,510,09:49:00,Friday,Spadina Station,General Delay,4,7,S/B,4198
+2014-10-17,510,10:05:00,Friday,King and Spadina,Utilized Off Route,2,4,N/B,4050
+2014-10-17,501,11:48:00,Friday,Queen and Roncesvalles,Mechanical,2,8,W/B,4220
+2014-10-17,504,13:19:00,Friday,Broadview Station,Mechanical,10,20,W/B,4250
+2014-10-17,512,13:56:00,Friday,St Clair & Earlscourt,Mechanical,6,12,W/B,4195
+2014-10-17,510,14:17:00,Friday,SPADINA and KING,Mechanical,2,4,N/B,4403
+2014-10-17,511,14:20:00,Friday,Bathurst station,Mechanical,5,10,S/B,7689
+2014-10-17,505,14:53:00,Friday,DUNDAS and McCAUL,Held By,5,10,S/B,4089
+2014-10-17,505,15:41:00,Friday,Broadview STN,Mechanical,5,10,E/B,4090
+2014-10-17,501,16:11:00,Friday,Queen at King east,Mechanical,26,31,W/B,4228
+2014-10-17,504,16:16:00,Friday,Queen and Carrol,Held By,21,24,W/B,4003
+2014-10-17,505,17:00:00,Friday,Dundas West STN to Broadview STN,General Delay,10,15,B/W,
+2014-10-17,509,17:00:00,Friday,CNE Loop to Union STN,General Delay,5,10,B/W,
+2014-10-17,510,17:36:00,Friday,Spadina and Adelaide,Mechanical,13,15,N/B,4400
+2014-10-17,510,18:45:00,Friday,Spadina Station,General Delay,6,8,S/B,4106
+2014-10-17,506,23:14:00,Friday,College/University,Held By,27,37,B/W,4049
+2014-10-18,306,04:28:00,Saturday,Gerrard @ Coxwell,Emergency Services,0,30,B/W,4048
+2014-10-18,505,05:53:00,Saturday,Broadview and Dundas,Late Leaving Garage,10,18,E/B,4024
+2014-10-18,506,12:00:00,Saturday,Coxwell & gerarrd,Mechanical,7,13,W/B,4090
+2014-10-18,501,12:21:00,Saturday,Neville Loop,Mechanical,5,10,W/B,4233
+2014-10-18,505,13:40:00,Saturday,Dundas and University,Mechanical,28,33,W/B,4122
+2014-10-18,511,13:56:00,Saturday,Bathurst and Nassau,Mechanical,4,8,S/B,7411
+2014-10-18,504,15:49:00,Saturday,Broadview/danforth,Mechanical,6,11,W/B,4054
+2014-10-18,512,16:32:00,Saturday,Bathurst and St.Clair West,General Delay,9,13,E/B,4197
+2014-10-18,512,16:35:00,Saturday,Bathurst and St.Clair West,General Delay,9,13,E/B,4177
+2014-10-18,501,21:00:00,Saturday,Humber Loop to Neville Park Loop,General Delay,13,11,B/W,
+2014-10-18,504,21:04:00,Saturday,Roncesvalles & Queen,Investigation,6,12,S/B,4138
+2014-10-18,501,21:39:00,Saturday,Queen St. West and Ossington Ave.,Held By,4,12,W/B,4246
+2014-10-18,504,22:44:00,Saturday,Broadview Stn,Held By,6,12,S/B,4002
+2014-10-19,504,00:10:00,Sunday,Roncesvalles @ Fermanaugh,Emergency Services,5,11,N/B,4107
+2014-10-19,301,01:06:00,Sunday,Humber Loop to Neville Park Loop,General Delay,13,11,B/W,
+2014-10-19,510,02:10:00,Sunday,Spadina Loop,Mechanical,34,59,B/W,4400
+2014-10-19,501,06:07:00,Sunday,Queen and Church,Held By,580,602,W/B,4200
+2014-10-19,501,06:16:00,Sunday,Queen and McCaul,Held By,571,581,E/B,4202
+2014-10-19,501,06:18:00,Sunday,Queensway and Windermere,Investigation,59,68,W/B,4204
+2014-10-19,505,06:40:00,Sunday,Dundas at Bathurstt,Mechanical,38,58,W/B,4144
+2014-10-19,506,07:00:00,Sunday,Coxwell to Main STN,Diversion,610,615,E/B,4016
+2014-10-19,506,07:12:00,Sunday,Bay st to landsdowne,Diversion,172,178,B/W,4010
+2014-10-19,504,07:17:00,Sunday,King St. -- Church to Spadina,Diversion,500,505,B/W,4114
+2014-10-19,505,08:05:00,Sunday,Dundas and University,General Delay,120,128,B/W,4079
+2014-10-19,509,08:45:00,Sunday,CNE Loop,Diversion,555,0,W/B,4141
+2014-10-19,510,10:26:00,Sunday,Roncesvalles Yard,Mechanical,3,6,N/B,4034
+2014-10-19,504,10:34:00,Sunday,Roncesvalles and Queen Street,Mechanical,9,18,E/B,4046
+2014-10-19,512,11:18:00,Sunday,St. Clair at Yonge St.,Mechanical,7,13,W/B,4174
+2014-10-19,509,12:01:00,Sunday,King and Spencer,Mechanical,5,9,E/B,4100
+2014-10-19,501,19:09:00,Sunday,Queen and Shaw,Mechanical,9,18,E/B,4226
+2014-10-19,501,20:12:00,Sunday,Queen St. West and Gladstone Ave.,Mechanical,19,25,E/B,4234
+2014-10-19,501,21:06:00,Sunday,Queen St. East and Yonge St.,Held By,5,14,W/B,4235
+2014-10-19,504,21:08:00,Sunday,Queen at Yonge,Investigation,11,22,W/B,7251
+2014-10-19,504,22:40:00,Sunday,King at Walnut,Held By,67,77,B/W,4114
+2014-10-20,501,05:20:00,Monday,Neville Park Loop,Late Leaving Garage,10,20,W/B,4203
+2014-10-20,504,06:06:00,Monday,Roncevalles and Queen,Late Leaving Garage,4,8,N/B,4091
+2014-10-20,501,06:17:00,Monday,Roncevalles and Queen,Late Leaving Garage,6,11,W/B,4241
+2014-10-20,501,06:40:00,Monday,Queen and Connaught,Mechanical,3,5,W/B,4248
+2014-10-20,501,06:45:00,Monday,Queen and Kingston,Mechanical,5,9,E/B,4245
+2014-10-20,506,09:45:00,Monday,Gerrard and Jones,Investigation,0,0,E/B,4088
+2014-10-20,506,10:21:00,Monday,Gerrard and Carlaw,Mechanical,4,7,E/B,4048
+2014-10-20,510,12:26:00,Monday,Queens quay/Spadina,Mechanical,5,10,W/B,4149
+2014-10-20,501,12:37:00,Monday,QUEEN AT UNIVERSITY,Mechanical,6,12,W/B,4250
+2014-10-20,510,13:59:00,Monday,Queens Quay/Spadina,Investigation,5,10,S/B,4198
+2014-10-20,510,14:05:00,Monday,Spadina/Adelaide,Investigation,2,4,S/B,4032
+2014-10-20,506,14:07:00,Monday,Gerrard and Sumach,Mechanical,5,10,E/B,4074
+2014-10-20,510,14:15:00,Monday,Spadina/Adelaide,Investigation,2,4,S/B,4102
+2014-10-20,501,18:08:00,Monday,QUEEN AT BAY.,Held By,38,44,B/W,4095
+2014-10-20,502,18:08:00,Monday,Queen at Bay.,Held By,27,39,W/B,4116
+2014-10-20,512,18:48:00,Monday,St Clair Station,Mechanical,0,0,W/B,4142
+2014-10-20,511,20:55:00,Monday,Fleet @ bathurst,Investigation,6,12,N/B,7826
+2014-10-20,501,21:18:00,Monday,Queen St. East and Pape Ave.,Held By,7,13,E/B,4224
+2014-10-20,510,22:01:00,Monday,Spadina Ave. and King St. West,Mechanical,3,6,S/B,4065
+2014-10-21,501,05:30:00,Tuesday,Neville Loop,Mechanical,10,20,W/B,4245
+2014-10-21,509,06:06:00,Tuesday,Bathurst and Fleet,Mechanical,9,18,S/B,4180
+2014-10-21,504,06:18:00,Tuesday,Roncevalles and Queen,Mechanical,4,8,N/B,4196
+2014-10-21,504,06:26:00,Tuesday,Roncevalles and Queen,Mechanical,4,8,N/B,4038
+2014-10-21,504,06:40:00,Tuesday,Roncesvalles at King.,Mechanical,4,8,W/B,4153
+2014-10-21,501,06:40:00,Tuesday,Queen and Roncesvalles,Mechanical,3,5,W/B,4209
+2014-10-21,502,06:42:00,Tuesday,Queen and Connaught,Mechanical,12,24,E/B,4091
+2014-10-21,504,07:27:00,Tuesday,Roncesvalles at king,Mechanical,3,6,N/B,4215
+2014-10-21,502,07:36:00,Tuesday,Queen and Connaught,Mechanical,12,24,W/B,4077
+2014-10-21,504,07:41:00,Tuesday,queen at broadview,Mechanical,3,6,W/B,4021
+2014-10-21,512,07:45:00,Tuesday,St Clair @ Bathurst,Mechanical,16,19,W/B,4198
+2014-10-21,506,07:59:00,Tuesday,College and Bathurst,Mechanical,3,7,E/B,4075
+2014-10-21,501,08:15:00,Tuesday,Queen and Connaught,Mechanical,5,10,E/B,4246
+2014-10-21,505,09:02:00,Tuesday,Dundas and Ossington,Mechanical,6,12,W/B,4151
+2014-10-21,506,09:24:00,Tuesday,Gerrard and Coxwell,Investigation,30,34,E/B,4034
+2014-10-21,506,09:54:00,Tuesday,Gerrard and Coxwell,Investigation,5,10,E/B,4108
+2014-10-21,502,10:38:00,Tuesday,McCaul Loop,Held By,10,22,E/B,4091
+2014-10-21,506,12:24:00,Tuesday,College and Lansdowne,Mechanical,5,10,E/B,4047
+2014-10-21,504,12:26:00,Tuesday,King and Ontario,Mechanical,4,8,E/B,4029
+2014-10-21,512,13:31:00,Tuesday,St Clair West and Wychwood,Investigation,13,19,W/B,4164
+2014-10-21,505,16:12:00,Tuesday,Dundas and Univeristy,Emergency Services,5,14,W/B,4101
+2014-10-21,506,20:00:00,Tuesday,ONTARIO and CARLTON,Held By,10,15,E/B,4012
+2014-10-21,506,20:26:00,Tuesday,DUNDAS and PARLIAMENT,Investigation,8,16,W/B,4108
+2014-10-21,505,20:33:00,Tuesday,Dundas and Parliament,Held By,19,27,W/B,4085
+2014-10-21,509,20:43:00,Tuesday,Queens Quay and Dan Leckie Way,Mechanical,6,12,W/B,4113
+2014-10-21,506,21:09:00,Tuesday,PARLIAMENT and GERRARD,Mechanical,8,16,E/B,4116
+2014-10-21,506,21:10:00,Tuesday,COXWELL LOOP,Mechanical,8,16,W/B,4115
+2014-10-22,501,05:20:00,Wednesday,Neville Park Loop,Late Leaving Garage,0,0,W/B,4238
+2014-10-22,501,05:46:00,Wednesday,Queen and Connaught,Mechanical,3,7,W/B,4228
+2014-10-22,501,05:55:00,Wednesday,Neville Park Loop,Late Leaving Garage,5,12,W/B,4246
+2014-10-22,506,06:09:00,Wednesday,Gerrard at Coxwell,Late Leaving Garage,4,8,W/B,4011
+2014-10-22,509,06:26:00,Wednesday,CNE Loop,Mechanical,6,11,E/B,4017
+2014-10-22,505,06:40:00,Wednesday,Dundas at Broadview,Mechanical,5,10,E/B,4043
+2014-10-22,504,07:02:00,Wednesday,Broadview Station,Late Leaving Garage,2,4,W/B,4003
+2014-10-22,510,07:13:00,Wednesday,King and Strachan,Mechanical,12,15,E/B,4147
+2014-10-22,504,07:15:00,Wednesday,King at Strachan,Mechanical,13,17,E/B,4001
+2014-10-22,510,07:16:00,Wednesday,Queen and Roncesvalles,Mechanical,3,6,E/B,4164
+2014-10-22,511,07:52:00,Wednesday,Bathurst Station,Mechanical,3,6,S/B,7461
+2014-10-22,506,08:00:00,Wednesday,High Park to Main Station,General Delay,0,0,B/W,
+2014-10-22,512,08:13:00,Wednesday,St.Clair @ Oakwood,Held By,4,7,E/B,4163
+2014-10-22,510,08:17:00,Wednesday,Spadina and Richmond,Mechanical,29,32,S/B,4049
+2014-10-22,504,10:04:00,Wednesday,King at Church,Mechanical,12,16,W/B,4064
+2014-10-22,501,10:46:00,Wednesday,Queen and Roncesvalles,Mechanical,6,12,W/B,4225
+2014-10-22,506,13:33:00,Wednesday,Carlton and Parliament,Investigation,19,24,E/B,4022
+2014-10-22,50,13:49:00,Wednesday,Parliament and Adelaide,Investigation,68,72,S/B,4247
+2014-10-22,506,14:21:00,Wednesday,College and Yonge,Mechanical,10,15,E/B,4125
+2014-10-22,505,15:13:00,Wednesday,Dundas and Broadview,Mechanical,6,10,E/B,4121
+2014-10-22,506,15:42:00,Wednesday,COXWELL and GERRARD,Mechanical,5,10,E/B,4000
+2014-10-22,505,15:43:00,Wednesday,Dundas and Lansdown,Investigation,6,12,E/B,4169
+2014-10-22,506,15:47:00,Wednesday,DUNDAS and LANSDOWNE,Held By,18,23,W/B,4175
+2014-10-22,506,16:00:00,Wednesday,506 CARLTON,General Delay,20,10,B/W,
+2014-10-22,506,17:03:00,Wednesday,ONTARIO and CARLTON,Held By,3,8,W/B,4061
+2014-10-22,502,17:26:00,Wednesday,QUEEN AT KINGSTON RD.,Investigation,9,21,E/B,4035
+2014-10-22,512,17:54:00,Wednesday,St Clair and Vaughan,Held By,4,8,W/B,4189
+2014-10-22,511,18:36:00,Wednesday,Spadina at Queen,Investigation,3,6,S/B,7786
+2014-10-22,505,19:21:00,Wednesday,Dundas and University,Held By,15,21,W/B,4012
+2014-10-22,506,19:25:00,Wednesday,MAIN and DANFORTH,Held By,10,15,E/B,4087
+2014-10-22,505,19:50:00,Wednesday,Dundas and University,Held By,6,12,E/B,4107
+2014-10-22,504,21:00:00,Wednesday,King at Dunn,Emergency Services,28,33,B/W,4165
+2014-10-22,506,21:03:00,Wednesday,COXWELL LOOP,Mechanical,7,14,W/B,4091
+2014-10-22,510,21:33:00,Wednesday,Spadina Ave. and King St. West,Utilized Off Route,6,12,S/B,4181
+2014-10-22,501,21:38:00,Wednesday,Humber Loop,Mechanical,6,11,E/B,4242
+2014-10-22,501,21:39:00,Wednesday,Queen St. East and Church St.,Utilized Off Route,6,11,E/B,4242
+2014-10-23,301,01:54:00,Thursday,Queen St. West and Dowling Ave.,Held By,8,17,E/B,4225
+2014-10-23,501,05:25:00,Thursday,Queensway and Roncesvalles,Mechanical,9,20,wb,4218
+2014-10-23,501,05:48:00,Thursday,Queen and Connaught,Mechanical,8,17,E/B,4223
+2014-10-23,506,06:36:00,Thursday,Main St Station,Late Leaving Garage,4,8,W/B,4010
+2014-10-23,510,07:19:00,Thursday,Roncesvalles Yard,Mechanical,3,5,E/B,4192
+2014-10-23,501,08:24:00,Thursday,Westbound Queen at Ossington,General Delay,7,12,W/B,4219
+2014-10-23,501,09:04:00,Thursday,Westbound Queen @ Palmerston,General Delay,9,14,W/B,4033
+2014-10-23,504,10:12:00,Thursday,Broadview  and Danforth,Investigation,21,25,W/B,4091
+2014-10-23,510,11:18:00,Thursday,Queens Quay and York,Held By,21,27,B/W,4400
+2014-10-23,509,11:18:00,Thursday,Queens Quay and York,Held By,21,26,B/W,4164
+2014-10-23,506,12:22:00,Thursday,Munro and gerrard,Investigation,40,46,E/B,4163
+2014-10-23,512,12:58:00,Thursday,St Clair West Station,Held By,2,8,E/B,4162
+2014-10-23,510,13:49:00,Thursday,Spadina and Queens Quay,Mechanical,6,11,S/B,4400
+2014-10-23,805,14:41:00,Thursday,Spadina STN,Mechanical,1,1,S/B,7507
+2014-10-23,505,15:16:00,Thursday,Dundas West STN,Mechanical,6,12,E/B,4116
+2014-10-23,512,15:42:00,Thursday,St Clair and Yonge,Held By,5,9,W/B,4156
+2014-10-23,506,16:00:00,Thursday,506 CARLTON,General Delay,15,8,B/W,
+2014-10-23,501,16:02:00,Thursday,W/B at Palmerston on Queen Street West,General Delay,4,9,W/B,4215
+2014-10-23,501,16:13:00,Thursday,Westbound On Queen Street West at Palmerston,General Delay,4,9,W/B,4033
+2014-10-23,501,16:51:00,Thursday,Westbound at Queen St. West at Palmerston,General Delay,14,19,W/B,4250
+2014-10-23,506,17:12:00,Thursday,COLLEGE and BAY,Mechanical,5,10,E/B,4004
+2014-10-23,506,17:34:00,Thursday,PARLIAMENT and GERRARD,Investigation,5,10,W/B,4028
+2014-10-23,506,17:37:00,Thursday,COLLEGE and BAY,Mechanical,5,10,E/B,4013
+2014-10-23,506,18:44:00,Thursday,COXWELL LOOP,Mechanical,5,10,W/B,4031
+2014-10-23,504,19:17:00,Thursday,King and Bay,Held By,53,56,E/B,4144
+2014-10-23,510,19:25:00,Thursday,Spadina station,Diversion,33,36,N/B,4154
+2014-10-23,511,20:31:00,Thursday,CNE LOOP,Mechanical,4,8,N/B,7773
+2014-10-23,510,20:47:00,Thursday,QueensQuay loop,Mechanical,2,4,E/B,4124
+2014-10-23,505,20:48:00,Thursday,Dundas and Bay,Mechanical,8,16,W/B,4046
+2014-10-23,506,21:09:00,Thursday,McCAUL and BALDWIN,Held By,8,16,W/B,4057
+2014-10-23,501,21:36:00,Thursday,Lakeshore and Parklawn,Investigation,9,18,E/B,7326
+2014-10-24,504,05:24:00,Friday,Roncesvalles aaaand QueeN,Late Leaving Garage,6,12,wb,4214
+2014-10-24,505,05:44:00,Friday,Broadview Station,Late Leaving Garage,6,14,W/B,4010
+2014-10-24,510,06:00:00,Friday,Queens quay Station,Held By,181,0,E/B,4085
+2014-10-24,509,06:00:00,Friday,Queens Quay Station,Held By,181,0,E/B,4167
+2014-10-24,501,06:14:00,Friday,Roncesvalles and Queen,Mechanical,5,10,wb,4209
+2014-10-24,512,06:15:00,Friday,St.Clair @ Bathurst,Mechanical,5,9,W/B,4160
+2014-10-24,504,06:34:00,Friday,Roncesvalles and Queen,Late Leaving Garage,4,8,wb,4097
+2014-10-24,504,06:57:00,Friday,Broadview  Ave and Gerrard Street,Investigation,50,54,S/B,4022
+2014-10-24,505,07:00:00,Friday,Broadview and Gerrard,Held By,52,57,E/B,4138
+2014-10-24,506,07:06:00,Friday,Gerrard and Broadview,Diversion,43,48,E/B,4083
+2014-10-24,501,07:51:00,Friday,Dovercourt and Queen Street West - Westbound,General Delay,7,11,W/B,4249
+2014-10-24,501,08:18:00,Friday,Westbound Queen at Shaw,General Delay,8,12,W/B,4244
+2014-10-24,501,08:45:00,Friday,Queen Street and Palmerston,General Delay,5,9,W/B,4248
+2014-10-24,512,08:57:00,Friday,St.Clair @ Gunns rd,Investigation,4,6,E/B,4097
+2014-10-24,501,09:07:00,Friday,Westbound at Queen and Palmserston,General Delay,14,12,W/B,4220
+2014-10-24,501,09:11:00,Friday,Queen and Empire,Investigation,35,40,W/B,5213
+2014-10-24,501,10:56:00,Friday,Westbound Queen Street at Palmerston,Held By,13,17,W/B,4227
+2014-10-24,501,11:10:00,Friday,Queen and McCaul,Mechanical,6,12,W/B,4223
+2014-10-24,510,11:31:00,Friday,Exit of Spadina Station Tunnel before Sussex,Mechanical,11,17,S/B,4142
+2014-10-24,506,13:50:00,Friday,Coxwell and Gerrard,Mechanical,6,12,W/B,4116
+2014-10-24,511,14:11:00,Friday,Adelaide west of Brant,Investigation,68,73,E/B,7509
+2014-10-24,511,14:23:00,Friday,Bathurst Stn,Mechanical,5,10,S/B,7510
+2014-10-24,511,15:56:00,Friday,Spadina and Dundas,Investigation,5,10,N/B,7487
+2014-10-24,506,16:00:00,Friday,506 CARLTON,General Delay,20,10,B/W,
+2014-10-24,512,16:22:00,Friday,St Clair and Glenholme,Investigation,6,10,W/B,4113
+2014-10-24,503,16:31:00,Friday,Parliament and Richmond,Mechanical,18,30,S/B,4163
+2014-10-24,504,16:57:00,Friday,Roncesvalles and High Park,Held By,10,13,S/B,4059
+2014-10-24,501,17:00:00,Friday,Westbound Queen Street at Palmerston,General Delay,7,12,W/B,4222
+2014-10-24,506,17:01:00,Friday,MAIN STATION,Held By,50,55,W/B,4151
+2014-10-24,504,17:29:00,Friday,King and Parliament,Mechanical,3,6,E/B,4155
+2014-10-24,502,17:39:00,Friday,QUEEN ST. E.  At CHURCH ST.,Mechanical,6,18,E/B,4046
+2014-10-24,510,17:47:00,Friday,King at Spadina,Emergency Services,11,14,W/B,4115
+2014-10-24,508,17:49:00,Friday,KING ST. east of SPADINA.,Investigation,10,25,W/B,4097
+2014-10-24,504,18:44:00,Friday,Jameson and King,Emergency Services,26,29,E/B,4166
+2014-10-24,504,18:54:00,Friday,King and Spadina,Investigation,24,27,E/B,4064
+2014-10-24,510,18:57:00,Friday,Spadina at King,Investigation,18,24,S/B,4186
+2014-10-24,504,19:06:00,Friday,Broadview and Dundas,Mechanical,14,17,S/B,4135
+2014-10-24,505,20:07:00,Friday,university & dundas,General Delay,6,12,B/W,4066
+2014-10-24,501,20:49:00,Friday,Empire and Queen,Investigation,5,11,W/B,4210
+2014-10-24,501,21:29:00,Friday,Neville loop,Mechanical,5,11,W/B,4204
+2014-10-24,504,22:23:00,Friday,St Clair at Deerpark,Emergency Services,58,67,E/B,4141
+2014-10-24,504,23:02:00,Friday,Queen at Parliament,Investigation,7,13,W/B,4054
+2014-10-24,504,23:27:00,Friday,Dundas at Parliament,Investigation,8,15,W/B,4235
+2014-10-24,510,23:51:00,Friday,Charlotte loop,Mechanical,0,0,S/B,4170
+2014-10-25,511,00:48:00,Saturday,511 CARLTON,Diversion,0,5,B/W,
+2014-10-25,301,02:22:00,Saturday,Roncy and Queen,Mechanical,15,30,W/B,4251
+2014-10-25,306,02:26:00,Saturday,Gerrard and Coxwell,Investigation,30,60,W/B,4020
+2014-10-25,510,07:37:00,Saturday,Spadina/King,Late Leaving Garage,3,5,N/B,4192
+2014-10-25,509,09:23:00,Saturday,Bathurst/Fleet,Late Leaving Garage,12,25,W/B,4087
+2014-10-25,512,09:48:00,Saturday,GUNNS LOOP,Mechanical,3,8,E/B,4162
+2014-10-25,505,11:31:00,Saturday,Dundas and College,Investigation,9,14,E/B,4011
+2014-10-25,510,11:35:00,Saturday,Spadina/Queens Quay,Mechanical,6,12,S/B,4064
+2014-10-25,506,12:02:00,Saturday,Ossington and College,Investigation,31,36,E/B,4015
+2014-10-25,509,12:11:00,Saturday,Bathurst/Fleet,Late Leaving Garage,7,10,W/B,4134
+2014-10-25,501,12:28:00,Saturday,Queen and Connaught,Mechanical,7,13,E/B,4245
+2014-10-25,510,13:43:00,Saturday,Spadina Station,Mechanical,2,5,W/B,4403
+2014-10-25,511,15:24:00,Saturday,Bathurst Stn,Mechanical,3,6,S/B,7792
+2014-10-25,510,15:26:00,Saturday,Charloote Loop,Investigation,6,10,S/B,4161
+2014-10-25,501,16:07:00,Saturday,Queen at Leslie,Emergency Services,17,37,E/B,4239
+2014-10-25,501,16:08:00,Saturday,Queen at Jameson,Mechanical,10,15,E/B,4210
+2014-10-25,501,16:16:00,Saturday,Queen at Yonge,Held By,22,28,W/B,4242
+2014-10-25,506,16:20:00,Saturday,bay & collage,Investigation,8,16,E/B,8073
+2014-10-25,504,17:17:00,Saturday,King @ York,Mechanical,12,17,W/B,4043
+2014-10-25,504,17:50:00,Saturday,King @ Shaw,Investigation,6,12,W/B,4127
+2014-10-25,512,22:05:00,Saturday,St Clair West @ Keele,Investigation,101,121,E/B,4183
+2014-10-25,506,23:06:00,Saturday,church & carlton,Mechanical,9,18,E/B,7826
+2014-10-26,512,00:08:00,Sunday,St Clair @ Caledonia,Mechanical,10,20,E/B,4172
+2014-10-26,501,00:15:00,Sunday,Broadview and queen,Mechanical,6,12,W/B,4212
+2014-10-26,512,04:43:00,Sunday,St Clair and Bathurst,Late Leaving Garage,27,27,W/B,4196
+2014-10-26,504,07:14:00,Sunday,Queen and Roncesvalles,Mechanical,11,22,W/B,4058
+2014-10-26,501,08:07:00,Sunday,Queen and Connaught,Mechanical,10,20,E/B,4221
+2014-10-26,509,09:00:00,Sunday,CNE Loop to Union Station,General Delay,7,12,B/W,
+2014-10-26,511,09:00:00,Sunday,Bathurst Station to CNE Loop,General Delay,7,15,B/W,
+2014-10-26,501,10:15:00,Sunday,Queen and Parliament,Mechanical,2,18,W/B,4205
+2014-10-26,505,11:29:00,Sunday,Dundas and Shaw,Investigation,6,12,W/B,4011
+2014-10-26,509,11:30:00,Sunday,Queens Quay and Spadina,Mechanical,7,14,E/B,4172
+2014-10-26,510,11:45:00,Sunday,Roncesvalles Yard,Mechanical,2,4,N/B,4119
+2014-10-26,501,11:46:00,Sunday,Neville Loop,Mechanical,7,15,W/B,4249
+2014-10-26,505,11:52:00,Sunday,Russell Yard,Mechanical,6,12,W/B,
+2014-10-26,505,15:02:00,Sunday,Dundas and University,Held By,28,33,B/W,4101
+2014-10-26,505,16:05:00,Sunday,Dundas and Yonge,Held By,18,23,Bw,4145
+2014-10-26,501,17:20:00,Sunday,Queen at Connaught,Mechanical,10,15,W/B,4245
+2014-10-26,505,17:30:00,Sunday,Broadview Ave and Gerrard Street East,Mechanical,18,24,W/B,4093
+2014-10-26,501,18:40:00,Sunday,Queen at Connaught,Mechanical,5,10,W/B,4224
+2014-10-26,505,19:26:00,Sunday,Dundas and Parliament Street,Investigation,14,19,E/B,4028
+2014-10-26,505,21:23:00,Sunday,Dundas Street and Broadview Ave,Mechanical,12,24,W/B,4054
+2014-10-26,505,23:05:00,Sunday,Dundas and Spadina Ave,Held By,30,43,E/B,4092
+2014-10-26,506,23:05:00,Sunday,spadina @ dundas,Investigation,11,22,E/B,4068
+2014-10-27,510,00:44:00,Monday,Spadina Station,Mechanical,6,12,S/B,4195
+2014-10-27,511,01:36:00,Monday,Fleet and Strachan,Investigation,11,22,E/B,7695
+2014-10-27,501,05:14:00,Monday,Roncesvalls and Queensway,Mechanical,12,23,W/B,4242
+2014-10-27,504,05:24:00,Monday,Roncesvalles and Queen,Mechanical,7,21,W/B,4166
+2014-10-27,504,05:30:00,Monday,Roncesvalles and Queen,Mechanical,14,21,W/B,4158
+2014-10-27,501,05:58:00,Monday,Queen and Roncesvalles,Mechanical,5,11,E/B,4210
+2014-10-27,509,06:06:00,Monday,Bathurst and Fleet,Mechanical,5,11,E/B,4150
+2014-10-27,501,06:17:00,Monday,Roncesvalles and Queensway,Mechanical,10,15,W/B,4237
+2014-10-27,504,06:18:00,Monday,Roncesvalles and Queen,Mechanical,4,8,W/B,4025
+2014-10-27,501,06:42:00,Monday,Neville Park Loop,Late Leaving Garage,5,10,W/B,4220
+2014-10-27,504,07:36:00,Monday,Queen and Connaught,Mechanical,2,3,W/B,4047
+2014-10-27,503,07:56:00,Monday,Bingham Loop,Mechanical,12,24,W/B,4077
+2014-10-27,501,07:57:00,Monday,Queen and Connaught,Mechanical,5,10,W/B,4200
+2014-10-27,506,08:11:00,Monday,Gerrard and Parliament,Mechanical,18,22,W/B,4046
+2014-10-27,503,08:14:00,Monday,Queen and Connaught,Mechanical,12,36,E/B,4001
+2014-10-27,506,08:14:00,Monday,Gerrard and Parliament,Utilized Off Route,3,7,W/B,4139
+2014-10-27,506,08:30:00,Monday,High Park to Main Station,General Delay,12,20,B/W,
+2014-10-27,504,09:32:00,Monday,Roncesvalles and Fermanagh,Mechanical,16,18,W/B,4166
+2014-10-27,502,10:23:00,Monday,Queen and Kingston,Mechanical,64,80,E/B,4043
+2014-10-27,501,14:46:00,Monday,QUEEN AT SUMACH,Mechanical,10,17,W/B,4234
+2014-10-27,506,14:53:00,Monday,Gerrard and Jones,Investigation,13,18,E/B,4011
+2014-10-27,501,15:20:00,Monday,QUEEN AT PARLIAMENT.,Investigation,20,28,W/B,4202
+2014-10-27,502,15:20:00,Monday,QUEEN AT PARLIAMENT.,Held By,20,32,W/B,4035
+2014-10-27,501,15:26:00,Monday,Humber Loop to Connaught Ave,General Delay,5,11,E/B,4244
+2014-10-27,502,16:16:00,Monday,QUEEN AT SHERBOURNE.,Mechanical,3,28,W/B,4112
+2014-10-27,511,18:23:00,Monday,Exhibition loop,Mechanical,3,6,N/B,7524
+2014-10-27,501,19:29:00,Monday,QUEEN AT DUFFERIN,Investigation,15,22,E/B,4244
+2014-10-27,501,19:33:00,Monday,QUEEN AT UNIVERSITY.,Mechanical,2,24,E/B,4237
+2014-10-28,501,04:59:00,Tuesday,Queen and Connaught,Mechanical,10,23,E/B,4250
+2014-10-28,506,05:15:00,Tuesday,Roncesvalles and Howard Park,Late Leaving Garage,10,0,E/B,4094
+2014-10-28,505,06:06:00,Tuesday,Dundas and Sorouren,Held By,142,152,W/B,4102
+2014-10-28,512,06:08:00,Tuesday,St Clair and Wychwood,Mechanical,5,9,W/B,4160
+2014-10-28,509,06:26:00,Tuesday,Bathurst and Fleet,Mechanical,8,16,wb,4064
+2014-10-28,506,06:30:00,Tuesday,Gerrard and Broadview,Mechanical,4,7,W/B,4083
+2014-10-28,506,07:11:00,Tuesday,Upper Gerrard and Kingsmount,Investigation,6,10,W/B,4115
+2014-10-28,511,08:10:00,Tuesday,Exhibition loop,Mechanical,4,9,N/B,7602
+2014-10-28,505,08:15:00,Tuesday,Broadview Stn,Mechanical,10,20,W/B,4095
+2014-10-28,506,09:15:00,Tuesday,High Park to Main Stn,General Delay,25,0,B/W,
+2014-10-28,506,10:46:00,Tuesday,Coxwell Loop,Held By,5,10,W/B,4057
+2014-10-28,504,10:49:00,Tuesday,Queen and Bathurst,Mechanical,4,7,E/B,4059
+2014-10-28,501,11:06:00,Tuesday,Humber Loop,Mechanical,6,12,E/B,4218
+2014-10-28,512,12:12:00,Tuesday,Gunns loop,Mechanical,9,18,E/B,4198
+2014-10-28,506,12:25:00,Tuesday,Gerarrd & parlament,Mechanical,20,30,E/B,4091
+2014-10-28,501,12:41:00,Tuesday,QUEEN east of KINGSTON RD.,Held By,13,19,E/B,4244
+2014-10-28,506,12:50:00,Tuesday,Borden & Collage,General Delay,5,15,W/B,4074
+2014-10-28,505,13:48:00,Tuesday,Dundas and Mccaul,Held By,6,12,E/B,4105
+2014-10-28,504,14:14:00,Tuesday,Broadview Stn,Mechanical,3,6,S/B,4133
+2014-10-28,506,14:24:00,Tuesday,COLLEGE andn BAY,Mechanical,5,10,E/B,4036
+2014-10-28,501,14:58:00,Tuesday,Humber Loop to Neville Park,General Delay,8,14,B/W,4244
+2014-10-28,506,15:06:00,Tuesday,JONES and GERRARD,Mechanical,5,10,W/B,4072
+2014-10-28,501,15:38:00,Tuesday,QUEEN ST. E. AT TRACY ST.,Held By,11,19,W/B,4245
+2014-10-28,501,15:40:00,Tuesday,HUMBER LOOP,Mechanical,5,10,E/B,4241
+2014-10-28,501,15:43:00,Tuesday,QUEEN AT KINGSTON RD.,Mechanical,17,23,W/B,4244
+2014-10-28,506,16:00:00,Tuesday,506 CARLTON,General Delay,20,10,B/W,
+2014-10-28,506,16:40:00,Tuesday,BROADVIEW and DUNDAS,Held By,5,10,0,4088
+2014-10-28,506,17:41:00,Tuesday,MUNRO and GERRARD,Held By,7,12,E/B,4038
+2014-10-28,506,17:57:00,Tuesday,WODDBINE and GERRARD,Emergency Services,28,33,W/B,4103
+2014-10-28,511,18:05:00,Tuesday,Bathurst station,Held By,3,6,S/B,7623
+2014-10-28,501,18:14:00,Tuesday,QUEEN AT YORK,Investigation,13,20,E/B,4215
+2014-10-28,501,18:32:00,Tuesday,Bathurst station,Mechanical,3,6,S/B,7735
+2014-10-28,501,19:00:00,Tuesday,QUEEN AT SHAW,Mechanical,2,12,W/B,4246
+2014-10-28,501,21:20:00,Tuesday,Humber Loop,Mechanical,5,10,E/B,4245
+2014-10-28,510,22:07:00,Tuesday,Spadina and Dundas,Mechanical,25,31,N/B,4119
+2014-10-29,506,05:16:00,Wednesday,Gerrard at Coxwell,Late Leaving Garage,17,0,W/B,4105
+2014-10-29,505,06:10:00,Wednesday,Broadview Station,Mechanical,5,10,W/B,4092
+2014-10-29,504,06:26:00,Wednesday,Roncesvalles Yard,Mechanical,6,12,W/B,4175
+2014-10-29,504,06:57:00,Wednesday,Dundas West Station,Mechanical,18,22,E/B,4115
+2014-10-29,505,07:11:00,Wednesday,Dundas W.St.,Held By,5,11,E/B,4068
+2014-10-29,510,07:21:00,Wednesday,King/Spadina,Mechanical,2,5,N/B,4149
+2014-10-29,501,07:23:00,Wednesday,Queen and Bathurst,Held By,9,15,E/B,4227
+2014-10-29,503,08:10:00,Wednesday,Queen and Logan,Mechanical,14,28,W/B,4046
+2014-10-29,510,09:11:00,Wednesday,Spadina/Queens Quay,Mechanical,13,19,S/B,4400
+2014-10-29,510,10:44:00,Wednesday,Spadina/King,Mechanical,6,12,N/B,4091
+2014-10-29,512,12:40:00,Wednesday,St Clair at Vaughan,Investigation,20,29,W/B,4164
+2014-10-29,506,14:20:00,Wednesday,PRUST and COLLEGE,Mechanical,5,10,W/B,4005
+2014-10-29,504,15:27:00,Wednesday,Queen and Brooklyn,Mechanical,13,17,W/B,4060
+2014-10-29,508,15:50:00,Wednesday,508 LAKESHORE,General Delay,20,10,B/W,
+2014-10-29,506,16:00:00,Wednesday,506 CARLTON,General Delay,20,10,B/W,
+2014-10-29,501,16:30:00,Wednesday,QUEEN e. AT BROOKLYN,Held By,8,15,W/B,4251
+2014-10-29,501,17:49:00,Wednesday,Humber Loop to Connaught,General Delay,7,12,E/B,4227
+2014-10-29,510,17:55:00,Wednesday,Spadina station,Mechanical,2,4,S/B,4020
+2014-10-29,501,19:20:00,Wednesday,QUEEN west of BAY.,Investigation,26,34,W/B,4201
+2014-10-29,509,20:30:00,Wednesday,Queens Quay and Bay,Held By,6,12,W/B,4179
+2014-10-29,501,21:57:00,Wednesday,Queen St. East and Sherbourne St.,Investigation,26,32,E/B,4234
+2014-10-29,512,22:53:00,Wednesday,St Clair West Station,Investigation,9,18,W/B,4198
+2014-10-30,504,02:18:00,Thursday,Queen St. East and Broadview Ave,Held By,10,28,W/B,4121
+2014-10-30,301,02:19:00,Thursday,Queen St. East and Broadview Ave.,Held By,9,18,W/B,4223
+2014-10-30,506,05:20:00,Thursday,Parliament and Gerrard,Mechanical,6,12,W/B,4017
+2014-10-30,510,05:44:00,Thursday,Spadina and King,Mechanical,15,30,N/B,4194
+2014-10-30,501,06:01:00,Thursday,Queen and Connaught,Mechanical,5,10,E/B,4248
+2014-10-30,504,06:40:00,Thursday,Roncesvalles and Highpark,Mechanical,13,16,E/B,4147
+2014-10-30,501,07:07:00,Thursday,Queen at Connaught,Late Leaving Garage,2,5,W/B,4238
+2014-10-30,502,07:16:00,Thursday,McCaul and Stephanie,Emergency Services,12,24,E/B,4111
+2014-10-30,510,07:37:00,Thursday,Spadina/King,Late Leaving Garage,3,5,N/B,4034
+2014-10-30,504,07:49:00,Thursday,King and Shaw,Diversion,50,53,W/B,4024
+2014-10-30,501,08:29:00,Thursday,Queen and Silverbirch,Investigation,40,45,E/B,4248
+2014-10-30,501,10:15:00,Thursday,"Queen Street East, Westbound at Bathurst",Held By,15,20,W/B,4202
+2014-10-30,501,12:50:00,Thursday,Humber Loop to Neville Park,General Delay,12,18,E/B,4227
+2014-10-30,501,14:11:00,Thursday,QUEEN e. AT EMPIRE.,Investigation,27,33,W/B,4217
+2014-10-30,502,14:11:00,Thursday,QUEEN AT EMPIRE.,Investigation,27,41,W/B,4120
+2014-10-30,510,15:39:00,Thursday,Spadina/King,Investigation,21,27,S/B,4400
+2014-10-30,506,16:00:00,Thursday,506 CARLTON,General Delay,20,10,B/W,
+2014-10-30,505,16:00:00,Thursday,Dundas west station to Broadview,General Delay,12,8,B/W,
+2014-10-30,502,16:10:00,Thursday,QUEEN W. AT ST. PATRICK,Held By,12,26,E/B,4037
+2014-10-30,501,16:10:00,Thursday,QUEEN W. AT ST. PATRICK,Investigation,13,20,E/B,4246
+2014-10-30,501,16:55:00,Thursday,Westbound at Palmerston on Queen Street East,General Delay,9,14,W/B,4221
+2014-10-30,505,19:30:00,Thursday,McCaul,Held By,5,10,S/B,4076
+2014-10-30,506,21:15:00,Thursday,St. GEORGE and COLLEGE,Held By,15,20,E/B,4018
+2014-10-30,506,23:20:00,Thursday,LANSDOWNE LOOP,Held By,10,10,E/B,4113
+2014-10-30,506,23:20:00,Thursday,LANSDOWNE LOOP,Held By,10,20,E/B,4001
+2014-10-30,501,23:50:00,Thursday,Queen St West and Beaconsfield Rd.,Held By,5,14,W/B,4031
+2014-10-31,505,00:50:00,Friday,Broadview station,Mechanical,12,24,W/B,4137
+2014-10-31,506,06:17:00,Friday,Yonge and College,Emergency Services,15,21,E/B,4011
+2014-10-31,509,06:39:00,Friday,Queens Quay and York,Mechanical,5,10,W/B,4103
+2014-10-31,506,08:02:00,Friday,Ontario and carlton,Mechanical,4,8,W/B,4037
+2014-10-31,501,08:12:00,Friday,Humber Loop,Mechanical,2,5,E/B,4239
+2014-10-31,504,08:31:00,Friday,King and Roncesvalles,Mechanical,2,4,W/B,4221
+2014-10-31,509,08:37:00,Friday,Queens Quay west of Spadina,Investigation,6,11,W/B,4079
+2014-10-31,501,08:38:00,Friday,Queen Street West at Palmerston,General Delay,7,12,W/B,4207
+2014-10-31,512,09:16:00,Friday,St Clair and Vaughan Rd,Held By,5,8,W/B,4138
+2014-10-31,501,09:22:00,Friday,Queen Street West at Palmerston,General Delay,15,20,W/B,4212
+2014-10-31,504,10:15:00,Friday,King and Roncesvalles,Mechanical,4,6,W/B,4175
+2014-10-31,501,10:16:00,Friday,Queen and Yonge,Emergency Services,8,12,E/B,4217
+2014-10-31,504,11:04:00,Friday,Broadview and Gerrard,Investigation,6,10,E/B,4061
+2014-10-31,510,12:28:00,Friday,Spadina Station,Mechanical,2,4,S/B,4145
+2014-10-31,501,12:40:00,Friday,Humber Loop to Neville Loop,General Delay,12,18,B/W,4242
+2014-10-31,501,13:39:00,Friday,QUEEN E. AT WAVERLY.,Investigation,20,26,W/B,4215
+2014-10-31,506,13:55:00,Friday,JARVIS and CARLTON,Mechanical,5,10,E/B,4121
+2014-10-31,505,14:50:00,Friday,sherborne & Gerarrd,General Delay,6,12,E/B,4082
+2014-10-31,501,15:45:00,Friday,Queens Street West at Palmerston,General Delay,7,12,W/B,4235
+2014-10-31,506,16:00:00,Friday,506 CARLTON,General Delay,20,10,B/W,
+2014-10-31,506,16:16:00,Friday,MAIN STATION,Emergency Services,24,29,W/B,4045
+2014-10-31,506,16:23:00,Friday,HOWARD PARK and RONCESVALLES,Mechanical,5,10,W/B,4132
+2014-10-31,504,16:30:00,Friday,Dundas West Station to Broadview Station,General Delay,0,0,W/B,
+2014-10-31,506,16:32:00,Friday,HIGH PARK LOOP,Mechanical,5,10,E/B,4011
+2014-10-31,501,16:38:00,Friday,Westbound Queen St. West at Palmerston,General Delay,13,18,W/B,4218
+2014-10-31,504,16:45:00,Friday,Victoria and Richmond,Investigation,45,48,W/B,4157
+2014-10-31,501,17:00:00,Friday,Westbound Queen St. West at Palmerston,General Delay,6,11,W/B,4230
+2014-10-31,506,17:08:00,Friday,COXWELL and GERRARD,Mechanical,5,10,E/B,4035
+2014-10-31,501,17:36:00,Friday,Queen St. West at Palmerston,General Delay,9,14,W/B,4212
+2014-10-31,506,18:10:00,Friday,MAIN STATION,Mechanical,5,10,W/B,4139
+2014-10-31,501,18:41:00,Friday,QUEENSWAY AT RONCESVALLES.,Mechanical,6,12,E/B,4202
+2014-10-31,506,19:00:00,Friday,PARLIAMENT and GERRARD,Mechanical,5,10,W/B,4110
+2014-10-31,506,19:10:00,Friday,BATHURST STATION,Held By,5,10,E/B,4105
+2014-10-31,506,19:40:00,Friday,BATHURST STATION,Held By,5,10,E/B,4164
+2014-10-31,505,19:40:00,Friday,university & dundas,Investigation,15,20,E/B,4086
+2014-10-31,512,19:44:00,Friday,Bathurst & Bloor,Mechanical,56,59,S/B,4144
+2014-10-31,505,20:00:00,Friday,Broadview & Danforth,Mechanical,8,21,W/B,4076
+2014-10-31,501,21:11:00,Friday,Queen and St. Patrick,Held By,4,9,B/W,4208
+2014-10-31,501,22:13:00,Friday,Queen and Simcoe,Held By,15,20,W/B,4249

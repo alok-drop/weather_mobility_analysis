@@ -11,10 +11,12 @@ Increased snowfall increases public transport delays.
       the two data sets and see if a relationship exists.  
     
    - Data Sources:
+   
 	- GOC Weather Data: https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
 	- TTC Delay Data(Bus and Streetcar): https://open.toronto.ca/catalogue/?search=ttc%20delay%20data&sort=score%20desc
   
    - Relevant IPython notebooks:
+   
 	- snow_delay.ipynb: Initial setup of data processing
 	- snow_delay_full_data.ipynb: Applying data processing workflow from 
 	  above notebook on 4 years of delay data. Initial results presented 

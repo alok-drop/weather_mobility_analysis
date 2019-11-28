@@ -18,4 +18,5 @@ Increased snowfall increases public transport delays.
    - Relevant IPython notebooks:
    
 	- snow_delay.ipynb: Initial setup of data processing and visualization workflow
-	- snow_delay_full_data.ipynb: Applying data processing workflow from the above notebook on 4 years of TTC delay data. 		  Initial results presented at the bottom of the notebook.
+	- snow_delay_full_data.ipynb: Applying data processing workflow from the above notebook 
+	  on 4 years of TTC delay data. Initial results presented at the bottom of the notebook.
